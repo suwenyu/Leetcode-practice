@@ -5,6 +5,7 @@
 ##### String
 1. [804. Unique Morse Code Words](problem/804.md)
 2. [657. Judge Route Circle](problem/657.md)
+3. [824. Goat Latin](problem/824.md)
 
 ##### Hash Table
 1. [771. Jewels and Stones](problem/771.md)
