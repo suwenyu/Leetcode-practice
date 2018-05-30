@@ -10,6 +10,7 @@
 ##### Hash Table
 1. [771. Jewels and Stones](problem/771.md)
 
+
 ##### SQL
 1. [595. Big Countries](problem/595.md)
 2. [627. Swap Salary](problem/627.md)
@@ -17,6 +18,7 @@
 ##### Bit Manipulation
 1. [461. Hamming Distance](problem/461.md)
 2. [693. Binary Number with Alternating Bits](problem/693.md)
+3. [136. Single Number](problem/136.md) **important**
 
 ##### Tree
 1. [617. Merge Two Binary Trees](problem/617.md)
