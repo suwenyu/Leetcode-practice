@@ -16,6 +16,7 @@
 
 ##### Bit Manipulation
 1. [461. Hamming Distance](problem/461.md)
+2. [693. Binary Number with Alternating Bits](problem/693.md)
 
 ##### Tree
 1. [617. Merge Two Binary Trees](problem/617.md)
