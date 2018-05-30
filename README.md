@@ -19,6 +19,7 @@
 1. [461. Hamming Distance](problem/461.md)
 2. [693. Binary Number with Alternating Bits](problem/693.md)
 3. [136. Single Number](problem/136.md) *
+4. [762. Prime Number of Set Bits in Binary Representation](problem/762.md)
 
 ##### Tree
 1. [617. Merge Two Binary Trees](problem/617.md)
