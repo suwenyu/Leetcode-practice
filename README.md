@@ -8,6 +8,9 @@
 3. [824. Goat Latin](problem/824.md)
 4. [521. Longest Uncommon Subsequence I](problem/521.md)
 
+##### Array
+1. [485. Max Consecutive Ones](problem/485.md)
+
 ##### Hash Table
 1. [771. Jewels and Stones](problem/771.md)
 
