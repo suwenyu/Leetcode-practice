@@ -6,10 +6,10 @@
 1. [804. Unique Morse Code Words](problem/804.md)
 2. [657. Judge Route Circle](problem/657.md)
 3. [824. Goat Latin](problem/824.md)
+4. [521. Longest Uncommon Subsequence I](problem/521.md)
 
 ##### Hash Table
 1. [771. Jewels and Stones](problem/771.md)
-
 
 ##### SQL
 1. [595. Big Countries](problem/595.md)
@@ -25,3 +25,7 @@
 
 ##### Math
 1. [728. Self Dividing Numbers](problem/728.md)
+
+##### Nim Game
+1. [292. Nim Game](problem/292.md)
+
