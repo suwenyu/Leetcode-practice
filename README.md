@@ -2,11 +2,16 @@
 
 ### Problem List
 
+##### Math
+1. [812. Largest Triangle Area](problem/812.md)
+2. [258. Add Digits](problem/258.md)
+
 ##### String
 1. [804. Unique Morse Code Words](problem/804.md)
 2. [657. Judge Route Circle](problem/657.md)
 3. [824. Goat Latin](problem/824.md)
 4. [521. Longest Uncommon Subsequence I](problem/521.md)
+5. [520. Detect Capital](problem/520.md)
 
 ##### Array
 1. [485. Max Consecutive Ones](problem/485.md)
@@ -32,4 +37,10 @@
 
 ##### Nim Game
 1. [292. Nim Game](problem/292.md)
+
+##### Back tracking
+1. [784. Letter Case Permutation](problem/784.md)
+
+##### Depth First Search
+1. [695. Max Area of Island](problem/695.md)
 
