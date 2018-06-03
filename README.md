@@ -5,6 +5,8 @@
 ##### Math
 1. [812. Largest Triangle Area](problem/812.md)
 2. [258. Add Digits](problem/258.md)
+3. [171. Excel Sheet Column Number](problem/171.md)
+4. [13. Roman to Integer](problem/13.md)
 
 ##### String
 1. [804. Unique Morse Code Words](problem/804.md)
@@ -22,6 +24,7 @@
 2. [283. Move Zeroes](problem/283.md)
 3. [448. Find All Numbers Disappeared in an Array](problem/448.md)
 4. [717. 1-bit and 2-bit Characters](problem/717.md)
+5. [349. Intersection of Two Arrays](problem/349.md)
 
 ##### Hash Table
 1. [771. Jewels and Stones](problem/771.md)
