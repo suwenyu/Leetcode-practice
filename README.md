@@ -7,6 +7,9 @@
 2. [258. Add Digits](problem/258.md)
 3. [171. Excel Sheet Column Number](problem/171.md)
 4. [13. Roman to Integer](problem/13.md)
+5. [492. Construct the Rectangle](problem/492.md)
+6. [728. Self Dividing Numbers](problem/728.md)
+7. [453. Minimum Moves to Equal Array Elements](problem/453.md) *
 
 ##### String
 1. [804. Unique Morse Code Words](problem/804.md)
@@ -18,6 +21,7 @@
 7. [788. Rotated Digits](problem/788.md)
 8. [696. Count Binary Substrings](problem/696.md) *
 9. [819. Most Common Word](problem/819.md)
+10. [383. Ransom Note](problem/383.md)
 
 ##### Array
 1. [485. Max Consecutive Ones](problem/485.md)
@@ -25,6 +29,9 @@
 3. [448. Find All Numbers Disappeared in an Array](problem/448.md)
 4. [717. 1-bit and 2-bit Characters](problem/717.md)
 5. [349. Intersection of Two Arrays](problem/349.md)
+6. [169. Majority Element](problem/169.md)
+7. [830. Positions of Large Groups](problem/830.md)
+8. [217. Contains Duplicate](problem/217.md)
 
 ##### Hash Table
 1. [771. Jewels and Stones](problem/771.md)
@@ -44,9 +51,6 @@
 ##### Tree
 1. [617. Merge Two Binary Trees](problem/617.md)
 
-##### Math
-1. [728. Self Dividing Numbers](problem/728.md)
-
 ##### BrainTeaser
 1. [292. Nim Game](problem/292.md)
 
@@ -56,6 +60,14 @@
 ##### Back tracking
 1. [784. Letter Case Permutation](problem/784.md)
 
+##### Sort
+1. [242. Valid Anagram](problem/242.md)
+
+##### Greedy
+1. [122. Best Time to Buy and Sell Stock II](problem/122.md)
+
 ##### Depth First Search
 1. [695. Max Area of Island](problem/695.md)
 2. [690. Employee Importance](problem/690.md) *
+3. [733. Flood Fill](problem/733.md)
+
