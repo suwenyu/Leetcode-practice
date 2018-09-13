@@ -51,7 +51,7 @@
 2. [206. Reverse Linked List](problem/206.md) *
 3. [21. Merge Two Sorted Lists](problem/21.md) *
 4. [876. Middle of the Linked List](problem/876.md)
-5. [817. Linked List Components] *
+5. [817. Linked List Components](problem/817.md) *
 
 ##### Tree
 1. [617. Merge Two Binary Trees](problem/617.md)
