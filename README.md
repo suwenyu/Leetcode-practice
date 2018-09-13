@@ -32,9 +32,7 @@
 6. [169. Majority Element](problem/169.md)
 7. [830. Positions of Large Groups](problem/830.md)
 8. [217. Contains Duplicate](problem/217.md)
-
-##### Hash Table
-1. [771. Jewels and Stones](problem/771.md)
+9. [167. Two Sum II - Input array is sorted](problem/167.md) *
 
 ##### SQL
 1. [595. Big Countries](problem/595.md)
@@ -48,6 +46,13 @@
 4. [762. Prime Number of Set Bits in Binary Representation](problem/762.md)
 5. [371. Sum of Two Integers](problem/371.md) * 
 
+##### Linked List
+1. [237. Delete Node in a Linked List](problem/237.md) *
+2. [206. Reverse Linked List](problem/206.md) *
+3. [21. Merge Two Sorted Lists](problem/21.md) *
+4. [876. Middle of the Linked List](problem/876.md)
+5. [817. Linked List Components] *
+
 ##### Tree
 1. [617. Merge Two Binary Trees](problem/617.md)
 
@@ -55,13 +60,16 @@
 1. [292. Nim Game](problem/292.md)
 
 ##### Hash Table
-1. [389. Find the Difference](problem/389.md)
+1. [771. Jewels and Stones](problem/771.md)
+2. [389. Find the Difference](problem/389.md)
+3. [387. First Unique Character in a String](problem/387.md)
 
 ##### Back tracking
 1. [784. Letter Case Permutation](problem/784.md)
 
 ##### Sort
 1. [242. Valid Anagram](problem/242.md)
+2. [506. Relative Ranks](problem/506.md) *
 
 ##### Greedy
 1. [122. Best Time to Buy and Sell Stock II](problem/122.md)
