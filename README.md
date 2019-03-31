@@ -79,3 +79,21 @@
 2. [690. Employee Importance](problem/690.md) *
 3. [733. Flood Fill](problem/733.md)
 
+
+##### Google Interview
+1. [929. Unique Email Addresses](problem/929.md)
+2. [463. Island Perimeter](problem/463.md)
+3. [231. Power of Two](problem/231.md)
+4. [326. Power of Three](problem/326.md)
+
+##### Dynamic Programming
+1. [53. Maximum Subarray](problem/53.md)
+2. [121. Best Time to Buy and Sell Stock](problem/121.md)
+3. [746. Min Cost Climbing Stairs](problem/746.md)
+4. [70. Climbing Stairs](problem/70.md)
+5. [198. House Robber](problem/198.md)
+
+##### Divide and Conquer
+1. [932. Beautiful Array](problem/932.md) *
+
+
