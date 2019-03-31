@@ -94,6 +94,7 @@
 5. [198. House Robber](problem/198.md)
 6. [303. Range Sum Query - Immutable](problem/303.md) *
 7. [338. Counting Bits](problem/338.md) *
+8. [877. Stone Game](problem/877.md) **
 
 ##### Divide and Conquer
 1. [932. Beautiful Array](problem/932.md) **
