@@ -93,6 +93,7 @@
 4. [70. Climbing Stairs](problem/70.md)
 5. [198. House Robber](problem/198.md)
 6. [303. Range Sum Query - Immutable](problem/303.md) *
+7. [338. Counting Bits](problem/338.md) *
 
 ##### Divide and Conquer
 1. [932. Beautiful Array](problem/932.md) **
