@@ -22,6 +22,11 @@
 8. [696. Count Binary Substrings](problem/696.md) *
 9. [819. Most Common Word](problem/819.md)
 10. [383. Ransom Note](problem/383.md)
+11. [893. Groups of Special-Equivalent Strings](problem/893.md) **
+12. [917. Reverse Only Letters](problem/917.md)
+13. [606. Construct String from Binary Tree](problem/606.md) *
+14. [541. Reverse String II](problem/541.md)
+15. [345. Reverse Vowels of a String](problem/345.md)
 
 ##### Array
 1. [485. Max Consecutive Ones](problem/485.md)
