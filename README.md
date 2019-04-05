@@ -63,6 +63,7 @@
 1. [771. Jewels and Stones](problem/771.md)
 2. [389. Find the Difference](problem/389.md)
 3. [387. First Unique Character in a String](problem/387.md)
+4. [961. N-Repeated Element in Size 2N Array](problem/961.md)
 
 ##### Back tracking
 1. [784. Letter Case Permutation](problem/784.md)
