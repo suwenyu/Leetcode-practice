@@ -27,6 +27,9 @@
 13. [606. Construct String from Binary Tree](problem/606.md) *
 14. [541. Reverse String II](problem/541.md)
 15. [345. Reverse Vowels of a String](problem/345.md)
+16. [38. Count and Say](problem/38.md)
+17. [125. Valid Palindrome](problem/125.md)
+18. [680. Valid Palindrome II](problem/680.md)
 
 ##### Array
 1. [485. Max Consecutive Ones](problem/485.md)
@@ -38,6 +41,14 @@
 7. [830. Positions of Large Groups](problem/830.md)
 8. [217. Contains Duplicate](problem/217.md)
 9. [167. Two Sum II - Input array is sorted](problem/167.md) *
+10. [1002. Find Common Characters](problem/1002.md) *
+11. [896. Monotonic Array](problem/896.md)
+12. [268. Missing Number](problem/268.md)
+13. [27. Remove Element](problem/27.md)
+14. [64. Minimum Path Sum](problem/64.md)
+15. [62. Unique Paths](problem/62.md)
+16. [347. Top K Frequent Elements](problem/347.md)
+17. [384. Shuffle an Array](problem/384.md)
 
 ##### SQL
 1. [595. Big Countries](problem/595.md)
@@ -101,6 +112,8 @@
 6. [303. Range Sum Query - Immutable](problem/303.md) *
 7. [338. Counting Bits](problem/338.md) *
 8. [877. Stone Game](problem/877.md) **
+9. [931. Minimum Falling Path Sum](problem/931.md)
+10. [983. Minimum Cost For Tickets](problem/983.md) *
 
 ##### Divide and Conquer
 1. [932. Beautiful Array](problem/932.md) **
