@@ -10,6 +10,7 @@
 5. [492. Construct the Rectangle](problem/492.md)
 6. [728. Self Dividing Numbers](problem/728.md)
 7. [453. Minimum Moves to Equal Array Elements](problem/453.md) *
+8. [172. Factorial Trailing Zeroes](problem/172.md) *
 
 ##### String
 1. [804. Unique Morse Code Words](problem/804.md)
@@ -30,6 +31,7 @@
 16. [38. Count and Say](problem/38.md)
 17. [125. Valid Palindrome](problem/125.md)
 18. [680. Valid Palindrome II](problem/680.md)
+19. [20. Valid Parentheses](problem/20.md)
 
 ##### Array
 1. [485. Max Consecutive Ones](problem/485.md)
@@ -49,6 +51,7 @@
 15. [62. Unique Paths](problem/62.md)
 16. [347. Top K Frequent Elements](problem/347.md)
 17. [384. Shuffle an Array](problem/384.md)
+18. [88. Merge Sorted Array](problem/88.md) *
 
 ##### SQL
 1. [595. Big Countries](problem/595.md)
@@ -102,6 +105,45 @@
 2. [463. Island Perimeter](problem/463.md)
 3. [231. Power of Two](problem/231.md)
 4. [326. Power of Three](problem/326.md)
+5. [844. Backspace String Compare](problem/844.md) **
+6. [739. Daily Temperatures](problem/739.md) *
+7. [535. Encode and Decode TinyURL](problem/535.md)
+8. [22. Generate Parentheses](problem/22.md) **
+9. [253. Meeting Rooms II](problem/253.md) *
+10. [560. Subarray Sum Equals K](problem/560.md) **
+11. [200. Number of Islands](problem/200.md) *
+12. [234. Palindrome Linked List](problem/234.md) **
+13. [1. Two Sum](problem/1.md)
+14. [3. Longest Substring Without Repeating Characters](problem/3.md) *
+15. [346. Moving Average from Data Stream](problem/346.md)
+16. [811. Subdomain Visit Count](problem/811.md)
+17. [359. Logger Rate Limiter](problem/359.md)
+18. [252. Meeting Rooms](problem/252.md)
+19. [482. License Key Formatting](problem/482.md) *
+20. [734. Sentence Similarity](problem/734.md) *
+21. [849. Maximize Distance to Closest Person](problem/849.md)
+22. [205. Isomorphic Strings](problem/22.md) *
+23. [246. Strobogrammatic Number](problem/246.md)
+24. [941. Valid Mountain Array](problem/941.md) *
+25. [69. Sqrt(x)](problem/69.md) **
+26. [686. Repeated String Match](problem/686.md)
+27. [157. Read N Characters Given Read4](problem/157.md) *
+28. [1057. Campus Bikes](problem/1057.md) *
+29. [484. Find Permutation](problem/484.md) *
+30. [280. Wiggle Sort](problem/280.md)
+31. [939. Minimum Area Rectangle](problem/939.md) *
+32. [723. Candy Crush](problem/723.md) *
+33. [702. Search in a Sorted Array of Unknown Size](problem/702.md) *
+34. [1055. Shortest Way to Form String](problem/1055.md) **
+35. [175. Combine Two Tables](problem/175.md)
+
+##### LinkedIn Interview
+1. [243. Shortest Word Distance](problem/243.md)
+2. [104. Maximum Depth of Binary Tree](problem/104.md)
+3. [101. Symmetric Tree](problem/101.md) *
+
+##### Amazon Interview
+1. [937. Reorder Log Files](problem/937.md) *
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
@@ -118,4 +160,5 @@
 ##### Divide and Conquer
 1. [932. Beautiful Array](problem/932.md) **
 
-
+##### Class
+1. [155. Min Stack](problem/155.md) *
