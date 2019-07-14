@@ -136,6 +136,10 @@
 33. [702. Search in a Sorted Array of Unknown Size](problem/702.md) *
 34. [1055. Shortest Way to Form String](problem/1055.md) **
 35. [175. Combine Two Tables](problem/175.md)
+36. [947. Most Stones Removed with Same Row or Column](problem/947.md) **
+37. [399. Evaluate Division](problem/399.md) *
+38. [833. Find And Replace in String](problem/833.md) *
+39. [543. Diameter of Binary Tree](problem/543.md) *
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md)
