@@ -73,6 +73,8 @@
 5. [817. Linked List Components](problem/817.md) *
 6. [160. Intersection of Two Linked Lists](problem/160.md)
 7. [148. Sort List](problem/148.md) *
+8. [141. Linked List Cycle](problem/141.md)
+9. [142. Linked List Cycle II](problem/142.md)
 
 ##### Tree
 1. [617. Merge Two Binary Trees](problem/617.md)
