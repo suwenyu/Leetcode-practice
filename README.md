@@ -145,6 +145,14 @@
 37. [399. Evaluate Division](problem/399.md) *
 38. [833. Find And Replace in String](problem/833.md) *
 39. [543. Diameter of Binary Tree](problem/543.md) *
+40. [524. Longest Word in Dictionary through Deleting](problem/524.md) *
+41. [222. Count Complete Tree Nodes](problem/222.md) **
+42. [1011. Capacity To Ship Packages Within D Days](problem/1011.md) **
+
+##### Facebook
+1. [67. Add Binary](problem/67.md)
+2. [438. Find All Anagrams in a String](problem/438.md) *
+3. [238. Product of Array Except Self](problem/238.md) **
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md)
