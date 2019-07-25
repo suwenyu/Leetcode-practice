@@ -175,6 +175,9 @@
 10. [983. Minimum Cost For Tickets](problem/983.md) *
 11. [5. Longest Palindromic Substring](problem/5.md) *
 12. [152. Maximum Product Subarray](problem/152.md) *
+13. [322. Coin Change](problem/322.md)
+14. [221. Maximal Square](problem/221.md)
+15. [139. Word Break](problem/139.md) **
 
 ##### Divide and Conquer
 1. [932. Beautiful Array](problem/932.md) **
