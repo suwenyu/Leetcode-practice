@@ -153,6 +153,11 @@
 1. [67. Add Binary](problem/67.md)
 2. [438. Find All Anagrams in a String](problem/438.md) *
 3. [238. Product of Array Except Self](problem/238.md) **
+4. [953. Verifying an Alien Dictionary](problem/953.md)
+5. [350. Intersection of Two Arrays II](problem/350.md)
+6. [270. Closest Binary Search Tree Value](problem/270.md)
+7. [986. Interval List Intersections](problem/986.md)
+8. [621. Task Scheduler](problem/621.md) *
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md)
