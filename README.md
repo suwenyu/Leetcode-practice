@@ -158,6 +158,11 @@
 6. [270. Closest Binary Search Tree Value](problem/270.md)
 7. [986. Interval List Intersections](problem/986.md)
 8. [621. Task Scheduler](problem/621.md) *
+9. [597. Friend Requests I: Overall Acceptance Rate](problem/597.md) **
+10. [278. First Bad Version](problem/278.md)
+11. [885. Spiral Matrix III](problem/885.md)
+12. [311. Sparse Matrix Multiplication](problem/311.md)
+13. [721. Accounts Merge](problem/721.md) **
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md)
