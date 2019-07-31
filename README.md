@@ -163,6 +163,9 @@
 11. [885. Spiral Matrix III](problem/885.md)
 12. [311. Sparse Matrix Multiplication](problem/311.md)
 13. [721. Accounts Merge](problem/721.md) **
+14. [408. Valid Word Abbreviation](problem/408.md)
+15. [94. Binary Tree Inorder Traversal](problem/94.md) *
+16. [1086. High Five](problem/16.md) *
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md)
