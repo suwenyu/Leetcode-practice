@@ -166,6 +166,8 @@
 14. [408. Valid Word Abbreviation](problem/408.md)
 15. [94. Binary Tree Inorder Traversal](problem/94.md) *
 16. [1086. High Five](problem/16.md) *
+17. [865. Smallest Subtree with all the Deepest Nodes](problem/865.md) *
+18. [348. Design Tic-Tac-Toe](problem/348.md) **
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md)
@@ -174,6 +176,18 @@
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
+2. [703. Kth Largest Element in a Stream](problem/703.md)
+3. [994. Rotting Oranges](problem/994.md) *
+4. [763. Partition Labels](problem/763.md) *
+5. [540. Single Element in a Sorted Array](problem/540.md)
+6. [635. Design Log Storage System](problem/635.md) **
+7. [230. Kth Smallest Element in a BST](problem/230.md) 
+8. [12. Integer to Roman](problem/12.md)
+9. [503. Next Greater Element II](problem/503.md) *
+
+##### Microsoft
+1. [1114. Print in Order](problem/1114.md) **
+2. [704. Binary Search](problem/704.md)
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
