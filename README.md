@@ -57,6 +57,7 @@
 1. [595. Big Countries](problem/595.md)
 2. [627. Swap Salary](problem/627.md)
 3. [626. Exchange Seats](problem/626.md) *
+4. [607. Sales Person](problem/607.md) **
 
 ##### Bit Manipulation
 1. [461. Hamming Distance](problem/461.md)
@@ -79,6 +80,7 @@
 ##### Tree
 1. [617. Merge Two Binary Trees](problem/617.md)
 2. [173. Binary Search Tree Iterator](problem/173.md)
+3. [100. Same Tree](problem/100.md)
 
 ##### BrainTeaser
 1. [292. Nim Game](problem/292.md)
@@ -148,6 +150,11 @@
 40. [524. Longest Word in Dictionary through Deleting](problem/524.md) *
 41. [222. Count Complete Tree Nodes](problem/222.md) **
 42. [1011. Capacity To Ship Packages Within D Days](problem/1011.md) **
+43. [299. Bulls and Cows](problem/299.md)
+44. [459. Repeated Substring Pattern](problem/459.md) **
+45. [544. Output Contest Matches](problem/544.md) *
+46. [979. Distribute Coins in Binary Tree](problem/979.md) *
+47. [394. Decode String](problem/47.md) **
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
@@ -168,6 +175,8 @@
 16. [1086. High Five](problem/16.md) *
 17. [865. Smallest Subtree with all the Deepest Nodes](problem/865.md) *
 18. [348. Design Tic-Tac-Toe](problem/348.md) **
+19. [215. Kth Largest Element in an Array](problem/215.md)
+20. [211. Add and Search Word - Data structure design](problem/219.md) *
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md)
