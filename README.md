@@ -193,6 +193,8 @@
 7. [230. Kth Smallest Element in a BST](problem/230.md) 
 8. [12. Integer to Roman](problem/12.md)
 9. [503. Next Greater Element II](problem/503.md) *
+10. [1099. Two Sum Less Than K](problem/1099.md)
+11. [637. Average of Levels in Binary Tree](problem/637.md)
 
 ##### Microsoft
 1. [1114. Print in Order](problem/1114.md) **
