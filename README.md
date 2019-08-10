@@ -129,7 +129,7 @@
 19. [482. License Key Formatting](problem/482.md) *
 20. [734. Sentence Similarity](problem/734.md) *
 21. [849. Maximize Distance to Closest Person](problem/849.md)
-22. [205. Isomorphic Strings](problem/22.md) *
+22. [205. Isomorphic Strings](problem/205.md) *
 23. [246. Strobogrammatic Number](problem/246.md)
 24. [941. Valid Mountain Array](problem/941.md) *
 25. [69. Sqrt(x)](problem/69.md) **
