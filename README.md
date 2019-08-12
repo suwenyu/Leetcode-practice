@@ -195,6 +195,9 @@
 9. [503. Next Greater Element II](problem/503.md) *
 10. [1099. Two Sum Less Than K](problem/1099.md)
 11. [637. Average of Levels in Binary Tree](problem/637.md)
+12. [49. Group Anagrams](problem/49.md)
+13. [79. Word Search](problem/79.md) *
+14. [380. Insert Delete GetRandom O(1)](problem/380.md) **
 
 ##### Microsoft
 1. [1114. Print in Order](problem/1114.md) **
