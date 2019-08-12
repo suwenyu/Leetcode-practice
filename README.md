@@ -155,6 +155,9 @@
 45. [544. Output Contest Matches](problem/544.md) *
 46. [979. Distribute Coins in Binary Tree](problem/979.md) *
 47. [394. Decode String](problem/47.md) **
+48. [809. Expressive Words](problem/809.md) *
+49. [410. Split Array Largest Sum](problem/410.md) ***
+50. [15. 3Sum](problem/15.md)
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
@@ -198,6 +201,7 @@
 12. [49. Group Anagrams](problem/49.md)
 13. [79. Word Search](problem/79.md) *
 14. [380. Insert Delete GetRandom O(1)](problem/380.md) **
+15. [207. Course Schedule](problem/207.md) **
 
 ##### Microsoft
 1. [1114. Print in Order](problem/1114.md) **
