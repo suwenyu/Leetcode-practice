@@ -158,6 +158,8 @@
 48. [809. Expressive Words](problem/809.md) *
 49. [410. Split Array Largest Sum](problem/410.md) ***
 50. [15. 3Sum](problem/15.md)
+51. [56. Merge Intervals](problem/56.md)
+52. [753. Cracking the Safe](problem/753.md) ****
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
@@ -185,6 +187,7 @@
 1. [243. Shortest Word Distance](problem/243.md)
 2. [104. Maximum Depth of Binary Tree](problem/104.md)
 3. [101. Symmetric Tree](problem/101.md) *
+4. [716. Max Stack](problem/716.md) **
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
@@ -202,10 +205,13 @@
 13. [79. Word Search](problem/79.md) *
 14. [380. Insert Delete GetRandom O(1)](problem/380.md) **
 15. [207. Course Schedule](problem/207.md) **
+16. [435. Non-overlapping Intervals](problem/435.md)
+17. [146. LRU Cache](problem/146.md) **
 
 ##### Microsoft
 1. [1114. Print in Order](problem/1114.md) **
 2. [704. Binary Search](problem/704.md)
+3. [72. Edit Distance](problem/72.md) **
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
