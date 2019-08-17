@@ -209,6 +209,7 @@
 17. [146. LRU Cache](problem/146.md) **
 18. [572. Subtree of Another Tree](problem/572.md) **
 19. [23. Merge k Sorted Lists](problem/23.md) *
+20. [42. Trapping Rain Water](problem/42.md) **
 
 ##### Microsoft
 1. [1114. Print in Order](problem/1114.md) **
