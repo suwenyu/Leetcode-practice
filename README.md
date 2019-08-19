@@ -162,6 +162,7 @@
 52. [753. Cracking the Safe](problem/753.md) ****
 53. [981. Time Based Key-Value Store](problem/981.md) **
 54. [1007. Minimum Domino Rotations For Equal Row](problem/1007.md) *
+55. [616. Add Bold Tag in String](problem/616.md) **
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
