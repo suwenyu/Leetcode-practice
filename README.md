@@ -191,6 +191,10 @@
 2. [104. Maximum Depth of Binary Tree](problem/104.md)
 3. [101. Symmetric Tree](problem/101.md) *
 4. [716. Max Stack](problem/716.md) **
+5. [50. Pow(x, n)](problem/50.md) *
+6. [273. Integer to English Words](problem/273.md) *
+7. [859. Buddy Strings](problem/859.md)
+8. [364. Nested List Weight Sum II](problem/364.md) **
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
@@ -215,6 +219,10 @@
 20. [42. Trapping Rain Water](problem/42.md) **
 21. [127. Word Ladder](problem/127.md) **
 22. [126. Word Ladder II](problem/126.md) *****
+23. [341. Flatten Nested List Iterator](problem/341.md) **
+24. [957. Prison Cells After N Days](problem/957.md) *
+25. [314. Binary Tree Vertical Order Traversal](problem/314.md) *****
+26. [973. K Closest Points to Origin](problem/973.md)
 
 ##### Microsoft
 1. [1114. Print in Order](problem/1114.md) **
