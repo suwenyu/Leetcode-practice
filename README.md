@@ -163,6 +163,8 @@
 53. [981. Time Based Key-Value Store](problem/981.md) **
 54. [1007. Minimum Domino Rotations For Equal Row](problem/1007.md) *
 55. [616. Add Bold Tag in String](problem/616.md) **
+56. [159. Longest Substring with At Most Two Distinct Characters](problem/159.md) **
+57. [904. Fruit Into Baskets](problem/904.md)
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
