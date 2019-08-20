@@ -223,6 +223,10 @@
 24. [957. Prison Cells After N Days](problem/957.md) *
 25. [314. Binary Tree Vertical Order Traversal](problem/314.md) *****
 26. [973. K Closest Points to Origin](problem/973.md)
+27. [692. Top K Frequent Words](problem/692.md)
+28. [165. Compare Version Numbers](problem/165.md) *
+29. [295. Find Median from Data Stream](problem/295.md) **
+30. [269. Alien Dictionary](problem/269.md) *****
 
 ##### Microsoft
 1. [1114. Print in Order](problem/1114.md) **
