@@ -200,6 +200,7 @@
 8. [364. Nested List Weight Sum II](problem/364.md) **
 9. [339. Nested List Weight Sum](problem/339.md)
 10. [256. Paint House](problem/256.md) *
+11. [605. Can Place Flowers](problem/605.md)
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
@@ -234,6 +235,8 @@
 30. [269. Alien Dictionary](problem/269.md) *****
 31. [7. Reverse Integer](problem/7.md) *
 32. [11. Container With Most Water](problem/11.md) *
+33. [33. Search in Rotated Sorted Array](problem/33.md) *
+34. [153. Find Minimum in Rotated Sorted Array](problem/153.md) *
 
 ##### Uber
 1. [68. Text Justification](problem/68.md) *****
