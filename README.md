@@ -187,6 +187,7 @@
 18. [348. Design Tic-Tac-Toe](problem/348.md) **
 19. [215. Kth Largest Element in an Array](problem/215.md)
 20. [211. Add and Search Word - Data structure design](problem/219.md) *
+21. [31. Next Permutation](problem/31.md) **
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md)
@@ -197,6 +198,8 @@
 6. [273. Integer to English Words](problem/273.md) *
 7. [859. Buddy Strings](problem/859.md)
 8. [364. Nested List Weight Sum II](problem/364.md) **
+9. [339. Nested List Weight Sum](problem/339.md)
+10. [256. Paint House](problem/256.md) *
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
