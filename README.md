@@ -232,6 +232,11 @@
 28. [165. Compare Version Numbers](problem/165.md) *
 29. [295. Find Median from Data Stream](problem/295.md) **
 30. [269. Alien Dictionary](problem/269.md) *****
+31. [7. Reverse Integer](problem/7.md) *
+32. [11. Container With Most Water](problem/11.md) *
+
+##### Uber
+1. [68. Text Justification](problem/68.md) *****
 
 ##### Microsoft
 1. [1114. Print in Order](problem/1114.md) **
