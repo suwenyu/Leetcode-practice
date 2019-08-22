@@ -188,6 +188,7 @@
 19. [215. Kth Largest Element in an Array](problem/215.md)
 20. [211. Add and Search Word - Data structure design](problem/219.md) *
 21. [31. Next Permutation](problem/31.md) **
+22. [162. Find Peak Element](problem/162.md) **
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md)
@@ -203,6 +204,8 @@
 11. [605. Can Place Flowers](problem/605.md)
 12. [170. Two Sum III - Data structure design](problem/170.md)
 13. [235. Lowest Common Ancestor of a Binary Search Tree](problem/235.md) *
+14. [156. Binary Tree Upside Down](problem/156.md) ***
+15. [671. Second Minimum Node In a Binary Tree](problem/671.md)
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
@@ -248,6 +251,7 @@
 2. [704. Binary Search](problem/704.md)
 3. [72. Edit Distance](problem/72.md) **
 4. [54. Spiral Matrix](problem/54.md) **
+5. [46. Permutations](problem/46.md) **
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
