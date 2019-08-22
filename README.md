@@ -201,6 +201,8 @@
 9. [339. Nested List Weight Sum](problem/339.md)
 10. [256. Paint House](problem/256.md) *
 11. [605. Can Place Flowers](problem/605.md)
+12. [170. Two Sum III - Data structure design](problem/170.md)
+13. [235. Lowest Common Ancestor of a Binary Search Tree](problem/235.md) *
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
