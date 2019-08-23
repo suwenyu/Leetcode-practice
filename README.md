@@ -165,6 +165,9 @@
 55. [616. Add Bold Tag in String](problem/616.md) **
 56. [159. Longest Substring with At Most Two Distinct Characters](problem/159.md) **
 57. [904. Fruit Into Baskets](problem/904.md)
+58. [57. Insert Interval](problem/57.md) *
+59. [975. Odd Even Jump](problem/975.md) ***
+60. [315. Count of Smaller Numbers After Self](problem/315.md) *****
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
@@ -246,6 +249,7 @@
 36. [103. Binary Tree Zigzag Level Order Traversal](problem/103.md)
 37. [124. Binary Tree Maximum Path Sum](problem/124.md) 
 38. [611. Valid Triangle Number](problem/611.md) **
+39. [17. Letter Combinations of a Phone Number](problem/17.md) *
 
 ##### Uber
 1. [68. Text Justification](problem/68.md) *****
