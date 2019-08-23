@@ -242,6 +242,10 @@
 32. [11. Container With Most Water](problem/11.md) *
 33. [33. Search in Rotated Sorted Array](problem/33.md) *
 34. [153. Find Minimum in Rotated Sorted Array](problem/153.md) *
+35. [340. Longest Substring with At Most K Distinct Characters](problem/340.md)
+36. [103. Binary Tree Zigzag Level Order Traversal](problem/103.md)
+37. [124. Binary Tree Maximum Path Sum](problem/124.md) 
+38. [611. Valid Triangle Number](problem/611.md) **
 
 ##### Uber
 1. [68. Text Justification](problem/68.md) *****
