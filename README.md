@@ -168,6 +168,7 @@
 58. [57. Insert Interval](problem/57.md) *
 59. [975. Odd Even Jump](problem/975.md) ***
 60. [315. Count of Smaller Numbers After Self](problem/315.md) *****
+61. [1021. Remove Outermost Parentheses](problem/1021.md) *
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
@@ -192,6 +193,7 @@
 20. [211. Add and Search Word - Data structure design](problem/219.md) *
 21. [31. Next Permutation](problem/31.md) **
 22. [162. Find Peak Element](problem/162.md) **
+23. [297. Serialize and Deserialize Binary Tree](problem/297.md) **
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md)
@@ -250,9 +252,15 @@
 37. [124. Binary Tree Maximum Path Sum](problem/124.md) 
 38. [611. Valid Triangle Number](problem/611.md) **
 39. [17. Letter Combinations of a Phone Number](problem/17.md) *
+40. [938. Range Sum of BST](problem/938.md)
+41. [223. Rectangle Area](problem/223.md) ***
 
 ##### Uber
 1. [68. Text Justification](problem/68.md) *****
+
+##### Adobe
+1. [1108. Defanging an IP Address](problem/1108.md)
+2. [669. Trim a Binary Search Tree](problem/669.md) *
 
 ##### Microsoft
 1. [1114. Print in Order](problem/1114.md) **
