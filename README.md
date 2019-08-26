@@ -213,6 +213,7 @@
 15. [671. Second Minimum Node In a Binary Tree](problem/671.md)
 16. [698. Partition to K Equal Sum Subsets](problem/698.md) **
 17. [416. Partition Equal Subset Sum](problem/416.md) **
+18. [366. Find Leaves of Binary Tree](problem/366.md) *
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
@@ -257,6 +258,9 @@
 40. [938. Range Sum of BST](problem/938.md)
 41. [223. Rectangle Area](problem/223.md) ***
 42. [14. Longest Common Prefix](problem/14.md) *
+43. [113. Path Sum II](problem/113.md) **
+44. [112. Path Sum](problem/112.md) 
+45. [437. Path Sum III](problem/437.md) *
 
 ##### Uber
 1. [68. Text Justification](problem/68.md) *****
