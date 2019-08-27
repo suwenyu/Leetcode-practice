@@ -42,7 +42,7 @@
 6. [169. Majority Element](problem/169.md)
 7. [830. Positions of Large Groups](problem/830.md)
 8. [217. Contains Duplicate](problem/217.md)
-9. [167. Two Sum II - Input array is sorted](problem/167.md) *
+9. [167. Two Sum II - Input array is sorted](problem/167.md)
 10. [1002. Find Common Characters](problem/1002.md) *
 11. [896. Monotonic Array](problem/896.md)
 12. [268. Missing Number](problem/268.md)
@@ -261,9 +261,12 @@
 43. [113. Path Sum II](problem/113.md) **
 44. [112. Path Sum](problem/112.md) 
 45. [437. Path Sum III](problem/437.md) *
+46. [78. Subsets](problem/78.md)
+47. [239. Sliding Window Maximum](problem/239.md) *****
 
 ##### Uber
 1. [68. Text Justification](problem/68.md) *****
+2. [130. Surrounded Regions](problem/130.md)
 
 ##### Adobe
 1. [1108. Defanging an IP Address](problem/1108.md)
@@ -275,6 +278,7 @@
 3. [72. Edit Distance](problem/72.md) **
 4. [54. Spiral Matrix](problem/54.md) **
 5. [46. Permutations](problem/46.md) **
+6. [445. Add Two Numbers II](problem/445.md) **
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
