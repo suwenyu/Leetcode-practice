@@ -264,6 +264,8 @@
 45. [437. Path Sum III](problem/437.md) *
 46. [78. Subsets](problem/78.md)
 47. [239. Sliding Window Maximum](problem/239.md) *****
+48. [74. Search a 2D Matrix](problem/74.md) *
+49. [208. Implement Trie (Prefix Tree)](problem/208.md)
 
 ##### Uber
 1. [68. Text Justification](problem/68.md) *****
@@ -280,6 +282,8 @@
 4. [54. Spiral Matrix](problem/54.md) **
 5. [46. Permutations](problem/46.md) **
 6. [445. Add Two Numbers II](problem/445.md) **
+7. [443. String Compression](problem/443.md)
+8. [240. Search a 2D Matrix II](problem/240.md) *
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
