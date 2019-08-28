@@ -170,6 +170,8 @@
 60. [315. Count of Smaller Numbers After Self](problem/315.md) *****
 61. [1021. Remove Outermost Parentheses](problem/1021.md) *
 62. [388. Longest Absolute File Path](problem/388.md) **
+63. [683. K Empty Slots](problem/683.md) *****
+64. [681. Next Closest Time](problem/681.md) **
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
