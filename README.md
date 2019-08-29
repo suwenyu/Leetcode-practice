@@ -172,7 +172,8 @@
 62. [388. Longest Absolute File Path](problem/388.md) **
 63. [683. K Empty Slots](problem/683.md) *****
 64. [681. Next Closest Time](problem/681.md) **
-
+65. [414. Third Maximum Number](problem/414.md) *
+ 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
 2. [438. Find All Anagrams in a String](problem/438.md) *
@@ -268,6 +269,10 @@
 47. [239. Sliding Window Maximum](problem/239.md) *****
 48. [74. Search a 2D Matrix](problem/74.md) *
 49. [208. Implement Trie (Prefix Tree)](problem/208.md)
+50. [298. Binary Tree Longest Consecutive Sequence](problem/298.md) *
+
+##### Apple
+1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
 
 ##### Uber
 1. [68. Text Justification](problem/68.md) *****
