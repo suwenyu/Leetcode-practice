@@ -270,6 +270,8 @@
 48. [74. Search a 2D Matrix](problem/74.md) *
 49. [208. Implement Trie (Prefix Tree)](problem/208.md)
 50. [298. Binary Tree Longest Consecutive Sequence](problem/298.md) *
+51. [1071. Greatest Common Divisor of Strings](problem/1071.md) *
+52. [2. Add Two Numbers](problem/2.md) 
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
