@@ -198,6 +198,8 @@
 21. [31. Next Permutation](problem/31.md) **
 22. [162. Find Peak Element](problem/162.md) **
 23. [297. Serialize and Deserialize Binary Tree](problem/297.md) **
+24. [415. Add Strings](problem/415.md)
+25. [9. Palindrome Number](problem/9.md)
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md)
