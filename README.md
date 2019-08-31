@@ -173,7 +173,9 @@
 63. [683. K Empty Slots](problem/683.md) *****
 64. [681. Next Closest Time](problem/681.md) **
 65. [414. Third Maximum Number](problem/414.md) *
- 
+66. [375. Guess Number Higher or Lower II](problem/375.md) *****
+67. [374. Guess Number Higher or Lower](problem/374.md)
+
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
 2. [438. Find All Anagrams in a String](problem/438.md) *
@@ -274,6 +276,7 @@
 50. [298. Binary Tree Longest Consecutive Sequence](problem/298.md) *
 51. [1071. Greatest Common Divisor of Strings](problem/1071.md) *
 52. [2. Add Two Numbers](problem/2.md) 
+53. [662. Maximum Width of Binary Tree](problem/662.md) *****
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
