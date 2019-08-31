@@ -202,6 +202,8 @@
 23. [297. Serialize and Deserialize Binary Tree](problem/297.md) **
 24. [415. Add Strings](problem/415.md)
 25. [9. Palindrome Number](problem/9.md)
+26. [319. Bulb Switcher](problem/319.md) **
+27. [304. Range Sum Query 2D - Immutable](problem/304.md) *
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md)
