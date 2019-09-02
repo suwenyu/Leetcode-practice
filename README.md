@@ -239,18 +239,18 @@
 11. [637. Average of Levels in Binary Tree](problem/637.md)
 12. [49. Group Anagrams](problem/49.md)
 13. [79. Word Search](problem/79.md) *
-14. [380. Insert Delete GetRandom O(1)](problem/380.md) **
-15. [207. Course Schedule](problem/207.md) **
-16. [435. Non-overlapping Intervals](problem/435.md)
-17. [146. LRU Cache](problem/146.md) **
+14. [380. Insert Delete GetRandom O(1)](problem/380.md) ** (*need to review*)
+15. [207. Course Schedule](problem/207.md) ** (*need to review*)
+16. [435. Non-overlapping Intervals](problem/435.md) 
+17. [146. LRU Cache](problem/146.md) ** (*need to review*)
 18. [572. Subtree of Another Tree](problem/572.md) **
 19. [23. Merge k Sorted Lists](problem/23.md) *
-20. [42. Trapping Rain Water](problem/42.md) **
+20. [42. Trapping Rain Water](problem/42.md) ** 
 21. [127. Word Ladder](problem/127.md) **
-22. [126. Word Ladder II](problem/126.md) *****
+22. [126. Word Ladder II](problem/126.md) ***** (*need to review*)
 23. [341. Flatten Nested List Iterator](problem/341.md) **
 24. [957. Prison Cells After N Days](problem/957.md) *
-25. [314. Binary Tree Vertical Order Traversal](problem/314.md) *****
+25. [314. Binary Tree Vertical Order Traversal](problem/314.md) ***** (*need to review*)
 26. [973. K Closest Points to Origin](problem/973.md)
 27. [692. Top K Frequent Words](problem/692.md)
 28. [165. Compare Version Numbers](problem/165.md) *
@@ -301,6 +301,7 @@
 6. [445. Add Two Numbers II](problem/445.md) **
 7. [443. String Compression](problem/443.md)
 8. [240. Search a 2D Matrix II](problem/240.md) *
+9. [935. Knight Dialer](problem/935.md) **
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
