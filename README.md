@@ -287,6 +287,8 @@
 1. [68. Text Justification](problem/68.md) *****
 2. [130. Surrounded Regions](problem/130.md)
 3. [542. 01 Matrix](problem/542.md) *
+4. [427. Construct Quad Tree](problem/427.md) **
+5. [1064. Fixed Point](problem/1064.md) 
 
 ##### Adobe
 1. [1108. Defanging an IP Address](problem/1108.md)
