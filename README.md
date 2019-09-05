@@ -192,6 +192,9 @@
 13. [497. Random Point in Non-overlapping Rectangles](problem/497.md) **
 14. [528. Random Pick with Weight](problem/528.md) **
 15. [853. Car Fleet](problem/853.md) **
+16. [857. Minimum Cost to Hire K Workers](problem/857.md) **
+17. [750. Number Of Corner Rectangles](problem/750.md) *
+18. [815. Bus Routes](problem/815.md) *****
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
