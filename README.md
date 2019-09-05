@@ -189,6 +189,9 @@
 10. [205. Isomorphic Strings](problem/205.md)
 11. [489. Robot Room Cleaner](problem/489.md) *****
 12. [855. Exam Room](problem/855.md) **
+13. [497. Random Point in Non-overlapping Rectangles](problem/497.md) **
+14. [528. Random Pick with Weight](problem/528.md) **
+15. [853. Car Fleet](problem/853.md) **
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
