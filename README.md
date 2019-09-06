@@ -196,6 +196,9 @@
 16. [857. Minimum Cost to Hire K Workers](problem/857.md) **
 17. [750. Number Of Corner Rectangles](problem/750.md) *
 18. [815. Bus Routes](problem/815.md) *****
+19. [951. Flip Equivalent Binary Trees](problem/951.md)
+20. [1110. Delete Nodes And Return Forest](problem/1110.md) **
+21. [281. Zigzag Iterator](problem/281.md) 
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
