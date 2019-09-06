@@ -175,6 +175,7 @@
 65. [414. Third Maximum Number](problem/414.md) *
 66. [375. Guess Number Higher or Lower II](problem/375.md) *****
 67. [374. Guess Number Higher or Lower](problem/374.md)
+68. [1161. Maximum Level Sum of a Binary Tree](problem/1161.md)
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) *****
@@ -299,6 +300,7 @@
 51. [1071. Greatest Common Divisor of Strings](problem/1071.md) *
 52. [2. Add Two Numbers](problem/2.md) 
 53. [662. Maximum Width of Binary Tree](problem/662.md) *****
+54. [1160. Find Words That Can Be Formed by Characters](problem/1160.md)
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -309,6 +311,7 @@
 3. [542. 01 Matrix](problem/542.md) *
 4. [427. Construct Quad Tree](problem/427.md) *****
 5. [1064. Fixed Point](problem/1064.md)
+6. [1162. As Far from Land as Possible](problem/1162.md) **
 
 ##### Adobe
 1. [1108. Defanging an IP Address](problem/1108.md)
