@@ -206,6 +206,8 @@
 26. [334. Increasing Triplet Subsequence](problem/334.md)
 27. [394. Decode String](problem/47.md) **
 28. [774. Minimize Max Distance to Gas Station](problem/774.md) *****
+29. [337. House Robber III](problem/337.md) **
+30. [340. Longest Substring with At Most K Distinct Characters](problem/340.md)
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
@@ -235,6 +237,10 @@
 25. [9. Palindrome Number](problem/9.md)
 26. [319. Bulb Switcher](problem/319.md) **
 27. [304. Range Sum Query 2D - Immutable](problem/304.md) *
+28. [426. Convert Binary Search Tree to Sorted Doubly Linked List](problem/426.md) ****
+29. [312. Burst Balloons](problem/312.md) *****
+30. [769. Max Chunks To Make Sorted](problem/769.md) *
+31. [96. Unique Binary Search Trees](problem/96.md) *
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md)
