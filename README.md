@@ -11,6 +11,7 @@
 6. [728. Self Dividing Numbers](problem/728.md)
 7. [453. Minimum Moves to Equal Array Elements](problem/453.md) *
 8. [172. Factorial Trailing Zeroes](problem/172.md) *
+9. [1185. Day of the Week](problem/1185.md) ***
 
 ##### String
 1. [804. Unique Morse Code Words](problem/804.md)
@@ -176,6 +177,7 @@
 66. [375. Guess Number Higher or Lower II](problem/375.md) *****
 67. [374. Guess Number Higher or Lower](problem/374.md)
 68. [1161. Maximum Level Sum of a Binary Tree](problem/1161.md)
+69. [1184. Distance Between Bus Stops](problem/1184.md) **
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) *****
@@ -208,6 +210,8 @@
 28. [774. Minimize Max Distance to Gas Station](problem/774.md) *****
 29. [337. House Robber III](problem/337.md) **
 30. [340. Longest Substring with At Most K Distinct Characters](problem/340.md)
+31. [505. The Maze II](problem/505.md) **
+32. [834. Sum of Distances in Tree](problem/834) *****
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
