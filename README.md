@@ -12,6 +12,7 @@
 7. [453. Minimum Moves to Equal Array Elements](problem/453.md) *
 8. [172. Factorial Trailing Zeroes](problem/172.md) *
 9. [1185. Day of the Week](problem/1185.md) ***
+10. [1154. Day of the Year](problem/1154.md)
 
 ##### String
 1. [804. Unique Morse Code Words](problem/804.md)
@@ -321,6 +322,7 @@
 52. [2. Add Two Numbers](problem/2.md) 
 53. [662. Maximum Width of Binary Tree](problem/662.md) *****
 54. [1160. Find Words That Can Be Formed by Characters](problem/1160.md)
+55. [1155. Number of Dice Rolls With Target Sum](problem/1155.md) **
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -332,6 +334,7 @@
 4. [427. Construct Quad Tree](problem/427.md) *****
 5. [1064. Fixed Point](problem/1064.md)
 6. [1162. As Far from Land as Possible](problem/1162.md) **
+7. [518. Coin Change 2](problem/518.md) *
 
 ##### Adobe
 1. [1108. Defanging an IP Address](problem/1108.md)
@@ -347,6 +350,9 @@
 7. [443. String Compression](problem/443.md)
 8. [240. Search a 2D Matrix II](problem/240.md) *
 9. [935. Knight Dialer](problem/935.md) **
+
+##### Other Company
+1. [1156. Swap For Longest Repeated Character Substring](problem/1156.md) *
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
