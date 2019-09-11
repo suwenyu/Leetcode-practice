@@ -179,6 +179,10 @@
 67. [374. Guess Number Higher or Lower](problem/374.md)
 68. [1161. Maximum Level Sum of a Binary Tree](problem/1161.md)
 69. [1184. Distance Between Bus Stops](problem/1184.md) **
+70. [1144. Decrease Elements To Make Array Zigzag](problem/1144.md) **
+71. [1145. Binary Tree Coloring Game](problem/1145.md) **
+72. [1146. Snapshot Array](problem/1146) **
+73. [1138. Alphabet Board Path](problem/1138.md) **
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) *****
@@ -353,6 +357,9 @@
 
 ##### Other Company
 1. [1156. Swap For Longest Repeated Character Substring](problem/1156.md) *
+2. [1137. N-th Tribonacci Number](problem/1137.md)
+3. [1139. Largest 1-Bordered Square](problem/1139.md) **
+4. [1140. Stone Game II](problem/1040.md) **
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
