@@ -217,6 +217,8 @@
 30. [340. Longest Substring with At Most K Distinct Characters](problem/340.md)
 31. [505. The Maze II](problem/505.md) **
 32. [834. Sum of Distances in Tree](problem/834) *****
+33. [731. My Calendar II](problem/731.md)
+34. [768. Max Chunks To Make Sorted II](problem/768.md) **
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
