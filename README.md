@@ -220,6 +220,8 @@
 33. [731. My Calendar II](problem/731.md)
 34. [768. Max Chunks To Make Sorted II](problem/768.md) **
 35. [287. Find the Duplicate Number](problem/287.md) *
+36. [987. Vertical Order Traversal of a Binary Tree](problem/987.md) **
+37. [288. Unique Word Abbreviation](problem/288.md) *
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
