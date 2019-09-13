@@ -222,6 +222,9 @@
 35. [287. Find the Duplicate Number](problem/287.md) *
 36. [987. Vertical Order Traversal of a Binary Tree](problem/987.md) **
 37. [288. Unique Word Abbreviation](problem/288.md) *
+38. [562. Longest Line of Consecutive One in Matrix](problem/562.md)
+39. [188. Best Time to Buy and Sell Stock IV](problem/188.md) *****
+40. [317. Shortest Distance from All Buildings](problem/317.md) *****
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
