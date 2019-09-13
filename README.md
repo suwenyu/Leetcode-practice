@@ -255,6 +255,7 @@
 29. [312. Burst Balloons](problem/312.md) *****
 30. [769. Max Chunks To Make Sorted](problem/769.md) *
 31. [96. Unique Binary Search Trees](problem/96.md) *
+32. [468. Validate IP Address](problem/468.md) **
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md)
@@ -332,6 +333,8 @@
 53. [662. Maximum Width of Binary Tree](problem/662.md) *****
 54. [1160. Find Words That Can Be Formed by Characters](problem/1160.md)
 55. [1155. Number of Dice Rolls With Target Sum](problem/1155.md) **
+56. [1128. Number of Equivalent Domino Pairs](problem/1128.md)
+57. [1129. Shortest Path with Alternating Colors](problem/1129.md) **
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -365,6 +368,7 @@
 2. [1137. N-th Tribonacci Number](problem/1137.md)
 3. [1139. Largest 1-Bordered Square](problem/1139.md) **
 4. [1140. Stone Game II](problem/1040.md) **
+5. [1130. Minimum Cost Tree From Leaf Values](problem/1130.md) **
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
