@@ -226,6 +226,9 @@
 39. [188. Best Time to Buy and Sell Stock IV](problem/188.md) *****
 40. [317. Shortest Distance from All Buildings](problem/317.md) *****
 41. [900. RLE Iterator](problem/900.md) *
+42. [227. Basic Calculator II](problem/227.md) *
+43. [940. Distinct Subsequences II](problem/904.md) *****
+44. [640. Solve the Equation](problem/640.md) *****
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
@@ -339,6 +342,7 @@
 55. [1155. Number of Dice Rolls With Target Sum](problem/1155.md) **
 56. [1128. Number of Equivalent Domino Pairs](problem/1128.md)
 57. [1129. Shortest Path with Alternating Colors](problem/1129.md) **
+58. [115. Distinct Subsequences](problem/115.md) **
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
