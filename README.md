@@ -229,6 +229,7 @@
 42. [227. Basic Calculator II](problem/227.md) *
 43. [940. Distinct Subsequences II](problem/904.md) *****
 44. [640. Solve the Equation](problem/640.md) *****
+45. [128. Longest Consecutive Sequence](problem/128.md) *
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
@@ -263,6 +264,7 @@
 30. [769. Max Chunks To Make Sorted](problem/769.md) *
 31. [96. Unique Binary Search Trees](problem/96.md) *
 32. [468. Validate IP Address](problem/468.md) **
+33. [1123. Lowest Common Ancestor of Deepest Leaves](problem/1123.md) **
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md)
@@ -343,6 +345,7 @@
 56. [1128. Number of Equivalent Domino Pairs](problem/1128.md)
 57. [1129. Shortest Path with Alternating Colors](problem/1129.md) **
 58. [115. Distinct Subsequences](problem/115.md) **
+59. [1122. Relative Sort Array](problem/1122.md)
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -377,6 +380,8 @@
 3. [1139. Largest 1-Bordered Square](problem/1139.md) **
 4. [1140. Stone Game II](problem/1040.md) **
 5. [1130. Minimum Cost Tree From Leaf Values](problem/1130.md) **
+6. [713. Subarray Product Less Than K](problem/713.md) *
+7. [1124. Longest Well-Performing Interval](problem/1124) **
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
