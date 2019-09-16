@@ -230,6 +230,9 @@
 43. [940. Distinct Subsequences II](problem/904.md) *****
 44. [640. Solve the Equation](problem/640.md) *****
 45. [128. Longest Consecutive Sequence](problem/128.md) *
+46. [911. Online Election](problem/911.md) **
+47. [60. Permutation Sequence](problem/60.md)
+48. [801. Minimum Swaps To Make Sequences Increasing](problem/801.md) *****
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
