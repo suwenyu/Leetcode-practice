@@ -322,29 +322,29 @@
 29. [295. Find Median from Data Stream](problem/295.md) ** (V)
 30. [269. Alien Dictionary](problem/269.md) ***** (*need to review*)
 31. [7. Reverse Integer](problem/7.md) * (V)
-32. [11. Container With Most Water](problem/11.md) *
-33. [33. Search in Rotated Sorted Array](problem/33.md) *
-34. [153. Find Minimum in Rotated Sorted Array](problem/153.md) *
-35. [340. Longest Substring with At Most K Distinct Characters](problem/340.md)
-36. [103. Binary Tree Zigzag Level Order Traversal](problem/103.md)
-37. [124. Binary Tree Maximum Path Sum](problem/124.md) 
-38. [611. Valid Triangle Number](problem/611.md) **
-39. [17. Letter Combinations of a Phone Number](problem/17.md) *
-40. [938. Range Sum of BST](problem/938.md)
-41. [223. Rectangle Area](problem/223.md) ***
-42. [14. Longest Common Prefix](problem/14.md) *
-43. [113. Path Sum II](problem/113.md) **
-44. [112. Path Sum](problem/112.md) 
-45. [437. Path Sum III](problem/437.md) *
-46. [78. Subsets](problem/78.md)
-47. [239. Sliding Window Maximum](problem/239.md) *****
-48. [74. Search a 2D Matrix](problem/74.md) *
-49. [208. Implement Trie (Prefix Tree)](problem/208.md)
-50. [298. Binary Tree Longest Consecutive Sequence](problem/298.md) *
-51. [1071. Greatest Common Divisor of Strings](problem/1071.md) *
-52. [2. Add Two Numbers](problem/2.md) 
-53. [662. Maximum Width of Binary Tree](problem/662.md) *****
-54. [1160. Find Words That Can Be Formed by Characters](problem/1160.md)
+32. [11. Container With Most Water](problem/11.md) * (V)
+33. [33. Search in Rotated Sorted Array](problem/33.md) * (V)
+34. [153. Find Minimum in Rotated Sorted Array](problem/153.md) * (V)
+35. [340. Longest Substring with At Most K Distinct Characters](problem/340.md) (V)
+36. [103. Binary Tree Zigzag Level Order Traversal](problem/103.md) (V)
+37. [124. Binary Tree Maximum Path Sum](problem/124.md) (*need to review*)
+38. [611. Valid Triangle Number](problem/611.md) ** (*need to review*)
+39. [17. Letter Combinations of a Phone Number](problem/17.md) * (V)
+40. [938. Range Sum of BST](problem/938.md) (V)
+41. [223. Rectangle Area](problem/223.md) *** (V)
+42. [14. Longest Common Prefix](problem/14.md) * (V)
+43. [113. Path Sum II](problem/113.md) ** (V)
+44. [112. Path Sum](problem/112.md) (V)
+45. [437. Path Sum III](problem/437.md) * (*need to review*)
+46. [78. Subsets](problem/78.md) (V)
+47. [239. Sliding Window Maximum](problem/239.md) ***** (*need to review*)
+48. [74. Search a 2D Matrix](problem/74.md) * (V)
+49. [208. Implement Trie (Prefix Tree)](problem/208.md) (*need to review*)
+50. [298. Binary Tree Longest Consecutive Sequence](problem/298.md) * (*need to review*)
+51. [1071. Greatest Common Divisor of Strings](problem/1071.md) * (*need to review*)
+52. [2. Add Two Numbers](problem/2.md) (V)
+53. [662. Maximum Width of Binary Tree](problem/662.md) ***** (*need to review*)
+54. [1160. Find Words That Can Be Formed by Characters](problem/1160.md) (V)
 55. [1155. Number of Dice Rolls With Target Sum](problem/1155.md) **
 56. [1128. Number of Equivalent Domino Pairs](problem/1128.md)
 57. [1129. Shortest Path with Alternating Colors](problem/1129.md) **
