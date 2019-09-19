@@ -292,36 +292,36 @@
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
-2. [703. Kth Largest Element in a Stream](problem/703.md)
-3. [994. Rotting Oranges](problem/994.md) *
-4. [763. Partition Labels](problem/763.md) *
-5. [540. Single Element in a Sorted Array](problem/540.md)
+2. [703. Kth Largest Element in a Stream](problem/703.md) (V)
+3. [994. Rotting Oranges](problem/994.md) * 
+4. [763. Partition Labels](problem/763.md) * (V)
+5. [540. Single Element in a Sorted Array](problem/540.md) (V)
 6. [635. Design Log Storage System](problem/635.md) **
-7. [230. Kth Smallest Element in a BST](problem/230.md) 
-8. [12. Integer to Roman](problem/12.md)
+7. [230. Kth Smallest Element in a BST](problem/230.md) (V)
+8. [12. Integer to Roman](problem/12.md) (V)
 9. [503. Next Greater Element II](problem/503.md) *
-10. [1099. Two Sum Less Than K](problem/1099.md)
-11. [637. Average of Levels in Binary Tree](problem/637.md)
-12. [49. Group Anagrams](problem/49.md)
+10. [1099. Two Sum Less Than K](problem/1099.md) (V)
+11. [637. Average of Levels in Binary Tree](problem/637.md) (V)
+12. [49. Group Anagrams](problem/49.md) (V)
 13. [79. Word Search](problem/79.md) *
 14. [380. Insert Delete GetRandom O(1)](problem/380.md) ** (*need to review*)
 15. [207. Course Schedule](problem/207.md) ** (*need to review*)
 16. [435. Non-overlapping Intervals](problem/435.md) 
 17. [146. LRU Cache](problem/146.md) ** (*need to review*)
 18. [572. Subtree of Another Tree](problem/572.md) **
-19. [23. Merge k Sorted Lists](problem/23.md) *
+19. [23. Merge k Sorted Lists](problem/23.md) * (V)
 20. [42. Trapping Rain Water](problem/42.md) ** 
-21. [127. Word Ladder](problem/127.md) **
+21. [127. Word Ladder](problem/127.md) ** 
 22. [126. Word Ladder II](problem/126.md) ***** (*need to review*)
-23. [341. Flatten Nested List Iterator](problem/341.md) **
-24. [957. Prison Cells After N Days](problem/957.md) *
+23. [341. Flatten Nested List Iterator](problem/341.md) ** (V)
+24. [957. Prison Cells After N Days](problem/957.md) * (V)
 25. [314. Binary Tree Vertical Order Traversal](problem/314.md) ***** (*need to review*)
-26. [973. K Closest Points to Origin](problem/973.md)
-27. [692. Top K Frequent Words](problem/692.md)
-28. [165. Compare Version Numbers](problem/165.md) *
-29. [295. Find Median from Data Stream](problem/295.md) **
-30. [269. Alien Dictionary](problem/269.md) *****
-31. [7. Reverse Integer](problem/7.md) *
+26. [973. K Closest Points to Origin](problem/973.md) (V)
+27. [692. Top K Frequent Words](problem/692.md) (V)
+28. [165. Compare Version Numbers](problem/165.md) * (V)
+29. [295. Find Median from Data Stream](problem/295.md) ** (V)
+30. [269. Alien Dictionary](problem/269.md) ***** (*need to review*)
+31. [7. Reverse Integer](problem/7.md) * (V)
 32. [11. Container With Most Water](problem/11.md) *
 33. [33. Search in Rotated Sorted Array](problem/33.md) *
 34. [153. Find Minimum in Rotated Sorted Array](problem/153.md) *
