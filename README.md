@@ -308,7 +308,7 @@
 15. [207. Course Schedule](problem/207.md) ** (*need to review*)
 16. [435. Non-overlapping Intervals](problem/435.md) 
 17. [146. LRU Cache](problem/146.md) ** (*need to review*)
-18. [572. Subtree of Another Tree](problem/572.md) **
+18. [572. Subtree of Another Tree](problem/572.md) ** (V)
 19. [23. Merge k Sorted Lists](problem/23.md) * (V)
 20. [42. Trapping Rain Water](problem/42.md) ** 
 21. [127. Word Ladder](problem/127.md) ** 
@@ -350,6 +350,8 @@
 57. [1129. Shortest Path with Alternating Colors](problem/1129.md) **
 58. [115. Distinct Subsequences](problem/115.md) **
 59. [1122. Relative Sort Array](problem/1122.md)
+60. [59. Spiral Matrix II](problem/59.md) **
+61. [460. LFU Cache](problem/460.md) *****
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
