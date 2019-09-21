@@ -110,19 +110,19 @@
 
 
 ##### Google Interview
-1. [929. Unique Email Addresses](problem/929.md)
-2. [463. Island Perimeter](problem/463.md)
-3. [231. Power of Two](problem/231.md)
-4. [326. Power of Three](problem/326.md)
-5. [844. Backspace String Compare](problem/844.md) **
-6. [739. Daily Temperatures](problem/739.md) *
-7. [535. Encode and Decode TinyURL](problem/535.md)
-8. [22. Generate Parentheses](problem/22.md) **
+1. [929. Unique Email Addresses](problem/929.md) (V)
+2. [463. Island Perimeter](problem/463.md) (V)
+3. [231. Power of Two](problem/231.md) (V)
+4. [326. Power of Three](problem/326.md) (V)
+5. [844. Backspace String Compare](problem/844.md) ** (V)
+6. [739. Daily Temperatures](problem/739.md) * (*need to review*)
+7. [535. Encode and Decode TinyURL](problem/535.md) 
+8. [22. Generate Parentheses](problem/22.md) ** (*need to review*)
 9. [253. Meeting Rooms II](problem/253.md) *
-10. [560. Subarray Sum Equals K](problem/560.md) **
-11. [200. Number of Islands](problem/200.md) *
-12. [234. Palindrome Linked List](problem/234.md) **
-13. [1. Two Sum](problem/1.md)
+10. [560. Subarray Sum Equals K](problem/560.md) ** (*need to review*)
+11. [200. Number of Islands](problem/200.md) * (V)
+12. [234. Palindrome Linked List](problem/234.md) ** (V)
+13. [1. Two Sum](problem/1.md) 
 14. [3. Longest Substring Without Repeating Characters](problem/3.md) *
 15. [346. Moving Average from Data Stream](problem/346.md)
 16. [811. Subdomain Visit Count](problem/811.md)
