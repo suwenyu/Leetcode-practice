@@ -122,24 +122,24 @@
 10. [560. Subarray Sum Equals K](problem/560.md) ** (*need to review*)
 11. [200. Number of Islands](problem/200.md) * (V)
 12. [234. Palindrome Linked List](problem/234.md) ** (V)
-13. [1. Two Sum](problem/1.md) 
-14. [3. Longest Substring Without Repeating Characters](problem/3.md) *
-15. [346. Moving Average from Data Stream](problem/346.md)
-16. [811. Subdomain Visit Count](problem/811.md)
-17. [359. Logger Rate Limiter](problem/359.md)
-18. [252. Meeting Rooms](problem/252.md)
-19. [482. License Key Formatting](problem/482.md) *
-20. [734. Sentence Similarity](problem/734.md) *
-21. [849. Maximize Distance to Closest Person](problem/849.md)
-22. [205. Isomorphic Strings](problem/205.md) *
-23. [246. Strobogrammatic Number](problem/246.md)
-24. [941. Valid Mountain Array](problem/941.md) *
-25. [69. Sqrt(x)](problem/69.md) **
-26. [686. Repeated String Match](problem/686.md)
-27. [157. Read N Characters Given Read4](problem/157.md) *
-28. [1057. Campus Bikes](problem/1057.md) *
-29. [484. Find Permutation](problem/484.md) *
-30. [280. Wiggle Sort](problem/280.md)
+13. [1. Two Sum](problem/1.md) (V)
+14. [3. Longest Substring Without Repeating Characters](problem/3.md) * (*need to review*)
+15. [346. Moving Average from Data Stream](problem/346.md) (V)
+16. [811. Subdomain Visit Count](problem/811.md) (V)
+17. [359. Logger Rate Limiter](problem/359.md) (V)
+18. [252. Meeting Rooms](problem/252.md) (V)
+19. [482. License Key Formatting](problem/482.md) * (V)
+20. [734. Sentence Similarity](problem/734.md) * (V)
+21. [849. Maximize Distance to Closest Person](problem/849.md) (V)
+22. [205. Isomorphic Strings](problem/205.md) * (*need to review*)
+23. [246. Strobogrammatic Number](problem/246.md) (V)
+24. [941. Valid Mountain Array](problem/941.md) * (*need to review*)
+25. [69. Sqrt(x)](problem/69.md) ** (V)
+26. [686. Repeated String Match](problem/686.md) (V)
+27. [157. Read N Characters Given Read4](problem/157.md) * (V)
+28. [1057. Campus Bikes](problem/1057.md) * (V)
+29. [484. Find Permutation](problem/484.md) * (*need to review*)
+30. [280. Wiggle Sort](problem/280.md) 
 31. [939. Minimum Area Rectangle](problem/939.md) *
 32. [723. Candy Crush](problem/723.md) *
 33. [702. Search in a Sorted Array of Unknown Size](problem/702.md) *
