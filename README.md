@@ -289,6 +289,8 @@
 16. [698. Partition to K Equal Sum Subsets](problem/698.md) **
 17. [416. Partition Equal Subset Sum](problem/416.md) **
 18. [366. Find Leaves of Binary Tree](problem/366.md) *
+19. [244. Shortest Word Distance II](problem/244.md)
+20. [272. Closest Binary Search Tree Value II](problem/272.md)
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
@@ -389,6 +391,9 @@
 6. [713. Subarray Product Less Than K](problem/713.md) *
 7. [1124. Longest Well-Performing Interval](problem/1124) **
 8. [1109. Corporate Flight Bookings](problem/1109.md) **
+9. [1200. Minimum Absolute Difference](problem/1200.md)
+10. [1201. Ugly Number III](problem/1201.md) **
+11. [1202. Smallest String With Swaps](problem/1202.md) **
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
