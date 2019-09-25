@@ -140,11 +140,11 @@
 28. [1057. Campus Bikes](problem/1057.md) * (V)
 29. [484. Find Permutation](problem/484.md) * (*need to review*)
 30. [280. Wiggle Sort](problem/280.md) 
-31. [939. Minimum Area Rectangle](problem/939.md) *
-32. [723. Candy Crush](problem/723.md) *
-33. [702. Search in a Sorted Array of Unknown Size](problem/702.md) *
-34. [1055. Shortest Way to Form String](problem/1055.md) **
-35. [175. Combine Two Tables](problem/175.md)
+31. [939. Minimum Area Rectangle](problem/939.md) * (*need to review*) **
+32. [723. Candy Crush](problem/723.md) * (*need to review*)
+33. [702. Search in a Sorted Array of Unknown Size](problem/702.md) * (V)
+34. [1055. Shortest Way to Form String](problem/1055.md) ** (*need to review*)
+35. [175. Combine Two Tables](problem/175.md) (V) 
 36. [947. Most Stones Removed with Same Row or Column](problem/947.md) **
 37. [399. Evaluate Division](problem/399.md) *
 38. [833. Find And Replace in String](problem/833.md) *
