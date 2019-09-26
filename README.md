@@ -183,6 +183,10 @@
 71. [1145. Binary Tree Coloring Game](problem/1145.md) **
 72. [1146. Snapshot Array](problem/1146) **
 73. [1138. Alphabet Board Path](problem/1138.md) **
+74. [271. Encode and Decode Strings](problem/271.md) **
+75. [66. Plus One](problem/66.md)
+76. [228. Summary Ranges](problem/228.md)
+77. [284. Peeking Iterator](problem/284.md) **
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) *****
@@ -269,6 +273,7 @@
 31. [96. Unique Binary Search Trees](problem/96.md) *
 32. [468. Validate IP Address](problem/468.md) **
 33. [1123. Lowest Common Ancestor of Deepest Leaves](problem/1123.md) **
+34. [34. Find First and Last Position of Element in Sorted Array](problem/34.md)
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md)
