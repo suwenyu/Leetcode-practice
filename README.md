@@ -187,6 +187,9 @@
 75. [66. Plus One](problem/66.md)
 76. [228. Summary Ranges](problem/228.md)
 77. [284. Peeking Iterator](problem/284.md) **
+78. [329. Longest Increasing Path in a Matrix](problem/329.md) **
+79. [279. Perfect Squares](problem/279.md) **
+80. [276. Paint Fence](problem/276.md) **
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) *****
