@@ -190,6 +190,7 @@
 78. [329. Longest Increasing Path in a Matrix](problem/329.md) **
 79. [279. Perfect Squares](problem/279.md) **
 80. [276. Paint Fence](problem/276.md) **
+81. [400. Nth Digit](problem/400.md) **
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) *****
@@ -277,6 +278,7 @@
 32. [468. Validate IP Address](problem/468.md) **
 33. [1123. Lowest Common Ancestor of Deepest Leaves](problem/1123.md) **
 34. [34. Find First and Last Position of Element in Sorted Array](problem/34.md)
+35. [236. Lowest Common Ancestor of a Binary Tree](problem/236.md) **
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md) (V)
@@ -362,6 +364,7 @@
 59. [1122. Relative Sort Array](problem/1122.md)
 60. [59. Spiral Matrix II](problem/59.md) **
 61. [460. LFU Cache](problem/460.md) *****
+62. [138. Copy List with Random Pointer](problem/138.md) **
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -389,6 +392,7 @@
 7. [443. String Compression](problem/443.md)
 8. [240. Search a 2D Matrix II](problem/240.md) *
 9. [935. Knight Dialer](problem/935.md) **
+10. [48. Rotate Image](problem/48.md) **
 
 ##### Other Company
 1. [1156. Swap For Longest Repeated Character Substring](problem/1156.md) *
@@ -402,6 +406,7 @@
 9. [1200. Minimum Absolute Difference](problem/1200.md)
 10. [1201. Ugly Number III](problem/1201.md) **
 11. [1202. Smallest String With Swaps](problem/1202.md) **
+12. [202. Happy Number](problem/202.md)
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
