@@ -191,6 +191,7 @@
 79. [279. Perfect Squares](problem/279.md) **
 80. [276. Paint Fence](problem/276.md) **
 81. [400. Nth Digit](problem/400.md) **
+82. [218. The Skyline Problem](problem/218.md) *****
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) *****
@@ -302,6 +303,7 @@
 18. [366. Find Leaves of Binary Tree](problem/366.md) *
 19. [244. Shortest Word Distance II](problem/244.md)
 20. [272. Closest Binary Search Tree Value II](problem/272.md)
+21. [187. Repeated DNA Sequences](problem/187.md)
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
@@ -369,6 +371,8 @@
 63. [545. Boundary of Binary Tree](problem/545.md) *
 64. [116. Populating Next Right Pointers in Each Node](problem/116.md)
 65. [105. Construct Binary Tree from Preorder and Inorder Traversal](problem/105.md) **
+66. [102. Binary Tree Level Order Traversal](problem/102.md)
+67. [117. Populating Next Right Pointers in Each Node II](problem/117.md)
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
