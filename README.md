@@ -304,6 +304,9 @@
 19. [244. Shortest Word Distance II](problem/244.md)
 20. [272. Closest Binary Search Tree Value II](problem/272.md)
 21. [187. Repeated DNA Sequences](problem/187.md)
+22. [655. Print Binary Tree](problem/655.md) *
+23. [744. Find Smallest Letter Greater Than Target](problem/744.md) *
+24. [373. Find K Pairs with Smallest Sums](problem/373.md)
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
