@@ -307,6 +307,10 @@
 22. [655. Print Binary Tree](problem/655.md) *
 23. [744. Find Smallest Letter Greater Than Target](problem/744.md) *
 24. [373. Find K Pairs with Smallest Sums](problem/373.md)
+25. [254. Factor Combinations](problem/254.md) **
+26. [261. Graph Valid Tree](problem/261.md))
+27. [245. Shortest Word Distance III](problem/245.md) **
+28. [516. Longest Palindromic Subsequence](problem/516.md) **
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
