@@ -192,6 +192,7 @@
 80. [276. Paint Fence](problem/276.md) **
 81. [400. Nth Digit](problem/400.md) **
 82. [218. The Skyline Problem](problem/218.md) *****
+83. [457. Circular Array Loop](problem/457.md) *****
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) *****
@@ -281,6 +282,7 @@
 34. [34. Find First and Last Position of Element in Sorted Array](problem/34.md)
 35. [236. Lowest Common Ancestor of a Binary Tree](problem/236.md) **
 36. [76. Minimum Window Substring](problem/76.md) **
+37. [8. String to Integer (atoi)](problem/8.md)
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md) (V)
@@ -381,6 +383,7 @@
 66. [102. Binary Tree Level Order Traversal](problem/102.md)
 67. [117. Populating Next Right Pointers in Each Node II](problem/117.md)
 68. [706. Design HashMap](problem/706.md) **
+69. [687. Longest Univalue Path](problem/687.md) **
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
