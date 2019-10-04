@@ -380,6 +380,7 @@
 65. [105. Construct Binary Tree from Preorder and Inorder Traversal](problem/105.md) **
 66. [102. Binary Tree Level Order Traversal](problem/102.md)
 67. [117. Populating Next Right Pointers in Each Node II](problem/117.md)
+68. [706. Design HashMap](problem/706.md) **
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
