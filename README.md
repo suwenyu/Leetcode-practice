@@ -283,6 +283,7 @@
 35. [236. Lowest Common Ancestor of a Binary Tree](problem/236.md) **
 36. [76. Minimum Window Substring](problem/76.md) **
 37. [8. String to Integer (atoi)](problem/8.md)
+38. [199. Binary Tree Right Side View](problem/199.md)
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md) (V)
@@ -384,6 +385,8 @@
 67. [117. Populating Next Right Pointers in Each Node II](problem/117.md)
 68. [706. Design HashMap](problem/706.md) **
 69. [687. Longest Univalue Path](problem/687.md) **
+70. [653. Two Sum IV - Input is a BST](problem/653.md)
+71. [863. All Nodes Distance K in Binary Tree](problem/863.md) *
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -413,6 +416,7 @@
 9. [935. Knight Dialer](problem/935.md) **
 10. [48. Rotate Image](problem/48.md) **
 11. [151. Reverse Words in a String](problem/151.md)
+12. [232. Implement Queue using Stacks](problem/232.md) *
 
 ##### Other Company
 1. [1156. Swap For Longest Repeated Character Substring](problem/1156.md) *
