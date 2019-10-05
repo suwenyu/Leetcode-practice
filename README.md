@@ -387,6 +387,7 @@
 69. [687. Longest Univalue Path](problem/687.md) **
 70. [653. Two Sum IV - Input is a BST](problem/653.md)
 71. [863. All Nodes Distance K in Binary Tree](problem/863.md) *
+72. [99. Recover Binary Search Tree](problem/99.md) **
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
