@@ -422,6 +422,7 @@
 10. [48. Rotate Image](problem/48.md) **
 11. [151. Reverse Words in a String](problem/151.md)
 12. [232. Implement Queue using Stacks](problem/232.md) *
+13. [450. Delete Node in a BST](problem/450.md) **
 
 ##### Other Company
 1. [1156. Swap For Longest Repeated Character Substring](problem/1156.md) *
