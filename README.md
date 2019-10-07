@@ -193,6 +193,7 @@
 81. [400. Nth Digit](problem/400.md) **
 82. [218. The Skyline Problem](problem/218.md) *****
 83. [457. Circular Array Loop](problem/457.md) *****
+84. [361. Bomb Enemy](problem/361.md) **
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) *****
