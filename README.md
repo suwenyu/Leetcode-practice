@@ -286,6 +286,7 @@
 38. [199. Binary Tree Right Side View](problem/199.md)
 39. [285. Inorder Successor in BST](problem/285.md)
 40. [81. Search in Rotated Sorted Array II](problem/81.md) **
+41. [449. Serialize and Deserialize BST](problem/449.md)
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md) (V)
@@ -317,6 +318,7 @@
 27. [245. Shortest Word Distance III](problem/245.md) **
 28. [516. Longest Palindromic Subsequence](problem/516.md) **
 29. [47. Permutations II](problem/47.md)
+30. [61. Rotate List](problem/61.md) **
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
@@ -438,6 +440,8 @@
 11. [1202. Smallest String With Swaps](problem/1202.md) **
 12. [202. Happy Number](problem/202.md)
 13. [296. Best Meeting Point](problem/296.md) **
+14. [547. Friend Circles](problem/547.md)
+15. [451. Sort Characters By Frequency](problem/451.md)
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
