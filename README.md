@@ -319,6 +319,7 @@
 28. [516. Longest Palindromic Subsequence](problem/516.md) **
 29. [47. Permutations II](problem/47.md)
 30. [61. Rotate List](problem/61.md) **
+31. [277. Find the Celebrity](problem/277.md) *
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
@@ -394,6 +395,9 @@
 71. [863. All Nodes Distance K in Binary Tree](problem/863.md) *
 72. [99. Recover Binary Search Tree](problem/99.md) **
 73. [323. Number of Connected Components in an Undirected Graph](problem/323.md)
+74. [40. Combination Sum II](problem/40.md) **
+75. [108. Convert Sorted Array to Binary Search Tree](problem/108.md) *
+76. [204. Count Primes](problem/204.md) **
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
