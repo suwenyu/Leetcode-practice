@@ -156,9 +156,9 @@
 44. [459. Repeated Substring Pattern](problem/459.md) **  (*need to review*)
 45. [544. Output Contest Matches](problem/544.md) * (V)
 46. [979. Distribute Coins in Binary Tree](problem/979.md) * (V)
-47. [394. Decode String](problem/394.md) **
-48. [809. Expressive Words](problem/809.md) *
-49. [410. Split Array Largest Sum](problem/410.md) ***
+47. [394. Decode String](problem/394.md) ** (*need to review*)
+48. [809. Expressive Words](problem/809.md) * (*need to review*)
+49. [410. Split Array Largest Sum](problem/410.md) *** (V)
 50. [15. 3Sum](problem/15.md)
 51. [56. Merge Intervals](problem/56.md)
 52. [753. Cracking the Safe](problem/753.md) ****
