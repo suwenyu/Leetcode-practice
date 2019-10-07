@@ -151,12 +151,12 @@
 39. [543. Diameter of Binary Tree](problem/543.md) * (V) 
 40. [524. Longest Word in Dictionary through Deleting](problem/524.md) * (V)
 41. [222. Count Complete Tree Nodes](problem/222.md) ** (V) 
-42. [1011. Capacity To Ship Packages Within D Days](problem/1011.md) **
-43. [299. Bulls and Cows](problem/299.md)
-44. [459. Repeated Substring Pattern](problem/459.md) **
-45. [544. Output Contest Matches](problem/544.md) *
-46. [979. Distribute Coins in Binary Tree](problem/979.md) *
-47. [394. Decode String](problem/47.md) **
+42. [1011. Capacity To Ship Packages Within D Days](problem/1011.md) ** (*need to review*)
+43. [299. Bulls and Cows](problem/299.md) (V)
+44. [459. Repeated Substring Pattern](problem/459.md) **  (*need to review*)
+45. [544. Output Contest Matches](problem/544.md) * (V)
+46. [979. Distribute Coins in Binary Tree](problem/979.md) * (V)
+47. [394. Decode String](problem/394.md) **
 48. [809. Expressive Words](problem/809.md) *
 49. [410. Split Array Largest Sum](problem/410.md) ***
 50. [15. 3Sum](problem/15.md)
