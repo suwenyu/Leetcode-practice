@@ -325,6 +325,7 @@
 29. [47. Permutations II](problem/47.md)
 30. [61. Rotate List](problem/61.md) **
 31. [277. Find the Celebrity](problem/277.md) *
+32. [367. Valid Perfect Square](problem/367.md) *
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
