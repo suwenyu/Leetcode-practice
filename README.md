@@ -194,6 +194,9 @@
 82. [218. The Skyline Problem](problem/218.md) *****
 83. [457. Circular Array Loop](problem/457.md) *****
 84. [361. Bomb Enemy](problem/361.md) **
+85. [305. Number of Islands II](problem/305.md) *
+86. [249. Group Shifted Strings](problem/249.md) *
+87. [274. H-Index](problem/274.md) **
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) *****
