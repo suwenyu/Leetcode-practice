@@ -60,6 +60,7 @@
 2. [627. Swap Salary](problem/627.md)
 3. [626. Exchange Seats](problem/626.md) *
 4. [607. Sales Person](problem/607.md) **
+5. [1148. Article Views I](problem/1148.md)
 
 ##### Bit Manipulation
 1. [461. Hamming Distance](problem/461.md)
@@ -407,6 +408,7 @@
 74. [40. Combination Sum II](problem/40.md) **
 75. [108. Convert Sorted Array to Binary Search Tree](problem/108.md) *
 76. [204. Count Primes](problem/204.md) **
+77. [225. Implement Stack using Queues](problem/225.md) *
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -438,6 +440,7 @@
 11. [151. Reverse Words in a String](problem/151.md)
 12. [232. Implement Queue using Stacks](problem/232.md) *
 13. [450. Delete Node in a BST](problem/450.md) **
+14. [701. Insert into a Binary Search Tree](problem/701)
 
 ##### Other Company
 1. [1156. Swap For Longest Repeated Character Substring](problem/1156.md) *
