@@ -197,6 +197,7 @@
 85. [305. Number of Islands II](problem/305.md) *
 86. [249. Group Shifted Strings](problem/249.md) *
 87. [274. H-Index](problem/274.md) **
+88. [226. Invert Binary Tree](problem/226.md) *
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) *****
@@ -326,6 +327,8 @@
 30. [61. Rotate List](problem/61.md) **
 31. [277. Find the Celebrity](problem/277.md) *
 32. [367. Valid Perfect Square](problem/367.md) *
+33. [748. Shortest Completing Word](problem/748.md) *
+34. [362. Design Hit Counter](problem/362.md) *
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
