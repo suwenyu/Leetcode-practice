@@ -160,11 +160,11 @@
 47. [394. Decode String](problem/394.md) ** (*need to review*)
 48. [809. Expressive Words](problem/809.md) * (*need to review*)
 49. [410. Split Array Largest Sum](problem/410.md) *** (V)
-50. [15. 3Sum](problem/15.md)
-51. [56. Merge Intervals](problem/56.md)
-52. [753. Cracking the Safe](problem/753.md) ****
-53. [981. Time Based Key-Value Store](problem/981.md) **
-54. [1007. Minimum Domino Rotations For Equal Row](problem/1007.md) *
+50. [15. 3Sum](problem/15.md) *** (*need to review*)
+51. [56. Merge Intervals](problem/56.md) (V)
+52. [753. Cracking the Safe](problem/753.md) **** (*need to review*)
+53. [981. Time Based Key-Value Store](problem/981.md) ** (V)
+54. [1007. Minimum Domino Rotations For Equal Row](problem/1007.md) * (V)
 55. [616. Add Bold Tag in String](problem/616.md) **
 56. [159. Longest Substring with At Most Two Distinct Characters](problem/159.md) **
 57. [904. Fruit Into Baskets](problem/904.md)
@@ -199,6 +199,7 @@
 86. [249. Group Shifted Strings](problem/249.md) *
 87. [274. H-Index](problem/274.md) **
 88. [226. Invert Binary Tree](problem/226.md) *
+89. [360. Sort Transformed Array](problem/360.md) *
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) *****
