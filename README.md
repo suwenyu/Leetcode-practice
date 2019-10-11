@@ -297,16 +297,16 @@
 42. [133. Clone Graph](problem/133.md) *
 
 ##### LinkedIn Interview
-1. [243. Shortest Word Distance](problem/243.md) (V)
-2. [104. Maximum Depth of Binary Tree](problem/104.md) (V)
-3. [101. Symmetric Tree](problem/101.md) * (V)
-4. [716. Max Stack](problem/716.md) ** (*need to review*)
+1. [243. Shortest Word Distance](problem/243.md) (V, V)
+2. [104. Maximum Depth of Binary Tree](problem/104.md) (V, V)
+3. [101. Symmetric Tree](problem/101.md) * (V, V)
+4. [716. Max Stack](problem/716.md) ** (*need to review*, V)
 5. [50. Pow(x, n)](problem/50.md) * (*need to review*)
 6. [273. Integer to English Words](problem/273.md) * (V)
 7. [859. Buddy Strings](problem/859.md) (*need to review*)
-8. [364. Nested List Weight Sum II](problem/364.md) ** (V)
-9. [339. Nested List Weight Sum](problem/339.md) (V)
-10. [256. Paint House](problem/256.md) * (V)
+8. [364. Nested List Weight Sum II](problem/364.md) ** (V, V)
+9. [339. Nested List Weight Sum](problem/339.md) (V, V)
+10. [256. Paint House](problem/256.md) * (V, V)
 11. [605. Can Place Flowers](problem/605.md) (V)
 12. [170. Two Sum III - Data structure design](problem/170.md)  (V)
 13. [235. Lowest Common Ancestor of a Binary Search Tree](problem/235.md) * (*need to review*)
