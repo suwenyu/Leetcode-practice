@@ -309,12 +309,12 @@
 10. [256. Paint House](problem/256.md) * (V, V)
 11. [605. Can Place Flowers](problem/605.md) (V, *)
 12. [170. Two Sum III - Data structure design](problem/170.md)  (V, V)
-13. [235. Lowest Common Ancestor of a Binary Search Tree](problem/235.md) * (*need to review*)
-14. [156. Binary Tree Upside Down](problem/156.md) *** (*need to review*)
-15. [671. Second Minimum Node In a Binary Tree](problem/671.md) (V)
-16. [698. Partition to K Equal Sum Subsets](problem/698.md) **
-17. [416. Partition Equal Subset Sum](problem/416.md) **
-18. [366. Find Leaves of Binary Tree](problem/366.md) *
+13. [235. Lowest Common Ancestor of a Binary Search Tree](problem/235.md) * (*need to review*, *)
+14. [156. Binary Tree Upside Down](problem/156.md) *** (*need to review*, *)
+15. [671. Second Minimum Node In a Binary Tree](problem/671.md) (V, V)
+16. [698. Partition to K Equal Sum Subsets](problem/698.md) ** (*need to review*, *)
+17. [416. Partition Equal Subset Sum](problem/416.md) ** (*need to review*)
+18. [366. Find Leaves of Binary Tree](problem/366.md) * (V)
 19. [244. Shortest Word Distance II](problem/244.md)
 20. [272. Closest Binary Search Tree Value II](problem/272.md)
 21. [187. Repeated DNA Sequences](problem/187.md)
