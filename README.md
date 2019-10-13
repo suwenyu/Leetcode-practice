@@ -200,6 +200,8 @@
 87. [274. H-Index](problem/274.md) **
 88. [226. Invert Binary Tree](problem/226.md) *
 89. [360. Sort Transformed Array](problem/360.md) *
+90. [1218. Longest Arithmetic Subsequence of Given Difference](problem/1218.md) *
+91. [1219. Path with Maximum Gold](problem/1219.md) *
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) *****
@@ -315,11 +317,11 @@
 16. [698. Partition to K Equal Sum Subsets](problem/698.md) ** (*need to review*, *)
 17. [416. Partition Equal Subset Sum](problem/416.md) ** (*need to review*)
 18. [366. Find Leaves of Binary Tree](problem/366.md) * (V)
-19. [244. Shortest Word Distance II](problem/244.md)
-20. [272. Closest Binary Search Tree Value II](problem/272.md)
-21. [187. Repeated DNA Sequences](problem/187.md)
-22. [655. Print Binary Tree](problem/655.md) *
-23. [744. Find Smallest Letter Greater Than Target](problem/744.md) *
+19. [244. Shortest Word Distance II](problem/244.md) (V)
+20. [272. Closest Binary Search Tree Value II](problem/272.md) (*need to review*)
+21. [187. Repeated DNA Sequences](problem/187.md) (V)
+22. [655. Print Binary Tree](problem/655.md) * (V)
+23. [744. Find Smallest Letter Greater Than Target](problem/744.md) * (V)
 24. [373. Find K Pairs with Smallest Sums](problem/373.md)
 25. [254. Factor Combinations](problem/254.md) **
 26. [261. Graph Valid Tree](problem/261.md))
@@ -459,6 +461,7 @@
 13. [296. Best Meeting Point](problem/296.md) **
 14. [547. Friend Circles](problem/547.md)
 15. [451. Sort Characters By Frequency](problem/451.md)
+16. [1217. Play with Chips](problem/1217.md)
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
