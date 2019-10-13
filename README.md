@@ -322,11 +322,11 @@
 21. [187. Repeated DNA Sequences](problem/187.md) (V)
 22. [655. Print Binary Tree](problem/655.md) * (V)
 23. [744. Find Smallest Letter Greater Than Target](problem/744.md) * (V)
-24. [373. Find K Pairs with Smallest Sums](problem/373.md)
-25. [254. Factor Combinations](problem/254.md) **
-26. [261. Graph Valid Tree](problem/261.md))
-27. [245. Shortest Word Distance III](problem/245.md) **
-28. [516. Longest Palindromic Subsequence](problem/516.md) **
+24. [373. Find K Pairs with Smallest Sums](problem/373.md) (*need to review*)
+25. [254. Factor Combinations](problem/254.md) ** (V)
+26. [261. Graph Valid Tree](problem/261.md) (V)
+27. [245. Shortest Word Distance III](problem/245.md) ** (V)
+28. [516. Longest Palindromic Subsequence](problem/516.md) ** (*need to review*)
 29. [47. Permutations II](problem/47.md)
 30. [61. Rotate List](problem/61.md) **
 31. [277. Find the Celebrity](problem/277.md) *
