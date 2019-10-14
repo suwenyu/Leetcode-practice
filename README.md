@@ -327,12 +327,12 @@
 26. [261. Graph Valid Tree](problem/261.md) (V)
 27. [245. Shortest Word Distance III](problem/245.md) ** (V)
 28. [516. Longest Palindromic Subsequence](problem/516.md) ** (*need to review*)
-29. [47. Permutations II](problem/47.md)
-30. [61. Rotate List](problem/61.md) **
-31. [277. Find the Celebrity](problem/277.md) *
-32. [367. Valid Perfect Square](problem/367.md) *
-33. [748. Shortest Completing Word](problem/748.md) *
-34. [362. Design Hit Counter](problem/362.md) *
+29. [47. Permutations II](problem/47.md) (V)
+30. [61. Rotate List](problem/61.md) ** (*need to review*)
+31. [277. Find the Celebrity](problem/277.md) * (*need to review*)
+32. [367. Valid Perfect Square](problem/367.md) * (V)
+33. [748. Shortest Completing Word](problem/748.md) * (V)
+34. [362. Design Hit Counter](problem/362.md) * (V)
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
