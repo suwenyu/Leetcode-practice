@@ -412,6 +412,9 @@
 75. [108. Convert Sorted Array to Binary Search Tree](problem/108.md) *
 76. [204. Count Primes](problem/204.md) **
 77. [225. Implement Stack using Queues](problem/225.md) *
+78. [409. Longest Palindrome](problem/409.md)
+79. [866. Prime Palindrome](problem/866.md) *
+80. [456. 132 Pattern](problem/456.md) **
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
