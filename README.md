@@ -110,35 +110,58 @@
 3. [733. Flood Fill](problem/733.md)
 
 
-##### Google Interview
-1. [929. Unique Email Addresses](problem/929.md) (V)
-2. [463. Island Perimeter](problem/463.md) (V)
-3. [231. Power of Two](problem/231.md) (V)
-4. [326. Power of Three](problem/326.md) (V)
-5. [844. Backspace String Compare](problem/844.md) ** (V)
-6. [739. Daily Temperatures](problem/739.md) * (*need to review*)
-7. [535. Encode and Decode TinyURL](problem/535.md) 
-8. [22. Generate Parentheses](problem/22.md) ** (*need to review*)
-9. [253. Meeting Rooms II](problem/253.md) *
-10. [560. Subarray Sum Equals K](problem/560.md) ** (*need to review*)
-11. [200. Number of Islands](problem/200.md) * (V)
-12. [234. Palindrome Linked List](problem/234.md) ** (V)
-13. [1. Two Sum](problem/1.md) (V)
-14. [3. Longest Substring Without Repeating Characters](problem/3.md) * (*need to review*)
-15. [346. Moving Average from Data Stream](problem/346.md) (V)
-16. [811. Subdomain Visit Count](problem/811.md) (V)
-17. [359. Logger Rate Limiter](problem/359.md) (V)
-18. [252. Meeting Rooms](problem/252.md) (V)
+#### Google Interview
+***
+##### String
+1. [929. Unique Email Addresses](problem/929.md) (V, V)
+7. [535. Encode and Decode TinyURL](problem/535.md) (*need to review*)
 19. [482. License Key Formatting](problem/482.md) * (V)
-20. [734. Sentence Similarity](problem/734.md) * (V)
+
+##### Array
+2. [463. Island Perimeter](problem/463.md) (V, V)
 21. [849. Maximize Distance to Closest Person](problem/849.md) (V)
-22. [205. Isomorphic Strings](problem/205.md) * (*need to review*)
+24. [941. Valid Mountain Array](problem/941.md) * (*need to review*, V)
+
+##### Math
+3. [231. Power of Two](problem/231.md) (V, V)
+4. [326. Power of Three](problem/326.md) (V, V)
+15. [346. Moving Average from Data Stream](problem/346.md) (V, V)
 23. [246. Strobogrammatic Number](problem/246.md) (V)
-24. [941. Valid Mountain Array](problem/941.md) * (*need to review*)
-25. [69. Sqrt(x)](problem/69.md) ** (V)
+25. [69. Sqrt(x)](problem/69.md) ** (V, *need to review*)
+
+##### Stack
+5. [844. Backspace String Compare](problem/844.md) ** (V)
+
+##### Dynamic Programming
+6. [739. Daily Temperatures](problem/739.md) * (*need to review*, V)
+
+##### BackTracking
+8. [22. Generate Parentheses](problem/22.md) ** (*need to review*, V)
+
+##### HashMap
+9. [253. Meeting Rooms II](problem/253.md) * (V, V)
+10. [560. Subarray Sum Equals K](problem/560.md) ** (*need to review*, *review*)
+13. [1. Two Sum](problem/1.md) (V, V)
+14. [3. Longest Substring Without Repeating Characters](problem/3.md) * (*need to review*, *need to review*)
+16. [811. Subdomain Visit Count](problem/811.md) (V, V)
+17. [359. Logger Rate Limiter](problem/359.md) (V, V)
+18. [252. Meeting Rooms](problem/252.md) (V, V)
+20. [734. Sentence Similarity](problem/734.md) * (V, V)
+22. [205. Isomorphic Strings](problem/205.md) * (*need to review*, *need to review*)
+
+##### DFS
+11. [200. Number of Islands](problem/200.md) * (V, V)
+
+##### Linked List
+12. [234. Palindrome Linked List](problem/234.md) ** (V, V)
+
+
+
 26. [686. Repeated String Match](problem/686.md) (V)
 27. [157. Read N Characters Given Read4](problem/157.md) * (V)
+
 28. [1057. Campus Bikes](problem/1057.md) * (V)
+
 29. [484. Find Permutation](problem/484.md) * (*need to review*)
 30. [280. Wiggle Sort](problem/280.md) 
 31. [939. Minimum Area Rectangle](problem/939.md) * (*need to review*) **
@@ -202,6 +225,7 @@
 89. [360. Sort Transformed Array](problem/360.md) *
 90. [1218. Longest Arithmetic Subsequence of Given Difference](problem/1218.md) *
 91. [1219. Path with Maximum Gold](problem/1219.md) *
+92. [221. Maximal Square](problem/221.md)
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) *****
@@ -488,3 +512,6 @@
 
 ##### Class
 1. [155. Min Stack](problem/155.md) *
+
+##### TODO
+1. [1182. Shortest Distance to Target Color](https://leetcode.com/discuss/interview-question/402031/IBM-or-OA-2019-or-Who's-the-closest)
