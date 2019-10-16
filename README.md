@@ -161,6 +161,7 @@
 
 ##### DFS
 11. [200. Number of Islands](problem/200.md) * (V, V)
+36. [947. Most Stones Removed with Same Row or Column](problem/947.md) ** (*need to review*, V)
 
 ##### Linked List
 12. [234. Palindrome Linked List](problem/234.md) ** (V, V)
@@ -168,10 +169,11 @@
 ##### Game * 
 32. [723. Candy Crush](problem/723.md) * (*need to review*)
 
-
-
+##### SQL
 35. [175. Combine Two Tables](problem/175.md) (V) 
-36. [947. Most Stones Removed with Same Row or Column](problem/947.md) ** (*need to review*)
+
+##### Not Review
+
 37. [399. Evaluate Division](problem/399.md) * (*need to review*)
 38. [833. Find And Replace in String](problem/833.md) * (*need to review*)
 39. [543. Diameter of Binary Tree](problem/543.md) * (V) 
