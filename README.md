@@ -135,6 +135,7 @@
 50. [15. 3Sum](problem/15.md) *** (*need to review*, V)
 51. [56. Merge Intervals](problem/56.md) (V, V)
 54. [1007. Minimum Domino Rotations For Equal Row](problem/1007.md) * (V)(高頻)
+58. [57. Insert Interval](problem/57.md) * (*need to review*, LinkedIn)
 
 ##### Math
 3. [231. Power of Two](problem/231.md) (V, V)
@@ -146,6 +147,7 @@
 
 ##### Stack
 5. [844. Backspace String Compare](problem/844.md) ** (V)
+61. [1021. Remove Outermost Parentheses](problem/1021.md) * (*need to review*)
 
 ##### Dynamic Programming
 6. [739. Daily Temperatures](problem/739.md) * (*need to review*, V)
@@ -167,6 +169,9 @@
 22. [205. Isomorphic Strings](problem/205.md) * (*need to review*, *need to review*)
 31. [939. Minimum Area Rectangle](problem/939.md) * (*need to review*, *need to review*)
 43. [299. Bulls and Cows](problem/299.md) (V, V)
+56. [159. Longest Substring with At Most Two Distinct Characters](problem/159.md) ** (V)
+57. [904. Fruit Into Baskets](problem/904.md) 
+65. [414. Third Maximum Number](problem/414.md) * (*need to review*)
 
 ##### Map (Usually use Vector to solve)
 28. [1057. Campus Bikes](problem/1057.md) * (V, V)
@@ -182,6 +187,9 @@
 ##### Linked List
 12. [234. Palindrome Linked List](problem/234.md) ** (V, V)
 
+##### Dynamic Programming
+59. [975. Odd Even Jump](problem/975.md) *** (*need to review*)
+
 ##### Game * 
 32. [723. Candy Crush](problem/723.md) * (*need to review*)
 52. [753. Cracking the Safe](problem/753.md) **** (*need to review*)
@@ -191,20 +199,15 @@
 
 ##### System Design
 53. [981. Time Based Key-Value Store](problem/981.md) ** (V)
+62. [388. Longest Absolute File Path](problem/388.md) ** (*need to review*)
 
 ##### Not Review
 
-55. [616. Add Bold Tag in String](problem/616.md) **
-56. [159. Longest Substring with At Most Two Distinct Characters](problem/159.md) **
-57. [904. Fruit Into Baskets](problem/904.md)
-58. [57. Insert Interval](problem/57.md) * (LinkedIn)
-59. [975. Odd Even Jump](problem/975.md) ***
+55. [616. Add Bold Tag in String](problem/616.md) ** (*need to review*)
 60. [315. Count of Smaller Numbers After Self](problem/315.md) *****
-61. [1021. Remove Outermost Parentheses](problem/1021.md) *
-62. [388. Longest Absolute File Path](problem/388.md) **
 63. [683. K Empty Slots](problem/683.md) *****
 64. [681. Next Closest Time](problem/681.md) **
-65. [414. Third Maximum Number](problem/414.md) *
+
 66. [375. Guess Number Higher or Lower II](problem/375.md) *****
 67. [374. Guess Number Higher or Lower](problem/374.md)
 68. [1161. Maximum Level Sum of a Binary Tree](problem/1161.md)

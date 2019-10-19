@@ -2,6 +2,7 @@
 
 ##### Pratice Note
 1. subarray sum -> presum array of hashmap
+
 2. data stream題 -> 會需要class structure 並且define init function 與next function
 ex:
 ```c++
@@ -46,4 +47,12 @@ int main () {
 
 ```
 
+4. Minimax Alorithm
+Leetcode 486
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+$$x_{22}^{(n)}$$
+```
+f[i][j] = max(nums[i] + s[i+1][j], nums[j] + s[i][j-1]) 和 min(f[i+1][j], f[i][j-1])
+```
 
