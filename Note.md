@@ -48,11 +48,15 @@ int main () {
 ```
 
 4. Minimax Alorithm
-Leetcode 486
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-$$x_{22}^{(n)}$$
+什么是Minimax，它是用在决策轮、博弈论和概率论中的一条决策规则。它被用来最小化最坏情况下的可能损失。“最坏”情况是对手带来的最坏情况，“最小”是我要执行的一个最优策略的目标。
+
+Leetcode 486
 ```
 f[i][j] = max(nums[i] + s[i+1][j], nums[j] + s[i][j-1]) 和 min(f[i+1][j], f[i][j-1])
 ```
+
+Leetcode 375
+Leetcode 464
+
 

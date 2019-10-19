@@ -123,6 +123,7 @@
 40. [524. Longest Word in Dictionary through Deleting](problem/524.md) * (V, V)
 44. [459. Repeated Substring Pattern](problem/459.md) **  (*need to review*, KMG)
 48. [809. Expressive Words](problem/809.md) * (*need to review*)
+73. [1138. Alphabet Board Path](problem/1138.md) **
 
 ##### Array
 2. [463. Island Perimeter](problem/463.md) (V, V)
@@ -136,6 +137,8 @@
 51. [56. Merge Intervals](problem/56.md) (V, V)
 54. [1007. Minimum Domino Rotations For Equal Row](problem/1007.md) * (V)(高頻)
 58. [57. Insert Interval](problem/57.md) * (*need to review*, LinkedIn)
+69. [1184. Distance Between Bus Stops](problem/1184.md) ** (V)
+76. [228. Summary Ranges](problem/228.md)
 
 ##### Math
 3. [231. Power of Two](problem/231.md) (V, V)
@@ -144,6 +147,8 @@
 23. [246. Strobogrammatic Number](problem/246.md) (V)
 25. [69. Sqrt(x)](problem/69.md) ** (V, *need to review*)
 33. [702. Search in a Sorted Array of Unknown Size](problem/702.md) * (V, *need to review*)
+67. [374. Guess Number Higher or Lower](problem/374.md) (V)
+75. [66. Plus One](problem/66.md)
 
 ##### Stack
 5. [844. Backspace String Compare](problem/844.md) ** (V)
@@ -151,6 +156,10 @@
 
 ##### Dynamic Programming
 6. [739. Daily Temperatures](problem/739.md) * (*need to review*, V)
+59. [975. Odd Even Jump](problem/975.md) *** (*need to review*)
+66. [375. Guess Number Higher or Lower II](problem/375.md) *****
+70. [1144. Decrease Elements To Make Array Zigzag](problem/1144.md) ** (V)
+93. [312. Burst Balloons](problem/312.md) *****
 
 ##### BackTracking
 8. [22. Generate Parentheses](problem/22.md) ** (*need to review*, V)
@@ -183,12 +192,13 @@
 39. [543. Diameter of Binary Tree](problem/543.md) * (V, *need to review*) 
 41. [222. Count Complete Tree Nodes](problem/222.md) ** (V, V) 
 46. [979. Distribute Coins in Binary Tree](problem/979.md) * (V, V)
+71. [1145. Binary Tree Coloring Game](problem/1145.md) **
+
+##### BFS
+68. [1161. Maximum Level Sum of a Binary Tree](problem/1161.md) (V)
 
 ##### Linked List
 12. [234. Palindrome Linked List](problem/234.md) ** (V, V)
-
-##### Dynamic Programming
-59. [975. Odd Even Jump](problem/975.md) *** (*need to review*)
 
 ##### Game * 
 32. [723. Candy Crush](problem/723.md) * (*need to review*)
@@ -200,6 +210,8 @@
 ##### System Design
 53. [981. Time Based Key-Value Store](problem/981.md) ** (V)
 62. [388. Longest Absolute File Path](problem/388.md) ** (*need to review*)
+72. [1146. Snapshot Array](problem/1146) **
+74. [271. Encode and Decode Strings](problem/271.md) **
 
 ##### Not Review
 
@@ -207,18 +219,6 @@
 60. [315. Count of Smaller Numbers After Self](problem/315.md) *****
 63. [683. K Empty Slots](problem/683.md) *****
 64. [681. Next Closest Time](problem/681.md) **
-
-66. [375. Guess Number Higher or Lower II](problem/375.md) *****
-67. [374. Guess Number Higher or Lower](problem/374.md)
-68. [1161. Maximum Level Sum of a Binary Tree](problem/1161.md)
-69. [1184. Distance Between Bus Stops](problem/1184.md) **
-70. [1144. Decrease Elements To Make Array Zigzag](problem/1144.md) **
-71. [1145. Binary Tree Coloring Game](problem/1145.md) **
-72. [1146. Snapshot Array](problem/1146) **
-73. [1138. Alphabet Board Path](problem/1138.md) **
-74. [271. Encode and Decode Strings](problem/271.md) **
-75. [66. Plus One](problem/66.md)
-76. [228. Summary Ranges](problem/228.md)
 77. [284. Peeking Iterator](problem/284.md) **
 78. [329. Longest Increasing Path in a Matrix](problem/329.md) **
 79. [279. Perfect Squares](problem/279.md) **
@@ -448,6 +448,7 @@
 78. [409. Longest Palindrome](problem/409.md)
 79. [866. Prime Palindrome](problem/866.md) *
 80. [456. 132 Pattern](problem/456.md) **
+81. [1000. Minimum Cost to Merge Stones](problem/1000.md) *****
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
