@@ -239,9 +239,9 @@
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
 2. [1057. Campus Bikes](problem/1057.md) (!) (V)
-3. [1066. Campus Bikes II](problem/1066.md) ***** (!)
-4. [684. Redundant Connection](problem/684.md) **
-5. [685. Redundant Connection II](problem/685.md) *****
+3. [1066. Campus Bikes II](problem/1066.md) ***** (!) (*need to review*)
+4. [684. Redundant Connection](problem/684.md) ** (V)
+5. [685. Redundant Connection II](problem/685.md) ***** 
 6. [98. Validate Binary Search Tree](problem/98.md) (LinkedIn)
 7. [62. Unique Paths](problem/62.md)
 8. [63. Unique Paths II](problem/63.md)
