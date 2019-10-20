@@ -177,7 +177,7 @@
 20. [734. Sentence Similarity](problem/734.md) * (V, V)
 22. [205. Isomorphic Strings](problem/205.md) * (*need to review*, *need to review*)
 31. [939. Minimum Area Rectangle](problem/939.md) * (*need to review*, *need to review*)
-43. [299. Bulls and Cows](problem/299.md) (V, V)
+43. [299. Bulls and Cows](problem/299.md) (V, V) (!)
 56. [159. Longest Substring with At Most Two Distinct Characters](problem/159.md) ** (V)
 57. [904. Fruit Into Baskets](problem/904.md) 
 65. [414. Third Maximum Number](problem/414.md) * (*need to review*)
@@ -211,7 +211,7 @@
 53. [981. Time Based Key-Value Store](problem/981.md) ** (V)
 62. [388. Longest Absolute File Path](problem/388.md) ** (*need to review*)
 72. [1146. Snapshot Array](problem/1146) **
-74. [271. Encode and Decode Strings](problem/271.md) **
+74. [271. Encode and Decode Strings](problem/271.md) ** (!)
 
 ##### Not Review
 
@@ -237,9 +237,9 @@
 92. [221. Maximal Square](problem/221.md)
 
 ##### Google 高頻題
-1. [843. Guess the Word](problem/843.md) *****
-2. [1057. Campus Bikes](problem/1057.md)
-3. [1066. Campus Bikes II](problem/1066.md) *****
+1. [843. Guess the Word](problem/843.md) ***** (!) (V)
+2. [1057. Campus Bikes](problem/1057.md) (!) (V)
+3. [1066. Campus Bikes II](problem/1066.md) ***** (!)
 4. [684. Redundant Connection](problem/684.md) **
 5. [685. Redundant Connection II](problem/685.md) *****
 6. [98. Validate Binary Search Tree](problem/98.md) (LinkedIn)
