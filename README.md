@@ -449,6 +449,7 @@
 79. [866. Prime Palindrome](problem/866.md) *
 80. [456. 132 Pattern](problem/456.md) **
 81. [1000. Minimum Cost to Merge Stones](problem/1000.md) *****
+82. [1120. Maximum Average Subtree](problem/1120.md)
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
