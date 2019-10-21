@@ -499,6 +499,9 @@
 14. [547. Friend Circles](problem/547.md)
 15. [451. Sort Characters By Frequency](problem/451.md)
 16. [1217. Play with Chips](problem/1217.md)
+17. [1228. Missing Number In Arithmetic Progression](problem/1228.md)
+18. [1229. Meeting Scheduler](problem/1229.md)
+19. [1230. Toss Strange Coins](problem/1230.md) *
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
