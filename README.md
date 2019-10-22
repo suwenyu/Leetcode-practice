@@ -366,6 +366,7 @@
 32. [367. Valid Perfect Square](problem/367.md) * (V)
 33. [748. Shortest Completing Word](problem/748.md) * (V)
 34. [362. Design Hit Counter](problem/362.md) * (V)
+35. [149. Max Points on a Line](problem/149.md) ***
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
@@ -450,6 +451,7 @@
 80. [456. 132 Pattern](problem/456.md) **
 81. [1000. Minimum Cost to Merge Stones](problem/1000.md) *****
 82. [1120. Maximum Average Subtree](problem/1120.md)
+83. [134. Gas Station](problem/134.md) *
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
