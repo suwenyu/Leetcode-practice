@@ -235,6 +235,7 @@
 90. [1218. Longest Arithmetic Subsequence of Given Difference](problem/1218.md) *
 91. [1219. Path with Maximum Gold](problem/1219.md) *
 92. [221. Maximal Square](problem/221.md)
+93. [642. Design Search Autocomplete System](problem/642.md) **
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -330,6 +331,7 @@
 40. [81. Search in Rotated Sorted Array II](problem/81.md) **
 41. [449. Serialize and Deserialize BST](problem/449.md)
 42. [133. Clone Graph](problem/133.md) *
+43. [1213. Intersection of Three Sorted Arrays](problem/1213.md)
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md) (V, V)
@@ -367,6 +369,8 @@
 33. [748. Shortest Completing Word](problem/748.md) * (V)
 34. [362. Design Hit Counter](problem/362.md) * (V)
 35. [149. Max Points on a Line](problem/149.md) ***
+36. [265. Paint House II](problem/265.md) **
+65. [65. Valid Number](problem/65.md) **
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
@@ -452,6 +456,7 @@
 81. [1000. Minimum Cost to Merge Stones](problem/1000.md) *****
 82. [1120. Maximum Average Subtree](problem/1120.md)
 83. [134. Gas Station](problem/134.md) *
+84. [1214. Two Sum BSTs](problem/1214.md)
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -505,6 +510,7 @@
 17. [1228. Missing Number In Arithmetic Progression](problem/1228.md)
 18. [1229. Meeting Scheduler](problem/1229.md)
 19. [1230. Toss Strange Coins](problem/1230.md) *
+20. [1215. Stepping Numbers](problem/1215) *
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
@@ -531,4 +537,15 @@
 
 ##### TODO
 1. [1182. Shortest Distance to Target Color](https://leetcode.com/discuss/interview-question/402031/IBM-or-OA-2019-or-Who's-the-closest)
-2. [265. Paint House II](https://leetcode.com/problems/paint-house-ii/)
+
+##### Amazon Online Assessment Questions
+1. [138. Copy List with Random Pointer](problem/138.md) () 
+2. [21. Merge Two Sorted Lists](problem/21.md) (V)
+3. [572. Subtree of Another Tree](problem/572.md) (V)
+4. [240. Search a 2D Matrix II](problem/240.md) (V)
+
+##### Google Online Assessment Questions
+1. [Water Flower](https://leetcode.com/discuss/interview-question/394347/)
+2. [1007. Minimum Domino Rotations For Equal Row](problem/1007.md) 
+
+
