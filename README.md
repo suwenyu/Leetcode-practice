@@ -236,6 +236,8 @@
 91. [1219. Path with Maximum Gold](problem/1219.md) *
 92. [221. Maximal Square](problem/221.md)
 93. [642. Design Search Autocomplete System](problem/642.md) **
+94. [163. Missing Ranges](problem/163.md) **
+95. [247. Strobogrammatic Number II](problem/247) **
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
