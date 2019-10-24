@@ -238,6 +238,7 @@
 93. [642. Design Search Autocomplete System](problem/642.md) **
 94. [163. Missing Ranges](problem/163.md) **
 95. [247. Strobogrammatic Number II](problem/247) **
+96. [289. Game of Life](problem/289.md) **
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
