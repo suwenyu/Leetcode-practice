@@ -124,6 +124,7 @@
 44. [459. Repeated Substring Pattern](problem/459.md) **  (*need to review*, KMG)
 48. [809. Expressive Words](problem/809.md) * (*need to review*)
 73. [1138. Alphabet Board Path](problem/1138.md) **
+64. [681. Next Closest Time](problem/681.md) ** (*need to review*)
 
 ##### Array
 2. [463. Island Perimeter](problem/463.md) (V, V)
@@ -160,11 +161,13 @@
 66. [375. Guess Number Higher or Lower II](problem/375.md) *****
 70. [1144. Decrease Elements To Make Array Zigzag](problem/1144.md) ** (V)
 93. [312. Burst Balloons](problem/312.md) *****
+80. [276. Paint Fence](problem/276.md) ** (*almost understand*)
 
 ##### BackTracking
 8. [22. Generate Parentheses](problem/22.md) ** (*need to review*, V)
 45. [544. Output Contest Matches](problem/544.md) * (V, V)
 47. [394. Decode String](problem/394.md) ** (*need to review*, *need to review*)
+79. [279. Perfect Squares](problem/279.md) ** (*need to review*)
 
 ##### HashMap
 9. [253. Meeting Rooms II](problem/253.md) * (V, V)
@@ -193,6 +196,7 @@
 41. [222. Count Complete Tree Nodes](problem/222.md) ** (V, V) 
 46. [979. Distribute Coins in Binary Tree](problem/979.md) * (V, V)
 71. [1145. Binary Tree Coloring Game](problem/1145.md) **
+78. [329. Longest Increasing Path in a Matrix](problem/329.md) ** (V)
 
 ##### BFS
 68. [1161. Maximum Level Sum of a Binary Tree](problem/1161.md) (V)
@@ -212,17 +216,14 @@
 62. [388. Longest Absolute File Path](problem/388.md) ** (*need to review*)
 72. [1146. Snapshot Array](problem/1146) **
 74. [271. Encode and Decode Strings](problem/271.md) ** (!)
+77. [284. Peeking Iterator](problem/284.md) ** (*need to review*)
 
 ##### Not Review
 
 55. [616. Add Bold Tag in String](problem/616.md) ** (*need to review*)
 60. [315. Count of Smaller Numbers After Self](problem/315.md) *****
 63. [683. K Empty Slots](problem/683.md) *****
-64. [681. Next Closest Time](problem/681.md) **
-77. [284. Peeking Iterator](problem/284.md) **
-78. [329. Longest Increasing Path in a Matrix](problem/329.md) **
-79. [279. Perfect Squares](problem/279.md) **
-80. [276. Paint Fence](problem/276.md) **
+
 81. [400. Nth Digit](problem/400.md) **
 82. [218. The Skyline Problem](problem/218.md) *****
 83. [457. Circular Array Loop](problem/457.md) *****
@@ -239,6 +240,8 @@
 94. [163. Missing Ranges](problem/163.md) **
 95. [247. Strobogrammatic Number II](problem/247) **
 96. [289. Game of Life](problem/289.md) **
+97. [949. Largest Time for Given Digits](problem/949.md) **
+98. [1170. Compare Strings by Frequency of the Smallest](problem/1170.md)
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -247,7 +250,7 @@
 4. [684. Redundant Connection](problem/684.md) ** (V)
 5. [685. Redundant Connection II](problem/685.md) ***** 
 6. [98. Validate Binary Search Tree](problem/98.md) (LinkedIn)
-7. [62. Unique Paths](problem/62.md)
+7. [62. Unique Paths](problem/62.md) 
 8. [63. Unique Paths II](problem/63.md)
 9. [890. Find and Replace Pattern](problem/890.md)
 10. [205. Isomorphic Strings](problem/205.md)
@@ -548,7 +551,7 @@
 4. [240. Search a 2D Matrix II](problem/240.md) (V)
 
 ##### Google Online Assessment Questions
-1. [Water Flower](https://leetcode.com/discuss/interview-question/394347/)
+1. [Water Flower](https://leetcode.com/discuss/interview-question/394347/) [mycode](problem/water_flowers.md)
 2. [1007. Minimum Domino Rotations For Equal Row](problem/1007.md) 
 
 
