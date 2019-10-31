@@ -250,18 +250,18 @@
 4. [684. Redundant Connection](problem/684.md) ** (V)
 5. [685. Redundant Connection II](problem/685.md) ***** 
 6. [98. Validate Binary Search Tree](problem/98.md) (LinkedIn)
-7. [62. Unique Paths](problem/62.md) 
-8. [63. Unique Paths II](problem/63.md)
-9. [890. Find and Replace Pattern](problem/890.md)
-10. [205. Isomorphic Strings](problem/205.md)
-11. [489. Robot Room Cleaner](problem/489.md) *****
-12. [855. Exam Room](problem/855.md) **
-13. [497. Random Point in Non-overlapping Rectangles](problem/497.md) **
-14. [528. Random Pick with Weight](problem/528.md) **
-15. [853. Car Fleet](problem/853.md) **
-16. [857. Minimum Cost to Hire K Workers](problem/857.md) **
-17. [750. Number Of Corner Rectangles](problem/750.md) *
-18. [815. Bus Routes](problem/815.md) *****
+7. [62. Unique Paths](problem/62.md) (V)
+8. [63. Unique Paths II](problem/63.md) (V)
+9. [890. Find and Replace Pattern](problem/890.md) (V)
+10. [205. Isomorphic Strings](problem/205.md) (V)
+11. [489. Robot Room Cleaner](problem/489.md) ***** (*need to review*)
+12. [855. Exam Room](problem/855.md) ** (*need to review*)
+13. [497. Random Point in Non-overlapping Rectangles](problem/497.md) ** (*need to review*)
+14. [528. Random Pick with Weight](problem/528.md) ** 
+15. [853. Car Fleet](problem/853.md) ** (V)
+16. [857. Minimum Cost to Hire K Workers](problem/857.md) ** (*need to review*)
+17. [750. Number Of Corner Rectangles](problem/750.md) * (V)
+18. [815. Bus Routes](problem/815.md) ***** 
 19. [951. Flip Equivalent Binary Trees](problem/951.md)
 20. [1110. Delete Nodes And Return Forest](problem/1110.md) **
 21. [281. Zigzag Iterator](problem/281.md) 
@@ -533,7 +533,7 @@
 12. [152. Maximum Product Subarray](problem/152.md) *
 13. [322. Coin Change](problem/322.md)
 14. [221. Maximal Square](problem/221.md)
-15. [139. Word Break](problem/139.md) **
+15. [139. Word Break](problem/139.md) ** (*important*)
 
 ##### Divide and Conquer
 1. [932. Beautiful Array](problem/932.md) **
@@ -542,7 +542,10 @@
 1. [155. Min Stack](problem/155.md) *
 
 ##### TODO
-1. [1182. Shortest Distance to Target Color](https://leetcode.com/discuss/interview-question/402031/IBM-or-OA-2019-or-Who's-the-closest)
+1. [659. ]
+2. [523. ]
+3. [465. ]
+4. morris traversal
 
 ##### Amazon Online Assessment Questions
 1. [138. Copy List with Random Pointer](problem/138.md) () 

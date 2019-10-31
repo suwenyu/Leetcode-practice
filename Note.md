@@ -59,4 +59,12 @@ f[i][j] = max(nums[i] + s[i+1][j], nums[j] + s[i][j-1]) 和 min(f[i+1][j], f[i][
 Leetcode 375
 Leetcode 464
 
+5. 
+用 pointer 的next or previous 要記得用=
+ex.
+```c++
+it = next(it);
+// and
+it = prev(it);
+```
 
