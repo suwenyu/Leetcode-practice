@@ -261,9 +261,9 @@
 15. [853. Car Fleet](problem/853.md) ** (V)
 16. [857. Minimum Cost to Hire K Workers](problem/857.md) ** (*need to review*)
 17. [750. Number Of Corner Rectangles](problem/750.md) * (V)
-18. [815. Bus Routes](problem/815.md) ***** 
-19. [951. Flip Equivalent Binary Trees](problem/951.md)
-20. [1110. Delete Nodes And Return Forest](problem/1110.md) **
+18. [815. Bus Routes](problem/815.md) ***** (V)
+19. [951. Flip Equivalent Binary Trees](problem/951.md) (V)
+20. [1110. Delete Nodes And Return Forest](problem/1110.md) ** (V)
 21. [281. Zigzag Iterator](problem/281.md) 
 22. [68. Text Justification](problem/68.md) *****
 23. [1087. Brace Expansion](problem/1087) **
