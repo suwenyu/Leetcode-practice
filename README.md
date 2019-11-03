@@ -265,11 +265,11 @@
 19. [951. Flip Equivalent Binary Trees](problem/951.md) (V)
 20. [1110. Delete Nodes And Return Forest](problem/1110.md) ** (V)
 21. [281. Zigzag Iterator](problem/281.md) 
-22. [68. Text Justification](problem/68.md) *****
-23. [1087. Brace Expansion](problem/1087) **
-24. [676. Implement Magic Dictionary](problem/676.md) **
-25. [418. Sentence Screen Fitting](problem/418.md) *****
-26. [334. Increasing Triplet Subsequence](problem/334.md)
+22. [68. Text Justification](problem/68.md) ***** (*need to review*)
+23. [1087. Brace Expansion](problem/1087) ** (*need to review*)
+24. [676. Implement Magic Dictionary](problem/676.md) ** (V)
+25. [418. Sentence Screen Fitting](problem/418.md) ***** 
+26. [334. Increasing Triplet Subsequence](problem/334.md) (V)
 27. [394. Decode String](problem/47.md) **
 28. [774. Minimize Max Distance to Gas Station](problem/774.md) *****
 29. [337. House Robber III](problem/337.md) **
