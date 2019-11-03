@@ -68,3 +68,13 @@ it = next(it);
 it = prev(it);
 ```
 
+6. 
+sliding windows
+two pointers right, left
+if not enough, right++.
+if too much, left++
+
+ex:
+1234. 992. 904. 1248.
+
+

@@ -242,6 +242,7 @@
 96. [289. Game of Life](problem/289.md) **
 97. [949. Largest Time for Given Digits](problem/949.md) **
 98. [1170. Compare Strings by Frequency of the Smallest](problem/1170.md)
+99. [1237. Find Positive Integer Solution for a Given Equation](problem/1237.md)
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -338,6 +339,7 @@
 41. [449. Serialize and Deserialize BST](problem/449.md)
 42. [133. Clone Graph](problem/133.md) *
 43. [1213. Intersection of Three Sorted Arrays](problem/1213.md)
+44. [1249. Minimum Remove to Make Valid Parentheses](problem/1249) *
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md) (V, V)
@@ -517,6 +519,9 @@
 18. [1229. Meeting Scheduler](problem/1229.md)
 19. [1230. Toss Strange Coins](problem/1230.md) *
 20. [1215. Stepping Numbers](problem/1215) *
+21. [1248. Count Number of Nice Subarrays](problem/1248.md) *
+22. [1247. Minimum Swaps to Make Strings Equal](problem/1247)
+23. [1238. Circular Permutation in Binary Representation](problem/1238.md) *
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
