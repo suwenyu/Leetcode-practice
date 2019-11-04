@@ -243,6 +243,7 @@
 97. [949. Largest Time for Given Digits](problem/949.md) **
 98. [1170. Compare Strings by Frequency of the Smallest](problem/1170.md)
 99. [1237. Find Positive Integer Solution for a Given Equation](problem/1237.md)
+100. [213. House Robber II](problem/213.md) *
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -271,11 +272,10 @@
 24. [676. Implement Magic Dictionary](problem/676.md) ** (V)
 25. [418. Sentence Screen Fitting](problem/418.md) ***** 
 26. [334. Increasing Triplet Subsequence](problem/334.md) (V)
-27. [394. Decode String](problem/47.md) **
-28. [774. Minimize Max Distance to Gas Station](problem/774.md) *****
-29. [337. House Robber III](problem/337.md) **
-30. [340. Longest Substring with At Most K Distinct Characters](problem/340.md)
-31. [505. The Maze II](problem/505.md) **
+27. [394. Decode String](problem/394.md) ** (V)
+28. [774. Minimize Max Distance to Gas Station](problem/774.md) ***** (*need to review*)
+30. [340. Longest Substring with At Most K Distinct Characters](problem/340.md) (V)
+31. [505. The Maze II](problem/505.md) ** (*need to review*)
 32. [834. Sum of Distances in Tree](problem/834) *****
 33. [731. My Calendar II](problem/731.md)
 34. [768. Max Chunks To Make Sorted II](problem/768.md) **
@@ -294,6 +294,9 @@
 47. [60. Permutation Sequence](problem/60.md)
 48. [801. Minimum Swaps To Make Sequences Increasing](problem/801.md) *****
 49. [210. Course Schedule II](problem/210.md) **
+50. [337. House Robber III](problem/337.md) ** (V)
+51. [198. House Robber](problem/198.md) (V)
+52. [213. House Robber II](problem/213.md) * (V)
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
