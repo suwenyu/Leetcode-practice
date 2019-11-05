@@ -276,9 +276,9 @@
 28. [774. Minimize Max Distance to Gas Station](problem/774.md) ***** (*need to review*)
 30. [340. Longest Substring with At Most K Distinct Characters](problem/340.md) (V)
 31. [505. The Maze II](problem/505.md) ** (*need to review*)
-32. [834. Sum of Distances in Tree](problem/834) *****
-35. [287. Find the Duplicate Number](problem/287.md) *
-36. [987. Vertical Order Traversal of a Binary Tree](problem/987.md) **
+32. [834. Sum of Distances in Tree](problem/834) ***** (*need to review*)
+35. [287. Find the Duplicate Number](problem/287.md) * (*need to review*) 
+36. [987. Vertical Order Traversal of a Binary Tree](problem/987.md) ** 
 37. [288. Unique Word Abbreviation](problem/288.md) *
 38. [562. Longest Line of Consecutive One in Matrix](problem/562.md)
 39. [188. Best Time to Buy and Sell Stock IV](problem/188.md) *****
