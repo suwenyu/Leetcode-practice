@@ -277,8 +277,6 @@
 30. [340. Longest Substring with At Most K Distinct Characters](problem/340.md) (V)
 31. [505. The Maze II](problem/505.md) ** (*need to review*)
 32. [834. Sum of Distances in Tree](problem/834) *****
-33. [731. My Calendar II](problem/731.md)
-34. [768. Max Chunks To Make Sorted II](problem/768.md) **
 35. [287. Find the Duplicate Number](problem/287.md) *
 36. [987. Vertical Order Traversal of a Binary Tree](problem/987.md) **
 37. [288. Unique Word Abbreviation](problem/288.md) *
@@ -297,6 +295,11 @@
 50. [337. House Robber III](problem/337.md) ** (V)
 51. [198. House Robber](problem/198.md) (V)
 52. [213. House Robber II](problem/213.md) * (V)
+53. [769. Max Chunks To Make Sorted](problem/769.md) (V)
+54. [768. Max Chunks To Make Sorted II](problem/768.md) ** (V)
+55. [729. My Calendar I](problem/729.md) (V)
+56. [731. My Calendar II](problem/731.md) (V)
+57. [732. My Calendar III](problem/732.md) (V)
 
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
