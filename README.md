@@ -244,6 +244,7 @@
 98. [1170. Compare Strings by Frequency of the Smallest](problem/1170.md)
 99. [1237. Find Positive Integer Solution for a Given Equation](problem/1237.md)
 100. [213. House Robber II](problem/213.md) *
+101. [1245. Tree Diameter](problem/1245.md)) *
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -528,6 +529,8 @@
 21. [1248. Count Number of Nice Subarrays](problem/1248.md) *
 22. [1247. Minimum Swaps to Make Strings Equal](problem/1247)
 23. [1238. Circular Permutation in Binary Representation](problem/1238.md) *
+24. [1243. Array Transformation](problem/1243.md)
+25. [1244. Design A Leaderboard](problem/1244.md)
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
