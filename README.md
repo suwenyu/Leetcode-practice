@@ -149,7 +149,8 @@
 25. [69. Sqrt(x)](problem/69.md) ** (V, *need to review*)
 33. [702. Search in a Sorted Array of Unknown Size](problem/702.md) * (V, *need to review*)
 67. [374. Guess Number Higher or Lower](problem/374.md) (V)
-75. [66. Plus One](problem/66.md)
+75. [66. Plus One](problem/66.md) (V)
+81. [400. Nth Digit](problem/400.md) ** (*need to review*)
 
 ##### Stack
 5. [844. Backspace String Compare](problem/844.md) ** (V)
@@ -184,6 +185,7 @@
 56. [159. Longest Substring with At Most Two Distinct Characters](problem/159.md) ** (V)
 57. [904. Fruit Into Baskets](problem/904.md) 
 65. [414. Third Maximum Number](problem/414.md) * (*need to review*)
+86. [249. Group Shifted Strings](problem/249.md) * (V)
 
 ##### Map (Usually use Vector to solve)
 28. [1057. Campus Bikes](problem/1057.md) * (V, V)
@@ -223,13 +225,10 @@
 55. [616. Add Bold Tag in String](problem/616.md) ** (*need to review*)
 60. [315. Count of Smaller Numbers After Self](problem/315.md) *****
 63. [683. K Empty Slots](problem/683.md) *****
-
-81. [400. Nth Digit](problem/400.md) **
 82. [218. The Skyline Problem](problem/218.md) *****
 83. [457. Circular Array Loop](problem/457.md) *****
 84. [361. Bomb Enemy](problem/361.md) **
 85. [305. Number of Islands II](problem/305.md) *
-86. [249. Group Shifted Strings](problem/249.md) *
 87. [274. H-Index](problem/274.md) **
 88. [226. Invert Binary Tree](problem/226.md) *
 89. [360. Sort Transformed Array](problem/360.md) *
