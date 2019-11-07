@@ -346,6 +346,7 @@
 42. [133. Clone Graph](problem/133.md) *
 43. [1213. Intersection of Three Sorted Arrays](problem/1213.md)
 44. [1249. Minimum Remove to Make Valid Parentheses](problem/1249) *
+45. [989. Add to Array-Form of Integer](problem/989.md)
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md) (V, V)
@@ -530,6 +531,8 @@
 23. [1238. Circular Permutation in Binary Representation](problem/1238.md) *
 24. [1243. Array Transformation](problem/1243.md)
 25. [1244. Design A Leaderboard](problem/1244.md)
+26. [990. Satisfiability of Equality Equations](problem/990.md)
+27. [991. Broken Calculator](problem/991.md) *
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
