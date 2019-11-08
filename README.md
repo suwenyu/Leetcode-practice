@@ -33,7 +33,7 @@
 16. [38. Count and Say](problem/38.md)
 17. [125. Valid Palindrome](problem/125.md)
 18. [680. Valid Palindrome II](problem/680.md)
-19. [20. Valid Parentheses](problem/20.md)
+19. [20. Valid Parentheses](problem/20.md) (V)
 
 ##### Array
 1. [485. Max Consecutive Ones](problem/485.md)
@@ -199,6 +199,7 @@
 46. [979. Distribute Coins in Binary Tree](problem/979.md) * (V, V)
 71. [1145. Binary Tree Coloring Game](problem/1145.md) **
 78. [329. Longest Increasing Path in a Matrix](problem/329.md) ** (V)
+88. [226. Invert Binary Tree](problem/226.md) * (V)
 
 ##### BFS
 68. [1161. Maximum Level Sum of a Binary Tree](problem/1161.md) (V)
@@ -230,7 +231,6 @@
 84. [361. Bomb Enemy](problem/361.md) **
 85. [305. Number of Islands II](problem/305.md) *
 87. [274. H-Index](problem/274.md) **
-88. [226. Invert Binary Tree](problem/226.md) *
 89. [360. Sort Transformed Array](problem/360.md) *
 90. [1218. Longest Arithmetic Subsequence of Given Difference](problem/1218.md) *
 91. [1219. Path with Maximum Gold](problem/1219.md) *
@@ -242,8 +242,9 @@
 97. [949. Largest Time for Given Digits](problem/949.md) **
 98. [1170. Compare Strings by Frequency of the Smallest](problem/1170.md)
 99. [1237. Find Positive Integer Solution for a Given Equation](problem/1237.md)
-100. [213. House Robber II](problem/213.md) *
 101. [1245. Tree Diameter](problem/1245.md)) *
+102. [1089. Duplicate Zeros](problem/1089.md)
+103. [1090. Largest Values From Labels](problem/1090)
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -347,6 +348,7 @@
 43. [1213. Intersection of Three Sorted Arrays](problem/1213.md)
 44. [1249. Minimum Remove to Make Valid Parentheses](problem/1249) *
 45. [989. Add to Array-Form of Integer](problem/989.md)
+46. [977. Squares of a Sorted Array](problem/977.md)
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md) (V, V)
@@ -472,6 +474,8 @@
 82. [1120. Maximum Average Subtree](problem/1120.md)
 83. [134. Gas Station](problem/134.md) *
 84. [1214. Two Sum BSTs](problem/1214.md)
+85. [155. Min Stack](problem/155.md) *
+86. [1091. Shortest Path in Binary Matrix](problem/1091.md) *
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -533,6 +537,7 @@
 25. [1244. Design A Leaderboard](problem/1244.md)
 26. [990. Satisfiability of Equality Equations](problem/990.md)
 27. [991. Broken Calculator](problem/991.md) *
+28. [978. Longest Turbulent Subarray](problem/978.md)
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
