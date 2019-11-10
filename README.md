@@ -245,6 +245,7 @@
 101. [1245. Tree Diameter](problem/1245.md)) *
 102. [1089. Duplicate Zeros](problem/1089.md)
 103. [1090. Largest Values From Labels](problem/1090)
+104. [1254. Number of Closed Islands](problem/1254.md)
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -476,9 +477,12 @@
 84. [1214. Two Sum BSTs](problem/1214.md)
 85. [155. Min Stack](problem/155.md) *
 86. [1091. Shortest Path in Binary Matrix](problem/1091.md) *
+87. [725. Split Linked List in Parts](problem/725.md) *
+88. [726. Number of Atoms](problem/726.md) **
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
+2. [724. Find Pivot Index](problem/724.md)
 
 ##### Uber
 1. [68. Text Justification](problem/68.md) *****
@@ -538,6 +542,7 @@
 26. [990. Satisfiability of Equality Equations](problem/990.md)
 27. [991. Broken Calculator](problem/991.md) *
 28. [978. Longest Turbulent Subarray](problem/978.md)
+29. [984. String Without AAA or BBB](problem/984.md) *
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md)
