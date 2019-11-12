@@ -544,10 +544,11 @@
 28. [978. Longest Turbulent Subarray](problem/978.md)
 29. [984. String Without AAA or BBB](problem/984.md) *
 30. [718. Maximum Length of Repeated Subarray](problem/718.md) **
+31. [91. Decode Ways](problem/91.md) *
 
 ##### Dynamic Programming
-1. [53. Maximum Subarray](problem/53.md)
-2. [121. Best Time to Buy and Sell Stock](problem/121.md)
+1. [53. Maximum Subarray](problem/53.md) (V)
+2. [121. Best Time to Buy and Sell Stock](problem/121.md) (V)
 3. [746. Min Cost Climbing Stairs](problem/746.md)
 4. [70. Climbing Stairs](problem/70.md)
 5. [198. House Robber](problem/198.md)
@@ -556,11 +557,12 @@
 8. [877. Stone Game](problem/877.md) **
 9. [931. Minimum Falling Path Sum](problem/931.md)
 10. [983. Minimum Cost For Tickets](problem/983.md) *
-11. [5. Longest Palindromic Substring](problem/5.md) *
+11. [5. Longest Palindromic Substring](problem/5.md) * (*need to review*)
 12. [152. Maximum Product Subarray](problem/152.md) *
-13. [322. Coin Change](problem/322.md)
+13. [322. Coin Change](problem/322.md) (*need to review*)
 14. [221. Maximal Square](problem/221.md)
 15. [139. Word Break](problem/139.md) ** (*important*)
+16. [91. Decode Ways](problem/91.md) *
 
 ##### Divide and Conquer
 1. [932. Beautiful Array](problem/932.md) **
