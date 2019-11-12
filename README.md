@@ -349,6 +349,7 @@
 44. [1249. Minimum Remove to Make Valid Parentheses](problem/1249) *
 45. [989. Add to Array-Form of Integer](problem/989.md)
 46. [977. Squares of a Sorted Array](problem/977.md)
+47. [1004. Max Consecutive Ones III](problem/1004) *
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md) (V, V)
@@ -545,6 +546,7 @@
 29. [984. String Without AAA or BBB](problem/984.md) *
 30. [718. Maximum Length of Repeated Subarray](problem/718.md) **
 31. [91. Decode Ways](problem/91.md) *
+32. [1003. Check If Word Is Valid After Substitutions](problem/1003.md)
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)

@@ -77,4 +77,8 @@ if too much, left++
 ex:
 1234. 992. 904. 1248.
 
+7. subarray 的題
+idea: sliding window, tow pointers, 
+ex: subarray with k different (solution is to calculate the at most k difference and minus at most (k-1) difference)
+
 
