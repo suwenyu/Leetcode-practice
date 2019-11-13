@@ -350,6 +350,7 @@
 45. [989. Add to Array-Form of Integer](problem/989.md)
 46. [977. Squares of a Sorted Array](problem/977.md)
 47. [1004. Max Consecutive Ones III](problem/1004) *
+48. [523. Continuous Subarray Sum](problem/523.md) *
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md) (V, V)
@@ -480,6 +481,7 @@
 87. [725. Split Linked List in Parts](problem/725.md) *
 88. [726. Number of Atoms](problem/726.md) **
 89. [654. Maximum Binary Tree](problem/654.md) *
+90. [992. Subarrays with K Different Integers](problem/992.md)
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -535,7 +537,7 @@
 18. [1229. Meeting Scheduler](problem/1229.md)
 19. [1230. Toss Strange Coins](problem/1230.md) *
 20. [1215. Stepping Numbers](problem/1215) *
-21. [1248. Count Number of Nice Subarrays](problem/1248.md) *
+21. [1248. Count Number of Nice Subarrays](problem/1248.md) * 
 22. [1247. Minimum Swaps to Make Strings Equal](problem/1247)
 23. [1238. Circular Permutation in Binary Representation](problem/1238.md) *
 24. [1243. Array Transformation](problem/1243.md)
@@ -547,6 +549,7 @@
 30. [718. Maximum Length of Repeated Subarray](problem/718.md) **
 31. [91. Decode Ways](problem/91.md) *
 32. [1003. Check If Word Is Valid After Substitutions](problem/1003.md)
+33. [1234. Replace the Substring for Balanced String](problem/1234.md) *
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)

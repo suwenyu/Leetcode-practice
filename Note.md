@@ -80,5 +80,6 @@ ex:
 7. subarray 的題
 idea: sliding window, tow pointers, 
 ex: subarray with k different (solution is to calculate the at most k difference and minus at most (k-1) difference)
-
+一種是計算最多k個不同的字母的substring最長長度
+另一種是substring有k個不同的字母 總共有多少substring
 
