@@ -245,6 +245,7 @@
 102. [1089. Duplicate Zeros](problem/1089.md)
 103. [1090. Largest Values From Labels](problem/1090)
 104. [1254. Number of Closed Islands](problem/1254.md)
+105. [852. Peak Index in a Mountain Array](problem/852.md)
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -258,10 +259,10 @@
 9. [890. Find and Replace Pattern](problem/890.md) (V)
 10. [205. Isomorphic Strings](problem/205.md) (V)
 11. [489. Robot Room Cleaner](problem/489.md) ***** (*need to review*)
-12. [855. Exam Room](problem/855.md) ** (*need to review*)
+12. [855. Exam Room](problem/855.md) ** (*need to review*, *need to review*)
 13. [497. Random Point in Non-overlapping Rectangles](problem/497.md) ** (*need to review*)
 14. [528. Random Pick with Weight](problem/528.md) ** 
-15. [853. Car Fleet](problem/853.md) ** (V)
+15. [853. Car Fleet](problem/853.md) ** (V, V)
 16. [857. Minimum Cost to Hire K Workers](problem/857.md) ** (*need to review*)
 17. [750. Number Of Corner Rectangles](problem/750.md) * (V)
 18. [815. Bus Routes](problem/815.md) ***** (V)
