@@ -102,7 +102,7 @@
 2. [506. Relative Ranks](problem/506.md) *
 
 ##### Greedy
-1. [122. Best Time to Buy and Sell Stock II](problem/122.md)
+1. [122. Best Time to Buy and Sell Stock II](problem/122.md) (V)
 
 ##### Depth First Search
 1. [695. Max Area of Island](problem/695.md)
@@ -246,6 +246,7 @@
 103. [1090. Largest Values From Labels](problem/1090)
 104. [1254. Number of Closed Islands](problem/1254.md)
 105. [852. Peak Index in a Mountain Array](problem/852.md)
+106. [926. Flip String to Monotone Increasing](problem/926) **
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -554,10 +555,11 @@
 33. [1234. Replace the Substring for Balanced String](problem/1234.md) *
 34. [500. Keyboard Row](problem/500.md)
 35. [502. IPO](problem/502.md) **
+36. [925. Long Pressed Name](problem/925.md) *
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
-2. [121. Best Time to Buy and Sell Stock](problem/121.md) (V)
+2. [121. Best Time to Buy and Sell Stock](problem/121.md) (V, V)
 3. [746. Min Cost Climbing Stairs](problem/746.md)
 4. [70. Climbing Stairs](problem/70.md)
 5. [198. House Robber](problem/198.md)
