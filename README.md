@@ -247,6 +247,7 @@
 104. [1254. Number of Closed Islands](problem/1254.md)
 105. [852. Peak Index in a Mountain Array](problem/852.md)
 106. [926. Flip String to Monotone Increasing](problem/926) **
+107. [714. Best Time to Buy and Sell Stock with Transaction Fee](problem/714.md) **
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -556,6 +557,7 @@
 34. [500. Keyboard Row](problem/500.md)
 35. [502. IPO](problem/502.md) **
 36. [925. Long Pressed Name](problem/925.md) *
+37. [712. Minimum ASCII Delete Sum for Two Strings](problem/712.md) **
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
