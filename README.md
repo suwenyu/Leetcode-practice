@@ -503,6 +503,7 @@
 ##### Adobe
 1. [1108. Defanging an IP Address](problem/1108.md)
 2. [669. Trim a Binary Search Tree](problem/669.md) *
+3. [728. Self Dividing Numbers](problem/728.md)
 
 ##### Microsoft
 1. [1114. Print in Order](problem/1114.md) **
@@ -519,6 +520,7 @@
 12. [232. Implement Queue using Stacks](problem/232.md) *
 13. [450. Delete Node in a BST](problem/450.md) **
 14. [701. Insert into a Binary Search Tree](problem/701)
+15. [650. 2 Keys Keyboard](problem/650.md) **
 
 ##### Other Company
 1. [1156. Swap For Longest Repeated Character Substring](problem/1156.md) *
@@ -558,6 +560,7 @@
 35. [502. IPO](problem/502.md) **
 36. [925. Long Pressed Name](problem/925.md) *
 37. [712. Minimum ASCII Delete Sum for Two Strings](problem/712.md) **
+38. [652. Find Duplicate Subtrees](problem/652.md) **
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
