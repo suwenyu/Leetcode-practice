@@ -248,6 +248,7 @@
 105. [852. Peak Index in a Mountain Array](problem/852.md)
 106. [926. Flip String to Monotone Increasing](problem/926) **
 107. [714. Best Time to Buy and Sell Stock with Transaction Fee](problem/714.md) **
+108. [1261. Find Elements in a Contaminated Binary Tree](problem/1261.md)
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -486,6 +487,7 @@
 89. [654. Maximum Binary Tree](problem/654.md) *
 90. [992. Subarrays with K Different Integers](problem/992.md)
 91. [508. Most Frequent Subtree Sum](problem/508.md)
+92. [1260. Shift 2D Grid](problem/1260.md)
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -561,6 +563,7 @@
 36. [925. Long Pressed Name](problem/925.md) *
 37. [712. Minimum ASCII Delete Sum for Two Strings](problem/712.md) **
 38. [652. Find Duplicate Subtrees](problem/652.md) **
+39. [1262. Greatest Sum Divisible by Three](problem/1262.md) **
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
