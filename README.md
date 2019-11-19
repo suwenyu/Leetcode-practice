@@ -488,6 +488,7 @@
 90. [992. Subarrays with K Different Integers](problem/992.md)
 91. [508. Most Frequent Subtree Sum](problem/508.md)
 92. [1260. Shift 2D Grid](problem/1260.md)
+93. [1026. Maximum Difference Between Node and Ancestor](problem/1026.md) *
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -564,6 +565,9 @@
 37. [712. Minimum ASCII Delete Sum for Two Strings](problem/712.md) **
 38. [652. Find Duplicate Subtrees](problem/652.md) **
 39. [1262. Greatest Sum Divisible by Three](problem/1262.md) **
+40. [1257. Smallest Common Region](problem/1257.md) *
+41. [1256. Encode Number](problem/1256.md) *
+42. [1025. Divisor Game](problem/1025.md) **
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
