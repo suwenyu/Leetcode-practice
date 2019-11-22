@@ -356,6 +356,7 @@
 46. [977. Squares of a Sorted Array](problem/977.md)
 47. [1004. Max Consecutive Ones III](problem/1004) *
 48. [523. Continuous Subarray Sum](problem/523.md) *
+49. [848. Shifting Letters](problem/848.md)
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md) (V, V)
@@ -490,6 +491,7 @@
 91. [508. Most Frequent Subtree Sum](problem/508.md)
 92. [1260. Shift 2D Grid](problem/1260.md)
 93. [1026. Maximum Difference Between Node and Ancestor](problem/1026.md) *
+94. [851. Loud and Rich](problem/851.md) **
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
