@@ -397,6 +397,7 @@
 35. [149. Max Points on a Line](problem/149.md) ***
 36. [265. Paint House II](problem/265.md) **
 65. [65. Valid Number](problem/65.md) **
+66. [633. Sum of Square Numbers](problem/633.md)
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
@@ -493,6 +494,7 @@
 92. [1260. Shift 2D Grid](problem/1260.md)
 93. [1026. Maximum Difference Between Node and Ancestor](problem/1026.md) *
 94. [851. Loud and Rich](problem/851.md) **
+95. [634. Find the Derangement of An Array](problem/634.md) **
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
