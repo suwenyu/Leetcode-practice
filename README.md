@@ -250,6 +250,7 @@
 107. [714. Best Time to Buy and Sell Stock with Transaction Fee](problem/714.md) **
 108. [1261. Find Elements in a Contaminated Binary Tree](problem/1261.md)
 109. [830. Positions of Large Groups](problem/830.md)
+110. [593. Valid Square](problem/593.md) *
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -572,6 +573,7 @@
 41. [1256. Encode Number](problem/1256.md) *
 42. [1025. Divisor Game](problem/1025.md) **
 43. [831. Masking Personal Information](problem/831.md) **
+44. [594. Longest Harmonious Subsequence](problem/594.md)
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
