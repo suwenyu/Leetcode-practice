@@ -495,6 +495,7 @@
 93. [1026. Maximum Difference Between Node and Ancestor](problem/1026.md) *
 94. [851. Loud and Rich](problem/851.md) **
 95. [634. Find the Derangement of An Array](problem/634.md) **
+96. [974. Subarray Sums Divisible by K](problem/974.md) **
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -576,6 +577,7 @@
 42. [1025. Divisor Game](problem/1025.md) **
 43. [831. Masking Personal Information](problem/831.md) **
 44. [594. Longest Harmonious Subsequence](problem/594.md)
+45. [976. Largest Perimeter Triangle](problem/976.md) *
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
