@@ -251,6 +251,9 @@
 108. [1261. Find Elements in a Contaminated Binary Tree](problem/1261.md)
 109. [830. Positions of Large Groups](problem/830.md)
 110. [593. Valid Square](problem/593.md) *
+111. [1267. Count Servers that Communicate](problem/1267.md)
+112. [1272. Remove Interval](problem/1272.md)
+113. [1277. Count Square Submatrices with All Ones](problem/1277.md)
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -496,6 +499,7 @@
 94. [851. Loud and Rich](problem/851.md) **
 95. [634. Find the Derangement of An Array](problem/634.md) **
 96. [974. Subarray Sums Divisible by K](problem/974.md) **
+97. [1268. Search Suggestions System](problem/1268.md) * (todo)
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -531,6 +535,7 @@
 13. [450. Delete Node in a BST](problem/450.md) **
 14. [701. Insert into a Binary Search Tree](problem/701)
 15. [650. 2 Keys Keyboard](problem/650.md) **
+16. [1273. Delete Tree Nodes](problem/1273.md) **
 
 ##### Other Company
 1. [1156. Swap For Longest Repeated Character Substring](problem/1156.md) *
@@ -578,6 +583,10 @@
 43. [831. Masking Personal Information](problem/831.md) **
 44. [594. Longest Harmonious Subsequence](problem/594.md)
 45. [976. Largest Perimeter Triangle](problem/976.md) *
+46. [1266. Minimum Time Visiting All Points](problem/1266.md)
+47. [1271. Hexspeak](problem/1271.md)
+48. [1275. Find Winner on a Tic Tac Toe Game](problem/1275.md)
+49. [1276. Number of Burgers with No Waste of Ingredients](problem/1276.md)
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
