@@ -13,6 +13,7 @@
 8. [172. Factorial Trailing Zeroes](problem/172.md) *
 9. [1185. Day of the Week](problem/1185.md) ***
 10. [1154. Day of the Year](problem/1154.md)
+11. [869. Reordered Power of 2](problem/869.md) *
 
 ##### String
 1. [804. Unique Morse Code Words](problem/804.md)
@@ -361,6 +362,7 @@
 47. [1004. Max Consecutive Ones III](problem/1004) *
 48. [523. Continuous Subarray Sum](problem/523.md) *
 49. [848. Shifting Letters](problem/848.md)
+50. [461. Hamming Distance](problem/461.md) *
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md) (V, V)
@@ -587,6 +589,7 @@
 47. [1271. Hexspeak](problem/1271.md)
 48. [1275. Find Winner on a Tic Tac Toe Game](problem/1275.md)
 49. [1276. Number of Burgers with No Waste of Ingredients](problem/1276.md)
+50. [868. Binary Gap](problem/868.md) 
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
