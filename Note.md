@@ -83,3 +83,15 @@ ex: subarray with k different (solution is to calculate the at most k difference
 一種是計算最多k個不同的字母的substring最長長度
 另一種是substring有k個不同的字母 總共有多少substring
 
+
+8. stack 的題
+
+Example:
+1. [1130. Minimum Cost Tree From Leaf Values](problem/1130.md)
+2. [907. Sum of Subarray Minimums]
+3. [901. Online Stock Span]
+4. [856. Score of Parentheses](problem/856.md)
+5. [503. Next Greater Element II](problem/503.md)
+6. [496. Next Greater Element I]
+7. [84. Largest Rectangle in Histogram]
+8. [42. Trapping Rain Water](problem/42.md)

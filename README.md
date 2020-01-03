@@ -110,6 +110,8 @@
 2. [690. Employee Importance](problem/690.md) *
 3. [733. Flood Fill](problem/733.md)
 
+##### Stack
+1. [856. Score of Parentheses](problem/856.md)
 
 #### Google Interview
 ***
@@ -257,6 +259,8 @@
 113. [1277. Count Square Submatrices with All Ones](problem/1277.md)
 114. [1296. Divide Array in Sets of K Consecutive Numbers](problem/1296.md)
 115. [806. Number of Lines To Write String](problem/806.md)
+116. [859. Buddy Strings](problem/859.md)
+117. [858. Mirror Reflection](problem/858.md) **
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -373,7 +377,7 @@
 4. [716. Max Stack](problem/716.md) ** (*need to review*, V)
 5. [50. Pow(x, n)](problem/50.md) * (*need to review*) (高頻)
 6. [273. Integer to English Words](problem/273.md) * (V)
-7. [859. Buddy Strings](problem/859.md) (*need to review*)
+7. [859. Buddy Strings](problem/859.md) (*need to review*, V) 
 8. [364. Nested List Weight Sum II](problem/364.md) ** (V, V) (高頻)
 9. [339. Nested List Weight Sum](problem/339.md) (V, V)
 10. [256. Paint House](problem/256.md) * (V, V) (高頻)
