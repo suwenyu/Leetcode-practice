@@ -255,6 +255,8 @@
 111. [1267. Count Servers that Communicate](problem/1267.md)
 112. [1272. Remove Interval](problem/1272.md)
 113. [1277. Count Square Submatrices with All Ones](problem/1277.md)
+114. [1296. Divide Array in Sets of K Consecutive Numbers](problem/1296.md)
+115. [806. Number of Lines To Write String](problem/806.md)
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -504,6 +506,7 @@
 97. [1268. Search Suggestions System](problem/1268.md) * (todo)
 98. [1023. Camelcase Matching](problem/1023.md) **
 99. [1022. Sum of Root To Leaf Binary Numbers](problem/1022.md)
+100. [807. Max Increase to Keep City Skyline](problem/807.md)
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -592,6 +595,11 @@
 48. [1275. Find Winner on a Tic Tac Toe Game](problem/1275.md)
 49. [1276. Number of Burgers with No Waste of Ingredients](problem/1276.md)
 50. [868. Binary Gap](problem/868.md) 
+51. [754. Reach a Number](problem/754.md) **
+52. [1290. Convert Binary Number in a Linked List to Integer](problem/1290.md)
+53. [1291. Sequential Digits](problem/1291.md)
+54. [1295. Find Numbers with Even Number of Digits](problem/1295.md)
+55. [1297. Maximum Number of Occurrences of a Substring](problem/1297.md) **
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
