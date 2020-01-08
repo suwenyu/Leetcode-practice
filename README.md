@@ -261,6 +261,8 @@
 115. [806. Number of Lines To Write String](problem/806.md)
 116. [859. Buddy Strings](problem/859.md)
 117. [858. Mirror Reflection](problem/858.md) **
+118. [779. K-th Symbol in Grammar](problem/779.md) **
+119. [776. Split BST](problem/776.md) ***
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -369,6 +371,7 @@
 48. [523. Continuous Subarray Sum](problem/523.md) *
 49. [848. Shifting Letters](problem/848.md)
 50. [461. Hamming Distance](problem/461.md) *
+51. [398. Random Pick Index](problem/398.md)
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md) (V, V)
@@ -511,6 +514,9 @@
 98. [1023. Camelcase Matching](problem/1023.md) **
 99. [1022. Sum of Root To Leaf Binary Numbers](problem/1022.md)
 100. [807. Max Increase to Keep City Skyline](problem/807.md)
+101. [396. Rotate Function](problem/396.md) **
+102. [397. Integer Replacement](problem/397.md) **
+103. [1311. Get Watched Videos by Your Friends](problem/1311.md) *
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -604,6 +610,8 @@
 53. [1291. Sequential Digits](problem/1291.md)
 54. [1295. Find Numbers with Even Number of Digits](problem/1295.md)
 55. [1297. Maximum Number of Occurrences of a Substring](problem/1297.md) **
+56. [1309. Decrypt String from Alphabet to Integer Mapping](problem/1309.md)
+57. [1310. XOR Queries of a Subarray](problem/1310.md)
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
