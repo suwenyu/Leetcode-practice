@@ -615,6 +615,8 @@
 57. [1310. XOR Queries of a Subarray](problem/1310.md)
 58. [1317. Convert Integer to the Sum of Two No-Zero Integers](problem/1317.md)
 59. [1319. Number of Operations to Make Network Connected](problem/1319.md) **
+60. [598. Range Addition II](problem/598.md)
+61. [599. Minimum Index Sum of Two Lists](problem/599.md)
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
