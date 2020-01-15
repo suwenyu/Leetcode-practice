@@ -553,6 +553,7 @@
 14. [701. Insert into a Binary Search Tree](problem/701)
 15. [650. 2 Keys Keyboard](problem/650.md) **
 16. [1273. Delete Tree Nodes](problem/1273.md) **
+17. [1318. Minimum Flips to Make a OR b Equal to c](problem/1318.md)
 
 ##### Other Company
 1. [1156. Swap For Longest Repeated Character Substring](problem/1156.md) *
@@ -612,6 +613,8 @@
 55. [1297. Maximum Number of Occurrences of a Substring](problem/1297.md) **
 56. [1309. Decrypt String from Alphabet to Integer Mapping](problem/1309.md)
 57. [1310. XOR Queries of a Subarray](problem/1310.md)
+58. [1317. Convert Integer to the Sum of Two No-Zero Integers](problem/1317.md)
+59. [1319. Number of Operations to Make Network Connected](problem/1319.md) **
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
