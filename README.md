@@ -263,6 +263,7 @@
 117. [858. Mirror Reflection](problem/858.md) **
 118. [779. K-th Symbol in Grammar](problem/779.md) **
 119. [776. Split BST](problem/776.md) ***
+120. [1037. Valid Boomerang](problem/1037.md) *
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -517,6 +518,7 @@
 101. [396. Rotate Function](problem/396.md) **
 102. [397. Integer Replacement](problem/397.md) **
 103. [1311. Get Watched Videos by Your Friends](problem/1311.md) *
+104. [1038. Binary Search Tree to Greater Sum Tree](problem/1038.md) *
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -617,6 +619,7 @@
 59. [1319. Number of Operations to Make Network Connected](problem/1319.md) **
 60. [598. Range Addition II](problem/598.md)
 61. [599. Minimum Index Sum of Two Lists](problem/599.md)
+62. [1039. Minimum Score Triangulation of Polygon](problem/1039.md) **
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
