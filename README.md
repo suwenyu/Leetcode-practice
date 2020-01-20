@@ -519,6 +519,7 @@
 102. [397. Integer Replacement](problem/397.md) **
 103. [1311. Get Watched Videos by Your Friends](problem/1311.md) *
 104. [1038. Binary Search Tree to Greater Sum Tree](problem/1038.md) *
+105. [1325. Delete Leaves With a Given Value](problem/1325)
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -556,6 +557,7 @@
 15. [650. 2 Keys Keyboard](problem/650.md) **
 16. [1273. Delete Tree Nodes](problem/1273.md) **
 17. [1318. Minimum Flips to Make a OR b Equal to c](problem/1318.md)
+18. [1324. Print Words Vertically](problem/1324.md)
 
 ##### Other Company
 1. [1156. Swap For Longest Repeated Character Substring](problem/1156.md) *
@@ -620,6 +622,7 @@
 60. [598. Range Addition II](problem/598.md)
 61. [599. Minimum Index Sum of Two Lists](problem/599.md)
 62. [1039. Minimum Score Triangulation of Polygon](problem/1039.md) **
+63. [1323. Maximum 69 Number](problem/1323.md)
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
