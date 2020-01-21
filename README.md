@@ -264,6 +264,8 @@
 118. [779. K-th Symbol in Grammar](problem/779.md) **
 119. [776. Split BST](problem/776.md) ***
 120. [1037. Valid Boomerang](problem/1037.md) *
+121. [1313. Decompress Run-Length Encoded List](problem/1313.md)
+122. [1314. Matrix Block Sum](problem/1314.md) *
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -520,6 +522,7 @@
 103. [1311. Get Watched Videos by Your Friends](problem/1311.md) *
 104. [1038. Binary Search Tree to Greater Sum Tree](problem/1038.md) *
 105. [1325. Delete Leaves With a Given Value](problem/1325)
+106. [1315. Sum of Nodes with Even-Valued Grandparent](problem/1315.md) *
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
