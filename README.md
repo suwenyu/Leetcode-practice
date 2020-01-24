@@ -628,6 +628,7 @@
 61. [599. Minimum Index Sum of Two Lists](problem/599.md)
 62. [1039. Minimum Score Triangulation of Polygon](problem/1039.md) **
 63. [1323. Maximum 69 Number](problem/1323.md)
+64. [486. Predict the Winner](problem/486.md)
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
