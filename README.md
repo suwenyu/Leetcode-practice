@@ -525,6 +525,7 @@
 104. [1038. Binary Search Tree to Greater Sum Tree](problem/1038.md) *
 105. [1325. Delete Leaves With a Given Value](problem/1325)
 106. [1315. Sum of Nodes with Even-Valued Grandparent](problem/1315.md) *
+107. [1332. Remove Palindromic Subsequences](problem/1332.md) **
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -538,6 +539,7 @@
 5. [1064. Fixed Point](problem/1064.md)
 6. [1162. As Far from Land as Possible](problem/1162.md) **
 7. [518. Coin Change 2](problem/518.md) *
+8. [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](problem/1334.md) **
 
 ##### Adobe
 1. [1108. Defanging an IP Address](problem/1108.md)
@@ -629,6 +631,7 @@
 62. [1039. Minimum Score Triangulation of Polygon](problem/1039.md) **
 63. [1323. Maximum 69 Number](problem/1323.md)
 64. [486. Predict the Winner](problem/486.md)
+65. [1333. Filter Restaurants by Vegan-Friendly, Price and Distance](problem/1333.md) *
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
