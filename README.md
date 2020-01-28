@@ -526,6 +526,7 @@
 105. [1325. Delete Leaves With a Given Value](problem/1325)
 106. [1315. Sum of Nodes with Even-Valued Grandparent](problem/1315.md) *
 107. [1332. Remove Palindromic Subsequences](problem/1332.md) **
+108. [581. Shortest Unsorted Continuous Subarray](problem/581.md) **
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -632,6 +633,7 @@
 63. [1323. Maximum 69 Number](problem/1323.md)
 64. [486. Predict the Winner](problem/486.md)
 65. [1333. Filter Restaurants by Vegan-Friendly, Price and Distance](problem/1333.md) *
+66. [582. Kill Process](problem/582.md) *
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
