@@ -94,6 +94,7 @@
 2. [389. Find the Difference](problem/389.md)
 3. [387. First Unique Character in a String](problem/387.md)
 4. [961. N-Repeated Element in Size 2N Array](problem/961.md)
+5. [970. Powerful Integers](problem/970.md)
 
 ##### Back tracking
 1. [784. Letter Case Permutation](problem/784.md)
@@ -377,6 +378,7 @@
 49. [848. Shifting Letters](problem/848.md)
 50. [461. Hamming Distance](problem/461.md) *
 51. [398. Random Pick Index](problem/398.md)
+52. [969. Pancake Sorting](problem/969.md) **
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md) (V, V)
