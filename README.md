@@ -269,6 +269,7 @@
 122. [1314. Matrix Block Sum](problem/1314.md) *
 123. [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](problem/1292.md) **
 124. [1293. Shortest Path in a Grid with Obstacles Elimination](problem/1293.md) *****
+125. [789. Escape The Ghosts](problem/789.md) *
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -379,6 +380,7 @@
 50. [461. Hamming Distance](problem/461.md) *
 51. [398. Random Pick Index](problem/398.md)
 52. [969. Pancake Sorting](problem/969.md) **
+53. [791. Custom Sort String](problem/791.md) 
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md) (V, V)
