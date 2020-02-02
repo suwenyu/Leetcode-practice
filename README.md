@@ -533,6 +533,7 @@
 107. [1332. Remove Palindromic Subsequences](problem/1332.md) **
 108. [581. Shortest Unsorted Continuous Subarray](problem/581.md) **
 109. [997. Find the Town Judge](problem/997.md) *
+110. [1341. The K Weakest Rows in a Matrix](problem/1341.md)
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -572,6 +573,7 @@
 16. [1273. Delete Tree Nodes](problem/1273.md) **
 17. [1318. Minimum Flips to Make a OR b Equal to c](problem/1318.md)
 18. [1324. Print Words Vertically](problem/1324.md)
+19. [1343. Maximum Product of Splitted Binary Tree](problem/1343.md) **
 
 ##### Other Company
 1. [1156. Swap For Longest Repeated Character Substring](problem/1156.md) *
@@ -641,6 +643,7 @@
 65. [1333. Filter Restaurants by Vegan-Friendly, Price and Distance](problem/1333.md) *
 66. [582. Kill Process](problem/582.md) *
 67. [999. Available Captures for Rook](problem/999.md) *
+68. [1342. Reduce Array Size to The Half](problem/1342.md)
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
