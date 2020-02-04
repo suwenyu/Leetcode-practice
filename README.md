@@ -310,7 +310,7 @@
 38. [562. Longest Line of Consecutive One in Matrix](problem/562.md)
 39. [188. Best Time to Buy and Sell Stock IV](problem/188.md) *****
 40. [317. Shortest Distance from All Buildings](problem/317.md) *****
-41. [900. RLE Iterator](problem/900.md) *
+41. [900. RLE Iterator](problem/900.md) * (*need to review*)
 42. [227. Basic Calculator II](problem/227.md) *
 43. [940. Distinct Subsequences II](problem/904.md) *****
 44. [640. Solve the Equation](problem/640.md) *****
@@ -575,6 +575,7 @@
 17. [1318. Minimum Flips to Make a OR b Equal to c](problem/1318.md)
 18. [1324. Print Words Vertically](problem/1324.md)
 19. [1343. Maximum Product of Splitted Binary Tree](problem/1343.md) **
+20. [901. Online Stock Span](problemproblem/901.md) **
 
 ##### Other Company
 1. [1156. Swap For Longest Repeated Character Substring](problem/1156.md) *
@@ -647,6 +648,7 @@
 68. [1342. Reduce Array Size to The Half](problem/1342.md)
 69. [1328. Break a Palindrome](problem/1328.md) *
 70. [1329. Sort the Matrix Diagonally](problem/1329.md) *
+71. [900. RLE Iterator](problem/900.md) **
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
