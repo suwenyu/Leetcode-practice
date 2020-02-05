@@ -20,7 +20,7 @@
 2. [657. Judge Route Circle](problem/657.md)
 3. [824. Goat Latin](problem/824.md)
 4. [521. Longest Uncommon Subsequence I](problem/521.md)
-5. [520. Detect Capital](problem/520.md)
+5. [520. Detect Capital](problem/520.md)(V)
 6. [796. Rotate String](problem/796.md)
 7. [788. Rotated Digits](problem/788.md)
 8. [696. Count Binary Substrings](problem/696.md) *
@@ -272,6 +272,7 @@
 125. [789. Escape The Ghosts](problem/789.md) *
 126. [1331. Rank Transform of an Array](problem/1331.md)
 127. [988. Smallest String Starting From Leaf](problem/988.md)
+128. [526. Beautiful Arrangement](problem/526.md) *
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -536,6 +537,7 @@
 108. [581. Shortest Unsorted Continuous Subarray](problem/581.md) **
 109. [997. Find the Town Judge](problem/997.md) *
 110. [1341. The K Weakest Rows in a Matrix](problem/1341.md)
+111. [525. Contiguous Array](problem/525.md) **
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
