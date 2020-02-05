@@ -271,6 +271,7 @@
 124. [1293. Shortest Path in a Grid with Obstacles Elimination](problem/1293.md) *****
 125. [789. Escape The Ghosts](problem/789.md) *
 126. [1331. Rank Transform of an Array](problem/1331.md)
+127. [988. Smallest String Starting From Leaf](problem/988.md)
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -649,6 +650,7 @@
 69. [1328. Break a Palindrome](problem/1328.md) *
 70. [1329. Sort the Matrix Diagonally](problem/1329.md) *
 71. [900. RLE Iterator](problem/900.md) **
+72. [985. Sum of Even Numbers After Queries](problem/985.md)
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
