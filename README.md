@@ -20,16 +20,16 @@
 2. [657. Judge Route Circle](problem/657.md)
 3. [824. Goat Latin](problem/824.md)
 4. [521. Longest Uncommon Subsequence I](problem/521.md)
-5. [520. Detect Capital](problem/520.md)(V)
-6. [796. Rotate String](problem/796.md)
+5. [520. Detect Capital](problem/520.md) (V)
+6. [796. Rotate String](problem/796.md) (V) 
 7. [788. Rotated Digits](problem/788.md)
-8. [696. Count Binary Substrings](problem/696.md) *
-9. [819. Most Common Word](problem/819.md)
+8. [696. Count Binary Substrings](problem/696.md) * (*need to review*)
+9. [819. Most Common Word](problem/819.md) (V)
 10. [383. Ransom Note](problem/383.md)
-11. [893. Groups of Special-Equivalent Strings](problem/893.md) **
+11. [893. Groups of Special-Equivalent Strings](problem/893.md) ** (*need to review*)
 12. [917. Reverse Only Letters](problem/917.md)
-13. [606. Construct String from Binary Tree](problem/606.md) *
-14. [541. Reverse String II](problem/541.md)
+13. [606. Construct String from Binary Tree](problem/606.md) * (V, V)
+14. [541. Reverse String II](problem/541.md) (*need to review*)
 15. [345. Reverse Vowels of a String](problem/345.md)
 16. [38. Count and Say](problem/38.md)
 17. [125. Valid Palindrome](problem/125.md)
@@ -136,7 +136,7 @@
 24. [941. Valid Mountain Array](problem/941.md) * (*need to review*, V)
 29. [484. Find Permutation](problem/484.md) * (*need to review*, *need to review*)
 30. [280. Wiggle Sort](problem/280.md) (V)
-42. [1011. Capacity To Ship Packages Within D Days](problem/1011.md) ** (*need to review*, V)
+42. [1011. Capacity To Ship Packages Within D Days](problem/1011.md) ** (*need to review*, V, *need to review*)
 49. [410. Split Array Largest Sum](problem/410.md) *** (V, V)
 50. [15. 3Sum](problem/15.md) *** (*need to review*, V)
 51. [56. Merge Intervals](problem/56.md) (V, V)
@@ -198,7 +198,7 @@
 11. [200. Number of Islands](problem/200.md) * (V, V)
 36. [947. Most Stones Removed with Same Row or Column](problem/947.md) ** (*need to review*, V)
 37. [399. Evaluate Division](problem/399.md) * (*need to review*, V)
-39. [543. Diameter of Binary Tree](problem/543.md) * (V, *need to review*) 
+39. [543. Diameter of Binary Tree](problem/543.md) * (V, *need to review*, V) 
 41. [222. Count Complete Tree Nodes](problem/222.md) ** (V, V) 
 46. [979. Distribute Coins in Binary Tree](problem/979.md) * (V, V)
 71. [1145. Binary Tree Coloring Game](problem/1145.md) **
@@ -273,6 +273,7 @@
 126. [1331. Rank Transform of an Array](problem/1331.md)
 127. [988. Smallest String Starting From Leaf](problem/988.md)
 128. [526. Beautiful Arrangement](problem/526.md) *
+129. [609. Find Duplicate File in System](problem/609.md) 
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -397,7 +398,7 @@
 8. [364. Nested List Weight Sum II](problem/364.md) ** (V, V) (高頻)
 9. [339. Nested List Weight Sum](problem/339.md) (V, V)
 10. [256. Paint House](problem/256.md) * (V, V) (高頻)
-11. [605. Can Place Flowers](problem/605.md) (V, *)
+11. [605. Can Place Flowers](problem/605.md) (V, \*, V)
 12. [170. Two Sum III - Data structure design](problem/170.md)  (V, V)
 13. [235. Lowest Common Ancestor of a Binary Search Tree](problem/235.md) * (*need to review*, *)
 14. [156. Binary Tree Upside Down](problem/156.md) *** (*need to review*, *)
@@ -447,7 +448,7 @@
 18. [572. Subtree of Another Tree](problem/572.md) ** (V)
 19. [23. Merge k Sorted Lists](problem/23.md) * (V)
 20. [42. Trapping Rain Water](problem/42.md) ** 
-21. [127. Word Ladder](problem/127.md) ** 
+21. [127. Word Ladder](problem/127.md) ** (V)
 22. [126. Word Ladder II](problem/126.md) ***** (*need to review*)
 23. [341. Flatten Nested List Iterator](problem/341.md) ** (V)
 24. [957. Prison Cells After N Days](problem/957.md) * (V)
@@ -653,6 +654,7 @@
 70. [1329. Sort the Matrix Diagonally](problem/1329.md) *
 71. [900. RLE Iterator](problem/900.md) **
 72. [985. Sum of Even Numbers After Queries](problem/985.md)
+73. [498. Diagonal Traverse](problem/498.md)
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
@@ -669,7 +671,7 @@
 12. [152. Maximum Product Subarray](problem/152.md) *
 13. [322. Coin Change](problem/322.md) (*need to review*)
 14. [221. Maximal Square](problem/221.md)
-15. [139. Word Break](problem/139.md) ** (*important*)
+15. [139. Word Break](problem/139.md) ** (*important*) (*need to review*)
 16. [91. Decode Ways](problem/91.md) *
 
 ##### Divide and Conquer
