@@ -14,6 +14,7 @@
 9. [1185. Day of the Week](problem/1185.md) ***
 10. [1154. Day of the Year](problem/1154.md)
 11. [869. Reordered Power of 2](problem/869.md) *
+12. [1344. Angle Between Hands of a Clock](problem/1344.md) *
 
 ##### String
 1. [804. Unique Morse Code Words](problem/804.md)
@@ -426,6 +427,7 @@
 36. [265. Paint House II](problem/265.md) **
 65. [65. Valid Number](problem/65.md) **
 66. [633. Sum of Square Numbers](problem/633.md)
+67. [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](problem/1343.md)
 
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
@@ -578,7 +580,7 @@
 16. [1273. Delete Tree Nodes](problem/1273.md) **
 17. [1318. Minimum Flips to Make a OR b Equal to c](problem/1318.md)
 18. [1324. Print Words Vertically](problem/1324.md)
-19. [1343. Maximum Product of Splitted Binary Tree](problem/1343.md) **
+19. [1339. Maximum Product of Splitted Binary Tree](problem/1339.md) **
 20. [901. Online Stock Span](problemproblem/901.md) **
 
 ##### Other Company
@@ -649,12 +651,13 @@
 65. [1333. Filter Restaurants by Vegan-Friendly, Price and Distance](problem/1333.md) *
 66. [582. Kill Process](problem/582.md) *
 67. [999. Available Captures for Rook](problem/999.md) *
-68. [1342. Reduce Array Size to The Half](problem/1342.md)
+68. [1338. Reduce Array Size to The Half](problem/1338.md)
 69. [1328. Break a Palindrome](problem/1328.md) *
 70. [1329. Sort the Matrix Diagonally](problem/1329.md) *
 71. [900. RLE Iterator](problem/900.md) **
 72. [985. Sum of Even Numbers After Queries](problem/985.md)
 73. [498. Diagonal Traverse](problem/498.md)
+74. [1342. Number of Steps to Reduce a Number to Zero](problem/1342.md)
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
