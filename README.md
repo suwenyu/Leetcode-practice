@@ -275,6 +275,7 @@
 127. [988. Smallest String Starting From Leaf](problem/988.md)
 128. [526. Beautiful Arrangement](problem/526.md) *
 129. [609. Find Duplicate File in System](problem/609.md) 
+130. [1352. Product of the Last K Numbers](problem/1352.md) *
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -541,6 +542,9 @@
 109. [997. Find the Town Judge](problem/997.md) *
 110. [1341. The K Weakest Rows in a Matrix](problem/1341.md)
 111. [525. Contiguous Array](problem/525.md) **
+112. [55. Jump Game](problem/55.md)
+113. [45. Jump Game II](problem/45.md) ** (?)
+114. [1351. Count Negative Numbers in a Sorted Matrix](problem/1351.md)
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -658,6 +662,7 @@
 72. [985. Sum of Even Numbers After Queries](problem/985.md)
 73. [498. Diagonal Traverse](problem/498.md)
 74. [1342. Number of Steps to Reduce a Number to Zero](problem/1342.md)
+75. [1353. Maximum Number of Events That Can Be Attended](problem/1353.md) *
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
