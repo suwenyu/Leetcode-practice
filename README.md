@@ -15,6 +15,8 @@
 10. [1154. Day of the Year](problem/1154.md)
 11. [869. Reordered Power of 2](problem/869.md) *
 12. [1344. Angle Between Hands of a Clock](problem/1344.md) *
+13. [1360. Number of Days Between Two Dates](problem/1360.md) *
+14. [1374. Generate a String With Characters That Have Odd Counts](problem/1374.md) *
 
 ##### String
 1. [804. Unique Morse Code Words](problem/804.md)
@@ -276,6 +278,9 @@
 128. [526. Beautiful Arrangement](problem/526.md) *
 129. [609. Find Duplicate File in System](problem/609.md) 
 130. [1352. Product of the Last K Numbers](problem/1352.md) *
+131. [1365. How Many Numbers Are Smaller Than the Current Number](problem/1365.md)
+132. [1366. Rank Teams by Votes](problem/1366.md) *
+133. [1376. Time Needed to Inform All Employees](problem/1376.md)
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
@@ -388,6 +393,7 @@
 52. [969. Pancake Sorting](problem/969.md) **
 53. [791. Custom Sort String](problem/791.md) 
 54. [998. Maximum Binary Tree II](problem/998.md) **
+55. [1361. Validate Binary Tree Nodes](problem/1361.md)
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md) (V, V)
@@ -545,6 +551,8 @@
 112. [55. Jump Game](problem/55.md)
 113. [45. Jump Game II](problem/45.md) ** (?)
 114. [1351. Count Negative Numbers in a Sorted Matrix](problem/1351.md)
+115. [1362. Closest Divisors](problem/1362.md)
+116. [1363. Largest Multiple of Three](problem/1363.md) **
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -586,6 +594,7 @@
 18. [1324. Print Words Vertically](problem/1324.md)
 19. [1339. Maximum Product of Splitted Binary Tree](problem/1339.md) **
 20. [901. Online Stock Span](problemproblem/901.md) **
+21. [1375. Bulb Switcher III](problem/1375.md)
 
 ##### Other Company
 1. [1156. Swap For Longest Repeated Character Substring](problem/1156.md) *
@@ -663,6 +672,7 @@
 73. [498. Diagonal Traverse](problem/498.md)
 74. [1342. Number of Steps to Reduce a Number to Zero](problem/1342.md)
 75. [1353. Maximum Number of Events That Can Be Attended](problem/1353.md) *
+76. [1367. Linked List in Binary Tree](problem/1367.md) **
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
