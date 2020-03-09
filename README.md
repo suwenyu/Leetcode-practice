@@ -281,6 +281,7 @@
 131. [1365. How Many Numbers Are Smaller Than the Current Number](problem/1365.md)
 132. [1366. Rank Teams by Votes](problem/1366.md) *
 133. [1376. Time Needed to Inform All Employees](problem/1376.md)
+134. [1377. Frog Position After T Seconds](problem/1377.md) *
 
 ##### Google 高頻題
 1. [843. Guess the Word](problem/843.md) ***** (!) (V)
