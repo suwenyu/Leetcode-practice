@@ -574,7 +574,7 @@
 2. [669. Trim a Binary Search Tree](problem/669.md) *
 3. [728. Self Dividing Numbers](problem/728.md)
 
-##### Microsoft
+#### Microsoft
 1. [1114. Print in Order](problem/1114.md) **
 2. [704. Binary Search](problem/704.md)
 3. [72. Edit Distance](problem/72.md) **
@@ -596,6 +596,7 @@
 19. [1339. Maximum Product of Splitted Binary Tree](problem/1339.md) **
 20. [901. Online Stock Span](problemproblem/901.md) **
 21. [1375. Bulb Switcher III](problem/1375.md)
+22. [532. K-diff Pairs in an Array](problem/532.md)
 
 ##### Other Company
 1. [1156. Swap For Longest Repeated Character Substring](problem/1156.md) *
