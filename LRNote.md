@@ -19,4 +19,15 @@
 - [538. Convert BST to Greater Tree](problem/538.md) (OK)
 - [510. Inorder Successor in BST II](problem/510.md) (Fail)
 
+### DFS
+- [979. Distribute Coins in Binary Tree](problem/979.md) (OK)
+- [130. Surrounded Regions](problem/130.md) (OK)
+- [337. House Robber III](problem/337.md) (Fail, OK)
+- [743. Network Delay Time](problem/743.md) (Fail)
+
+### HashMap
+- [299. Bulls and Cows](problem/299.md) (OK)
+
+
+
 
