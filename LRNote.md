@@ -27,7 +27,7 @@
 
 ### HashMap
 - [299. Bulls and Cows](problem/299.md) (OK)
-
+- [355. Design Twitter](problem/355.md) (OK)
 
 
 
