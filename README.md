@@ -38,6 +38,7 @@
 17. [125. Valid Palindrome](problem/125.md)
 18. [680. Valid Palindrome II](problem/680.md)
 19. [20. Valid Parentheses](problem/20.md) (V)
+20. [1446. Consecutive Characters](problem/1446.md)
 
 ##### Array
 1. [485. Max Consecutive Ones](problem/485.md)
@@ -286,6 +287,7 @@
 134. [1377. Frog Position After T Seconds](problem/1377.md) *
 135. [1441. Build an Array With Stack Operations](problem/1441.md)
 136. [1452. People Whose List of Favorite Companies Is Not a Subset of Another List](problem/1452.md) *
+137. [1447. Simplified Fractions](problem/1447.md)
 
 
 ##### Google 高頻題
@@ -604,6 +606,7 @@
 20. [901. Online Stock Span](problemproblem/901.md) **
 21. [1375. Bulb Switcher III](problem/1375.md)
 22. [532. K-diff Pairs in an Array](problem/532.md)
+23. [1448. Count Good Nodes in Binary Tree](problem/1448.md)
 
 ##### Other Company
 1. [1156. Swap For Longest Repeated Character Substring](problem/1156.md) *
