@@ -59,6 +59,7 @@
 17. [384. Shuffle an Array](problem/384.md)
 18. [88. Merge Sorted Array](problem/88.md) *
 19. [1442. Count Triplets That Can Form Two Arrays of Equal XOR](problem/1442.md) *
+20. [1450. Number of Students Doing Homework at a Given Time](problem/1450.md)
 
 ##### SQL
 1. [595. Big Countries](problem/595.md)
@@ -284,6 +285,7 @@
 133. [1376. Time Needed to Inform All Employees](problem/1376.md)
 134. [1377. Frog Position After T Seconds](problem/1377.md) *
 135. [1441. Build an Array With Stack Operations](problem/1441.md)
+136. [1452. People Whose List of Favorite Companies Is Not a Subset of Another List](problem/1452.md) *
 
 
 ##### Google 高頻題
@@ -398,7 +400,8 @@
 53. [791. Custom Sort String](problem/791.md) 
 54. [998. Maximum Binary Tree II](problem/998.md) **
 55. [1361. Validate Binary Tree Nodes](problem/1361.md)
-56. [1443. Minimum Time to Collect All Apples in a Tree](problem/1443.md)
+56. [1443. Minimum Time to Collect All Apples in a Tree](problem/1443.md) *
+
 
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md) (V, V)
@@ -679,6 +682,8 @@
 74. [1342. Number of Steps to Reduce a Number to Zero](problem/1342.md)
 75. [1353. Maximum Number of Events That Can Be Attended](problem/1353.md) *
 76. [1367. Linked List in Binary Tree](problem/1367.md) **
+77. [1451. Rearrange Words in a Sentence](problem/1451.md)
+
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
