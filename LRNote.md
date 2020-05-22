@@ -10,6 +10,7 @@
 - [532. K-diff Pairs in an Array](problem/532.md) 
 - [1450. Number of Students Doing Homework at a Given Time](problem/1450.md) (OK)
 - [1442. Count Triplets That Can Form Two Arrays of Equal XOR](problem/1442.md) (Fail)
+- [128. Longest Consecutive Sequence](problem/128.md) (Fail)
 
 ### String
 - [1451. Rearrange Words in a Sentence](problem/1451.md) (OK)
@@ -45,6 +46,8 @@
 ### Stack
 - [1441. Build an Array With Stack Operations](problem/1441.md) (OK)
 
+### Dynamic Programming
+- [221. Maximal Square](problem/221.md) (OK)
 
 
 
