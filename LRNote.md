@@ -38,10 +38,13 @@
 - [743. Network Delay Time](problem/743.md) (Fail)
 - [1448. Count Good Nodes in Binary Tree](problem/1448.md) (OK)
 - [1443. Minimum Time to Collect All Apples in a Tree](problem/1443.md) (Fail)
+- [79. Word Search](problem/79.md) (Fail)
+- [124. Binary Tree Maximum Path Sum](problem/124.md) (OK)
 
 ### HashMap
 - [299. Bulls and Cows](problem/299.md) (OK)
 - [355. Design Twitter](problem/355.md) (OK)
+- [981. Time Based Key-Value Store](problem/981.md) (Fail)
 
 ### Stack
 - [1441. Build an Array With Stack Operations](problem/1441.md) (OK)
