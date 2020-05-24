@@ -563,6 +563,8 @@
 114. [1351. Count Negative Numbers in a Sorted Matrix](problem/1351.md)
 115. [1362. Closest Divisors](problem/1362.md)
 116. [1363. Largest Multiple of Three](problem/1363.md) **
+117. [1456. Maximum Number of Vowels in a Substring of Given Length](problem/1456.md)
+118. [1457. Pseudo-Palindromic Paths in a Binary Tree](problem/1457.md)
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -686,6 +688,7 @@
 75. [1353. Maximum Number of Events That Can Be Attended](problem/1353.md) *
 76. [1367. Linked List in Binary Tree](problem/1367.md) **
 77. [1451. Rearrange Words in a Sentence](problem/1451.md)
+78. [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](problem/1455.md)
 
 
 ##### Dynamic Programming

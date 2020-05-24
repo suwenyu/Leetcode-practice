@@ -18,6 +18,10 @@
 - [1446. Consecutive Characters](problem/1446.md) (OK)
 - [1451. Rearrange Words in a Sentence](problem/1451.md) (OK)
 - [1452. People Whose List of Favorite Companies Is Not a Subset of Another List](problem/1452.md) (Fail)
+- [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](problem/1455.md) (OK)
+- [1456. Maximum Number of Vowels in a Substring of Given Length](problem/1456.md) (OK)
+- [1457. Pseudo-Palindromic Paths in a Binary Tree](problem/1457.md) (OK)
+
 
 ### Tree
 - [655. Print Binary Tree](problem/655.md) (OK)
