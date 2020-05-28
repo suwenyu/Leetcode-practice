@@ -55,7 +55,7 @@
 
 ### Dynamic Programming
 - [221. Maximal Square](problem/221.md) (OK)
-
-
-
+- [120. Triangle](problem/120.md) (Fail)
+- [5. Longest Palindromic Substring](problem/5.md) (Fail)
+- [53. Maximum Subarray](problem/53.md) (Fail)
 
