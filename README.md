@@ -23,7 +23,7 @@
 2. [657. Judge Route Circle](problem/657.md)
 3. [824. Goat Latin](problem/824.md)
 4. [521. Longest Uncommon Subsequence I](problem/521.md)
-5. [520. Detect Capital](problem/520.md) (V)
+5. [520. Detect Capital](problem/520.md) (V, V)
 6. [796. Rotate String](problem/796.md) (V) 
 7. [788. Rotated Digits](problem/788.md)
 8. [696. Count Binary Substrings](problem/696.md) * (*need to review*)
@@ -35,7 +35,7 @@
 14. [541. Reverse String II](problem/541.md) (*need to review*)
 15. [345. Reverse Vowels of a String](problem/345.md)
 16. [38. Count and Say](problem/38.md)
-17. [125. Valid Palindrome](problem/125.md)
+17. [125. Valid Palindrome](problem/125.md) (V)
 18. [680. Valid Palindrome II](problem/680.md)
 19. [20. Valid Parentheses](problem/20.md) (V)
 20. [1446. Consecutive Characters](problem/1446.md)
@@ -61,6 +61,7 @@
 18. [88. Merge Sorted Array](problem/88.md) *
 19. [1442. Count Triplets That Can Form Two Arrays of Equal XOR](problem/1442.md) *
 20. [1450. Number of Students Doing Homework at a Given Time](problem/1450.md)
+21. [442. Find All Duplicates in an Array](problem/442.md) **
 
 ##### SQL
 1. [595. Big Countries](problem/595.md)
@@ -75,6 +76,7 @@
 3. [136. Single Number](problem/136.md) *
 4. [762. Prime Number of Set Bits in Binary Representation](problem/762.md)
 5. [371. Sum of Two Integers](problem/371.md) * 
+6. [342. Power of Four](problem/342.md) 
 
 ##### Linked List
 1. [237. Delete Node in a Linked List](problem/237.md) *
@@ -119,6 +121,9 @@
 
 ##### Stack
 1. [856. Score of Parentheses](problem/856.md)
+
+##### System
+1. [705. Design HashSet](problem/705.md)
 
 #### Google Interview
 ***
@@ -231,6 +236,7 @@
 74. [271. Encode and Decode Strings](problem/271.md) ** (!)
 77. [284. Peeking Iterator](problem/284.md) ** (*need to review*)
 
+
 ##### Not Review
 55. [616. Add Bold Tag in String](problem/616.md) ** (*need to review*)
 60. [315. Count of Smaller Numbers After Self](problem/315.md) *****
@@ -323,7 +329,7 @@
 31. [505. The Maze II](problem/505.md) ** (*need to review*)
 32. [834. Sum of Distances in Tree](problem/834) ***** (*need to review*)
 35. [287. Find the Duplicate Number](problem/287.md) * (*need to review*) 
-36. [987. Vertical Order Traversal of a Binary Tree](problem/987.md) ** 
+36. [987. Vertical Order Traversal of a Binary Tree](problem/987.md) (\*\*, V)
 37. [288. Unique Word Abbreviation](problem/288.md) *
 38. [562. Longest Line of Consecutive One in Matrix](problem/562.md)
 39. [188. Best Time to Buy and Sell Stock IV](problem/188.md) *****
@@ -366,7 +372,7 @@
 17. [865. Smallest Subtree with all the Deepest Nodes](problem/865.md) *
 18. [348. Design Tic-Tac-Toe](problem/348.md) **
 19. [215. Kth Largest Element in an Array](problem/215.md)
-20. [211. Add and Search Word - Data structure design](problem/219.md) *
+20. [211. Add and Search Word - Data structure design](problem/219.md) (\*, \*)
 21. [31. Next Permutation](problem/31.md) **
 22. [162. Find Peak Element](problem/162.md) **
 23. [297. Serialize and Deserialize Binary Tree](problem/297.md) **
