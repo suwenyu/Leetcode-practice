@@ -5,7 +5,7 @@
 ##### Math
 1. [812. Largest Triangle Area](problem/812.md)
 2. [258. Add Digits](problem/258.md)
-3. [171. Excel Sheet Column Number](problem/171.md)
+3. [171. Excel Sheet Column Number](problem/171.md) (V)
 4. [13. Roman to Integer](problem/13.md)
 5. [492. Construct the Rectangle](problem/492.md)
 6. [728. Self Dividing Numbers](problem/728.md)
@@ -455,7 +455,7 @@
 ##### Amazon Interview
 1. [937. Reorder Log Files](problem/937.md) *
 2. [703. Kth Largest Element in a Stream](problem/703.md) (V)
-3. [994. Rotting Oranges](problem/994.md) * 
+3. [994. Rotting Oranges](problem/994.md) * (V)
 4. [763. Partition Labels](problem/763.md) * (V)
 5. [540. Single Element in a Sorted Array](problem/540.md) (V)
 6. [635. Design Log Storage System](problem/635.md) **
@@ -497,7 +497,7 @@
 42. [14. Longest Common Prefix](problem/14.md) * (V)
 43. [113. Path Sum II](problem/113.md) ** (V)
 44. [112. Path Sum](problem/112.md) (V)
-45. [437. Path Sum III](problem/437.md) * (*need to review*)
+45. [437. Path Sum III](problem/437.md) * (*need to review*, V)
 46. [78. Subsets](problem/78.md) (V)
 47. [239. Sliding Window Maximum](problem/239.md) ***** (*need to review*)
 48. [74. Search a 2D Matrix](problem/74.md) * (V)
@@ -530,7 +530,7 @@
 75. [108. Convert Sorted Array to Binary Search Tree](problem/108.md) *
 76. [204. Count Primes](problem/204.md) **
 77. [225. Implement Stack using Queues](problem/225.md) *
-78. [409. Longest Palindrome](problem/409.md)
+78. [409. Longest Palindrome](problem/409.md) (V)
 79. [866. Prime Palindrome](problem/866.md) *
 80. [456. 132 Pattern](problem/456.md) **
 81. [1000. Minimum Cost to Merge Stones](problem/1000.md) *****
