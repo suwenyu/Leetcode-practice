@@ -361,7 +361,7 @@
 ##### Facebook
 1. [67. Add Binary](problem/67.md)
 2. [438. Find All Anagrams in a String](problem/438.md) *
-3. [238. Product of Array Except Self](problem/238.md) **
+3. [238. Product of Array Except Self](problem/238.md) ** (V)
 4. [953. Verifying an Alien Dictionary](problem/953.md)
 5. [350. Intersection of Two Arrays II](problem/350.md)
 6. [270. Closest Binary Search Tree Value](problem/270.md)
@@ -398,7 +398,7 @@
 37. [8. String to Integer (atoi)](problem/8.md)
 38. [199. Binary Tree Right Side View](problem/199.md)
 39. [285. Inorder Successor in BST](problem/285.md)
-40. [81. Search in Rotated Sorted Array II](problem/81.md) **
+40. [81. Search in Rotated Sorted Array II](problem/81.md) ** (V)
 41. [449. Serialize and Deserialize BST](problem/449.md)
 42. [133. Clone Graph](problem/133.md) *
 43. [1213. Intersection of Three Sorted Arrays](problem/1213.md)
@@ -569,7 +569,7 @@
 108. [581. Shortest Unsorted Continuous Subarray](problem/581.md) **
 109. [997. Find the Town Judge](problem/997.md) *
 110. [1341. The K Weakest Rows in a Matrix](problem/1341.md)
-111. [525. Contiguous Array](problem/525.md) **
+111. [525. Contiguous Array](problem/525.md) ** (V)
 112. [55. Jump Game](problem/55.md)
 113. [45. Jump Game II](problem/45.md) ** (?)
 114. [1351. Count Negative Numbers in a Sorted Matrix](problem/1351.md)
