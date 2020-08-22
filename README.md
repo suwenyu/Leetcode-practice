@@ -39,6 +39,7 @@
 18. [680. Valid Palindrome II](problem/680.md)
 19. [20. Valid Parentheses](problem/20.md) (V)
 20. [1446. Consecutive Characters](problem/1446.md)
+21. [1545. Find Kth Bit in Nth Binary String](problem/1545.md)
 
 ##### Array
 1. [485. Max Consecutive Ones](problem/485.md)
@@ -121,9 +122,14 @@
 
 ##### Stack
 1. [856. Score of Parentheses](problem/856.md)
+2. [1544. Make The String Great](problem/1544.md)
 
 ##### System
 1. [705. Design HashSet](problem/705.md)
+
+##### Dynamic Programming
+1. [1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](problem/1546.md)
+
 
 #### Google Interview
 ***
@@ -738,5 +744,4 @@
 ##### Google Online Assessment Questions
 1. [Water Flower](https://leetcode.com/discuss/interview-question/394347/) [mycode](problem/water_flowers.md)
 2. [1007. Minimum Domino Rotations For Equal Row](problem/1007.md) 
-
 
