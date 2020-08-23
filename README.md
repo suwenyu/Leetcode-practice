@@ -63,6 +63,7 @@
 19. [1442. Count Triplets That Can Form Two Arrays of Equal XOR](problem/1442.md) *
 20. [1450. Number of Students Doing Homework at a Given Time](problem/1450.md)
 21. [442. Find All Duplicates in an Array](problem/442.md) **
+22. [1560. Most Visited Sector in a Circular Track](problem/1560.md) 
 
 ##### SQL
 1. [595. Big Countries](problem/595.md)
@@ -111,6 +112,7 @@
 ##### Sort
 1. [242. Valid Anagram](problem/242.md)
 2. [506. Relative Ranks](problem/506.md) *
+3. [1561. Maximum Number of Coins You Can Get](problem/1561.md)
 
 ##### Greedy
 1. [122. Best Time to Buy and Sell Stock II](problem/122.md) (V)
@@ -130,6 +132,8 @@
 ##### Dynamic Programming
 1. [1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](problem/1546.md)
 
+##### Binary Search
+1. [1562. Find Latest Group of Size M](problem/1562.md) *
 
 #### Google Interview
 ***
