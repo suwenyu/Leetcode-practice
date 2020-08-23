@@ -397,7 +397,7 @@
 32. [468. Validate IP Address](problem/468.md) **
 33. [1123. Lowest Common Ancestor of Deepest Leaves](problem/1123.md) **
 34. [34. Find First and Last Position of Element in Sorted Array](problem/34.md)
-35. [236. Lowest Common Ancestor of a Binary Tree](problem/236.md) **
+35. [236. Lowest Common Ancestor of a Binary Tree](problem/236.md) ** (V)
 36. [76. Minimum Window Substring](problem/76.md) **
 37. [8. String to Integer (atoi)](problem/8.md)
 38. [199. Binary Tree Right Side View](problem/199.md)
@@ -424,7 +424,7 @@
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md) (V, V)
 2. [104. Maximum Depth of Binary Tree](problem/104.md) (V, V)
-3. [101. Symmetric Tree](problem/101.md) * (V, V)
+3. [101. Symmetric Tree](problem/101.md) * (V, V, V) 
 4. [716. Max Stack](problem/716.md) ** (*need to review*, V)
 5. [50. Pow(x, n)](problem/50.md) * (*need to review*) (高頻)
 6. [273. Integer to English Words](problem/273.md) * (V)
@@ -528,7 +528,7 @@
 63. [545. Boundary of Binary Tree](problem/545.md) *
 64. [116. Populating Next Right Pointers in Each Node](problem/116.md)
 65. [105. Construct Binary Tree from Preorder and Inorder Traversal](problem/105.md) **
-66. [102. Binary Tree Level Order Traversal](problem/102.md) (LinkedIn)
+66. [102. Binary Tree Level Order Traversal](problem/102.md) (LinkedIn) (V)
 67. [117. Populating Next Right Pointers in Each Node II](problem/117.md)
 68. [706. Design HashMap](problem/706.md) **
 69. [687. Longest Univalue Path](problem/687.md) **
