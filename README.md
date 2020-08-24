@@ -40,6 +40,7 @@
 19. [20. Valid Parentheses](problem/20.md) (V)
 20. [1446. Consecutive Characters](problem/1446.md)
 21. [1545. Find Kth Bit in Nth Binary String](problem/1545.md)
+22. [1556. Thousand Separator](problem/1556.md)
 
 ##### Array
 1. [485. Max Consecutive Ones](problem/485.md)
@@ -116,6 +117,7 @@
 
 ##### Greedy
 1. [122. Best Time to Buy and Sell Stock II](problem/122.md) (V)
+2. [1558. Minimum Numbers of Function Calls to Make Target Array](problem/1558.md)
 
 ##### Depth First Search
 1. [695. Max Area of Island](problem/695.md)
@@ -134,6 +136,9 @@
 
 ##### Binary Search
 1. [1562. Find Latest Group of Size M](problem/1562.md) *
+
+##### Graph
+1. [1557. Minimum Number of Vertices to Reach All Nodes](problem/1557.md)
 
 #### Google Interview
 ***
