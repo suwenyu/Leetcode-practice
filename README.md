@@ -11,7 +11,7 @@
 6. [728. Self Dividing Numbers](problem/728.md)
 7. [453. Minimum Moves to Equal Array Elements](problem/453.md) *
 8. [172. Factorial Trailing Zeroes](problem/172.md) *
-9. [1185. Day of the Week](problem/1185.md) ***
+9. [1185. Day of the Week](problem/1185.md) **
 10. [1154. Day of the Year](problem/1154.md)
 11. [869. Reordered Power of 2](problem/869.md) *
 12. [1344. Angle Between Hands of a Clock](problem/1344.md) *
@@ -141,7 +141,7 @@
 1. [1557. Minimum Number of Vertices to Reach All Nodes](problem/1557.md)
 
 #### Google Interview
-***
+**
 ##### String
 1. [929. Unique Email Addresses](problem/929.md) (V, V)
 7. [535. Encode and Decode TinyURL](problem/535.md) (*need to review*)
@@ -188,10 +188,10 @@
 
 ##### Dynamic Programming
 6. [739. Daily Temperatures](problem/739.md) * (*need to review*, V)
-59. [975. Odd Even Jump](problem/975.md) *** (*need to review*)
-66. [375. Guess Number Higher or Lower II](problem/375.md) *****
+59. [975. Odd Even Jump](problem/975.md) ** (*need to review*)
+66. [375. Guess Number Higher or Lower II](problem/375.md) (!!!!!)
 70. [1144. Decrease Elements To Make Array Zigzag](problem/1144.md) ** (V)
-93. [312. Burst Balloons](problem/312.md) *****
+93. [312. Burst Balloons](problem/312.md) (!!!!!!)
 80. [276. Paint Fence](problem/276.md) ** (*almost understand*)
 
 ##### BackTracking
@@ -239,7 +239,7 @@
 
 ##### Game * 
 32. [723. Candy Crush](problem/723.md) * (*need to review*)
-52. [753. Cracking the Safe](problem/753.md) **** (*need to review*)
+52. [753. Cracking the Safe](problem/753.md) (!!!!) (*need to review*)
 
 ##### SQL
 35. [175. Combine Two Tables](problem/175.md) (V) 
@@ -254,10 +254,10 @@
 
 ##### Not Review
 55. [616. Add Bold Tag in String](problem/616.md) ** (*need to review*)
-60. [315. Count of Smaller Numbers After Self](problem/315.md) *****
-63. [683. K Empty Slots](problem/683.md) *****
-82. [218. The Skyline Problem](problem/218.md) *****
-83. [457. Circular Array Loop](problem/457.md) *****
+60. [315. Count of Smaller Numbers After Self](problem/315.md) (!!!!!)
+63. [683. K Empty Slots](problem/683.md) (!!!!!)
+82. [218. The Skyline Problem](problem/218.md) (!!!!!)
+83. [457. Circular Array Loop](problem/457.md) (!!!!!)
 84. [361. Bomb Enemy](problem/361.md) **
 85. [305. Number of Islands II](problem/305.md) *
 87. [274. H-Index](problem/274.md) **
@@ -290,12 +290,12 @@
 116. [859. Buddy Strings](problem/859.md)
 117. [858. Mirror Reflection](problem/858.md) **
 118. [779. K-th Symbol in Grammar](problem/779.md) **
-119. [776. Split BST](problem/776.md) ***
+119. [776. Split BST](problem/776.md) (!!!)
 120. [1037. Valid Boomerang](problem/1037.md) *
 121. [1313. Decompress Run-Length Encoded List](problem/1313.md)
 122. [1314. Matrix Block Sum](problem/1314.md) *
 123. [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](problem/1292.md) **
-124. [1293. Shortest Path in a Grid with Obstacles Elimination](problem/1293.md) *****
+124. [1293. Shortest Path in a Grid with Obstacles Elimination](problem/1293.md) (!!!!!)
 125. [789. Escape The Ghosts](problem/789.md) *
 126. [1331. Rank Transform of an Array](problem/1331.md)
 127. [988. Smallest String Starting From Leaf](problem/988.md)
@@ -312,51 +312,51 @@
 
 
 ##### Google 高頻題
-1. [843. Guess the Word](problem/843.md) ***** (!) (V)
+1. [843. Guess the Word](problem/843.md) (!!!!!) (!) (V)
 2. [1057. Campus Bikes](problem/1057.md) (!) (V)
-3. [1066. Campus Bikes II](problem/1066.md) ***** (!) (*need to review*)
+3. [1066. Campus Bikes II](problem/1066.md) (!!!!!) (!) (*need to review*)
 4. [684. Redundant Connection](problem/684.md) ** (V)
-5. [685. Redundant Connection II](problem/685.md) ***** 
+5. [685. Redundant Connection II](problem/685.md) (!!!!!) 
 6. [98. Validate Binary Search Tree](problem/98.md) (LinkedIn)
 7. [62. Unique Paths](problem/62.md) (V)
 8. [63. Unique Paths II](problem/63.md) (V)
 9. [890. Find and Replace Pattern](problem/890.md) (V)
 10. [205. Isomorphic Strings](problem/205.md) (V)
-11. [489. Robot Room Cleaner](problem/489.md) ***** (*need to review*)
+11. [489. Robot Room Cleaner](problem/489.md) (!!!!!) (*need to review*)
 12. [855. Exam Room](problem/855.md) ** (*need to review*, *need to review*)
 13. [497. Random Point in Non-overlapping Rectangles](problem/497.md) ** (*need to review*)
 14. [528. Random Pick with Weight](problem/528.md) ** 
 15. [853. Car Fleet](problem/853.md) ** (V, V)
 16. [857. Minimum Cost to Hire K Workers](problem/857.md) ** (*need to review*)
 17. [750. Number Of Corner Rectangles](problem/750.md) * (V)
-18. [815. Bus Routes](problem/815.md) ***** (V)
+18. [815. Bus Routes](problem/815.md) (!!!!!) (V)
 19. [951. Flip Equivalent Binary Trees](problem/951.md) (V)
 20. [1110. Delete Nodes And Return Forest](problem/1110.md) ** (V)
 21. [281. Zigzag Iterator](problem/281.md) 
-22. [68. Text Justification](problem/68.md) ***** (*need to review*)
+22. [68. Text Justification](problem/68.md) (!!!!!) (*need to review*)
 23. [1087. Brace Expansion](problem/1087) ** (*need to review*)
 24. [676. Implement Magic Dictionary](problem/676.md) ** (V)
-25. [418. Sentence Screen Fitting](problem/418.md) ***** 
+25. [418. Sentence Screen Fitting](problem/418.md) (!!!!!) 
 26. [334. Increasing Triplet Subsequence](problem/334.md) (V)
 27. [394. Decode String](problem/394.md) ** (V)
-28. [774. Minimize Max Distance to Gas Station](problem/774.md) ***** (*need to review*)
+28. [774. Minimize Max Distance to Gas Station](problem/774.md) (!!!!!) (*need to review*)
 30. [340. Longest Substring with At Most K Distinct Characters](problem/340.md) (V)
 31. [505. The Maze II](problem/505.md) ** (*need to review*)
-32. [834. Sum of Distances in Tree](problem/834) ***** (*need to review*)
+32. [834. Sum of Distances in Tree](problem/834) (!!!!!) (*need to review*)
 35. [287. Find the Duplicate Number](problem/287.md) * (*need to review*) 
 36. [987. Vertical Order Traversal of a Binary Tree](problem/987.md) (\*\*, V)
 37. [288. Unique Word Abbreviation](problem/288.md) *
 38. [562. Longest Line of Consecutive One in Matrix](problem/562.md)
-39. [188. Best Time to Buy and Sell Stock IV](problem/188.md) *****
-40. [317. Shortest Distance from All Buildings](problem/317.md) *****
+39. [188. Best Time to Buy and Sell Stock IV](problem/188.md) (!!!!!)
+40. [317. Shortest Distance from All Buildings](problem/317.md) (!!!!!)
 41. [900. RLE Iterator](problem/900.md) * (*need to review*)
 42. [227. Basic Calculator II](problem/227.md) *
-43. [940. Distinct Subsequences II](problem/904.md) *****
-44. [640. Solve the Equation](problem/640.md) *****
+43. [940. Distinct Subsequences II](problem/904.md) (!!!!!)
+44. [640. Solve the Equation](problem/640.md) (!!!!!)
 45. [128. Longest Consecutive Sequence](problem/128.md) *
 46. [911. Online Election](problem/911.md) **
 47. [60. Permutation Sequence](problem/60.md)
-48. [801. Minimum Swaps To Make Sequences Increasing](problem/801.md) *****
+48. [801. Minimum Swaps To Make Sequences Increasing](problem/801.md) (!!!!!)
 49. [210. Course Schedule II](problem/210.md) **
 50. [337. House Robber III](problem/337.md) ** (V)
 51. [198. House Robber](problem/198.md) (V)
@@ -395,8 +395,8 @@
 25. [9. Palindrome Number](problem/9.md)
 26. [319. Bulb Switcher](problem/319.md) **
 27. [304. Range Sum Query 2D - Immutable](problem/304.md) *
-28. [426. Convert Binary Search Tree to Sorted Doubly Linked List](problem/426.md) ****
-29. [312. Burst Balloons](problem/312.md) *****
+28. [426. Convert Binary Search Tree to Sorted Doubly Linked List](problem/426.md) (!!!!)
+29. [312. Burst Balloons](problem/312.md) (!!!!!)
 30. [769. Max Chunks To Make Sorted](problem/769.md) *
 31. [96. Unique Binary Search Trees](problem/96.md) *
 32. [468. Validate IP Address](problem/468.md) **
@@ -439,10 +439,10 @@
 10. [256. Paint House](problem/256.md) * (V, V) (高頻)
 11. [605. Can Place Flowers](problem/605.md) (V, \*, V)
 12. [170. Two Sum III - Data structure design](problem/170.md)  (V, V)
-13. [235. Lowest Common Ancestor of a Binary Search Tree](problem/235.md) * (*need to review*, *)
-14. [156. Binary Tree Upside Down](problem/156.md) *** (*need to review*, *)
+13. [235. Lowest Common Ancestor of a Binary Search Tree](problem/235.md) * (*need to review*, !)
+14. [156. Binary Tree Upside Down](problem/156.md) (!!!) (*need to review*, !)
 15. [671. Second Minimum Node In a Binary Tree](problem/671.md) (V, V)
-16. [698. Partition to K Equal Sum Subsets](problem/698.md) ** (*need to review*, *)
+16. [698. Partition to K Equal Sum Subsets](problem/698.md) ** (*need to review*, !)
 17. [416. Partition Equal Subset Sum](problem/416.md) ** (*need to review*)
 18. [366. Find Leaves of Binary Tree](problem/366.md) * (V) (高頻)
 19. [244. Shortest Word Distance II](problem/244.md) (V)
@@ -461,7 +461,7 @@
 32. [367. Valid Perfect Square](problem/367.md) * (V)
 33. [748. Shortest Completing Word](problem/748.md) * (V)
 34. [362. Design Hit Counter](problem/362.md) * (V)
-35. [149. Max Points on a Line](problem/149.md) ***
+35. [149. Max Points on a Line](problem/149.md) (!!!)
 36. [265. Paint House II](problem/265.md) **
 65. [65. Valid Number](problem/65.md) **
 66. [633. Sum of Square Numbers](problem/633.md)
@@ -489,15 +489,15 @@
 19. [23. Merge k Sorted Lists](problem/23.md) * (V)
 20. [42. Trapping Rain Water](problem/42.md) ** 
 21. [127. Word Ladder](problem/127.md) ** (V)
-22. [126. Word Ladder II](problem/126.md) ***** (*need to review*)
+22. [126. Word Ladder II](problem/126.md) (!!!!!) (*need to review*)
 23. [341. Flatten Nested List Iterator](problem/341.md) ** (V)
 24. [957. Prison Cells After N Days](problem/957.md) * (V)
-25. [314. Binary Tree Vertical Order Traversal](problem/314.md) ***** (*need to review*)
+25. [314. Binary Tree Vertical Order Traversal](problem/314.md) (!!!!!) (*need to review*)
 26. [973. K Closest Points to Origin](problem/973.md) (V)
 27. [692. Top K Frequent Words](problem/692.md) (V)
 28. [165. Compare Version Numbers](problem/165.md) * (V)
 29. [295. Find Median from Data Stream](problem/295.md) ** (V)
-30. [269. Alien Dictionary](problem/269.md) ***** (*need to review*)
+30. [269. Alien Dictionary](problem/269.md) !!!!! (*need to review*)
 31. [7. Reverse Integer](problem/7.md) * (V)
 32. [11. Container With Most Water](problem/11.md) * (V)
 33. [33. Search in Rotated Sorted Array](problem/33.md) * (V) (LinkedIn)
@@ -508,19 +508,19 @@
 38. [611. Valid Triangle Number](problem/611.md) ** (*need to review*)
 39. [17. Letter Combinations of a Phone Number](problem/17.md) * (V)
 40. [938. Range Sum of BST](problem/938.md) (V)
-41. [223. Rectangle Area](problem/223.md) *** (V)
+41. [223. Rectangle Area](problem/223.md) (!!!) (V)
 42. [14. Longest Common Prefix](problem/14.md) * (V)
 43. [113. Path Sum II](problem/113.md) ** (V)
 44. [112. Path Sum](problem/112.md) (V)
 45. [437. Path Sum III](problem/437.md) * (*need to review*, V)
 46. [78. Subsets](problem/78.md) (V)
-47. [239. Sliding Window Maximum](problem/239.md) ***** (*need to review*)
-48. [74. Search a 2D Matrix](problem/74.md) * (V)
+47. [239. Sliding Window Maximum](problem/239.md) (!!!!!) (*need to review*)
+48. [74. Search a 2D Matrix](problem/74.md) (!) (V)
 49. [208. Implement Trie (Prefix Tree)](problem/208.md) (*need to review*)
 50. [298. Binary Tree Longest Consecutive Sequence](problem/298.md) * (*need to review*)
 51. [1071. Greatest Common Divisor of Strings](problem/1071.md) * (*need to review*)
 52. [2. Add Two Numbers](problem/2.md) (V)
-53. [662. Maximum Width of Binary Tree](problem/662.md) ***** (*need to review*)
+53. [662. Maximum Width of Binary Tree](problem/662.md) (!!!!!) (*need to review*)
 54. [1160. Find Words That Can Be Formed by Characters](problem/1160.md) (V)
 55. [1155. Number of Dice Rolls With Target Sum](problem/1155.md) **
 56. [1128. Number of Equivalent Domino Pairs](problem/1128.md)
@@ -528,7 +528,7 @@
 58. [115. Distinct Subsequences](problem/115.md) **
 59. [1122. Relative Sort Array](problem/1122.md)
 60. [59. Spiral Matrix II](problem/59.md) **
-61. [460. LFU Cache](problem/460.md) *****
+61. [460. LFU Cache](problem/460.md) (!!!!!)
 62. [138. Copy List with Random Pointer](problem/138.md) **
 63. [545. Boundary of Binary Tree](problem/545.md) *
 64. [116. Populating Next Right Pointers in Each Node](problem/116.md)
@@ -548,7 +548,7 @@
 78. [409. Longest Palindrome](problem/409.md) (V)
 79. [866. Prime Palindrome](problem/866.md) *
 80. [456. 132 Pattern](problem/456.md) **
-81. [1000. Minimum Cost to Merge Stones](problem/1000.md) *****
+81. [1000. Minimum Cost to Merge Stones](problem/1000.md) (!!!!!)
 82. [1120. Maximum Average Subtree](problem/1120.md)
 83. [134. Gas Station](problem/134.md) *
 84. [1214. Two Sum BSTs](problem/1214.md)
@@ -594,10 +594,10 @@
 2. [724. Find Pivot Index](problem/724.md)
 
 ##### Uber
-1. [68. Text Justification](problem/68.md) *****
+1. [68. Text Justification](problem/68.md) (!!!!!)
 2. [130. Surrounded Regions](problem/130.md)
 3. [542. 01 Matrix](problem/542.md) *
-4. [427. Construct Quad Tree](problem/427.md) *****
+4. [427. Construct Quad Tree](problem/427.md) (!!!!!)
 5. [1064. Fixed Point](problem/1064.md)
 6. [1162. As Far from Land as Possible](problem/1162.md) **
 7. [518. Coin Change 2](problem/518.md) *
