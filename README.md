@@ -621,7 +621,7 @@
 10. [48. Rotate Image](problem/48.md) **
 11. [151. Reverse Words in a String](problem/151.md)
 12. [232. Implement Queue using Stacks](problem/232.md) *
-13. [450. Delete Node in a BST](problem/450.md) **
+13. [450. Delete Node in a BST](problem/450.md) ** (V)
 14. [701. Insert into a Binary Search Tree](problem/701)
 15. [650. 2 Keys Keyboard](problem/650.md) **
 16. [1273. Delete Tree Nodes](problem/1273.md) **
