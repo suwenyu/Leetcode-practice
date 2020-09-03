@@ -151,7 +151,7 @@
 34. [1055. Shortest Way to Form String](problem/1055.md) ** (*need to review*, *need to review*, KMG)
 38. [833. Find And Replace in String](problem/833.md) * (*need to review*, V, V)
 40. [524. Longest Word in Dictionary through Deleting](problem/524.md) * (V, V)
-44. [459. Repeated Substring Pattern](problem/459.md) **  (*need to review*, KMG)
+44. [459. Repeated Substring Pattern](problem/459.md) **  (*need to review*, KMG) (*need to review*)
 48. [809. Expressive Words](problem/809.md) * (*need to review*)
 73. [1138. Alphabet Board Path](problem/1138.md) **
 64. [681. Next Closest Time](problem/681.md) ** (*need to review*)
@@ -362,7 +362,7 @@
 51. [198. House Robber](problem/198.md) (V)
 52. [213. House Robber II](problem/213.md) * (V)
 53. [769. Max Chunks To Make Sorted](problem/769.md) (V)
-54. [768. Max Chunks To Make Sorted II](problem/768.md) ** (V)
+54. [768. Max Chunks To Make Sorted II](problem/768.md) ** (V, V)
 55. [729. My Calendar I](problem/729.md) (V)
 56. [731. My Calendar II](problem/731.md) (V)
 57. [732. My Calendar III](problem/732.md) (V)
