@@ -471,7 +471,7 @@
 1. [937. Reorder Log Files](problem/937.md) *
 2. [703. Kth Largest Element in a Stream](problem/703.md) (V)
 3. [994. Rotting Oranges](problem/994.md) * (V)
-4. [763. Partition Labels](problem/763.md) * (V)
+4. [763. Partition Labels](problem/763.md) * (V) (V)
 5. [540. Single Element in a Sorted Array](problem/540.md) (V)
 6. [635. Design Log Storage System](problem/635.md) **
 7. [230. Kth Smallest Element in a BST](problem/230.md) (V)
