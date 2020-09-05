@@ -96,6 +96,7 @@
 1. [617. Merge Two Binary Trees](problem/617.md)
 2. [173. Binary Search Tree Iterator](problem/173.md)
 3. [100. Same Tree](problem/100.md)
+4. [1305. All Elements in Two Binary Search Trees](problem/1305.md)
 
 ##### BrainTeaser
 1. [292. Nim Game](problem/292.md)
