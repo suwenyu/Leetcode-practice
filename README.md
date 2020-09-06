@@ -41,6 +41,7 @@
 20. [1446. Consecutive Characters](problem/1446.md)
 21. [1545. Find Kth Bit in Nth Binary String](problem/1545.md)
 22. [1556. Thousand Separator](problem/1556.md)
+23. [1576. Replace All ?'s to Avoid Consecutive Repeating Characters](problem/1576.md)
 
 ##### Array
 1. [485. Max Consecutive Ones](problem/485.md)
@@ -107,6 +108,7 @@
 3. [387. First Unique Character in a String](problem/387.md)
 4. [961. N-Repeated Element in Size 2N Array](problem/961.md)
 5. [970. Powerful Integers](problem/970.md)
+6. [1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers](problem/1577.md)
 
 ##### Back tracking
 1. [784. Letter Case Permutation](problem/784.md)
@@ -119,6 +121,7 @@
 ##### Greedy
 1. [122. Best Time to Buy and Sell Stock II](problem/122.md) (V)
 2. [1558. Minimum Numbers of Function Calls to Make Target Array](problem/1558.md)
+3. [1578. Minimum Deletion Cost to Avoid Repeating Letters](problem/1578.md)
 
 ##### Depth First Search
 1. [695. Max Area of Island](problem/695.md)
@@ -140,6 +143,9 @@
 
 ##### Graph
 1. [1557. Minimum Number of Vertices to Reach All Nodes](problem/1557.md)
+
+##### Union Find
+1. [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](problem/1579.md)
 
 #### Google Interview
 **
