@@ -109,6 +109,7 @@
 4. [961. N-Repeated Element in Size 2N Array](problem/961.md)
 5. [970. Powerful Integers](problem/970.md)
 6. [1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers](problem/1577.md)
+7. [290. Word Pattern](problem/290.md)
 
 ##### Back tracking
 1. [784. Letter Case Permutation](problem/784.md)
