@@ -13,4 +13,5 @@ Contest 205
 - 2020-09-06 [1578. Minimum Deletion Cost to Avoid Repeating Letters](problem/1578.md) -- Completed
 - 2020-09-06 [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](problem/1579.md) -- Not Completed
 
-- 2020-09-07 [290. Word Pattern](problem/290.md) 
+- 2020-09-07 [290. Word Pattern](problem/290.md)
+- 2020-09-07 [835. Image Overlap](problem/835.md)
