@@ -575,7 +575,7 @@
 96. [974. Subarray Sums Divisible by K](problem/974.md) **
 97. [1268. Search Suggestions System](problem/1268.md) * (todo)
 98. [1023. Camelcase Matching](problem/1023.md) **
-99. [1022. Sum of Root To Leaf Binary Numbers](problem/1022.md)
+99. [1022. Sum of Root To Leaf Binary Numbers](problem/1022.md) (V)
 100. [807. Max Increase to Keep City Skyline](problem/807.md)
 101. [396. Rotate Function](problem/396.md) **
 102. [397. Integer Replacement](problem/397.md) **
