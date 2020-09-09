@@ -504,7 +504,7 @@
 25. [314. Binary Tree Vertical Order Traversal](problem/314.md) (!!!!!) (*need to review*)
 26. [973. K Closest Points to Origin](problem/973.md) (V)
 27. [692. Top K Frequent Words](problem/692.md) (V)
-28. [165. Compare Version Numbers](problem/165.md) * (V)
+28. [165. Compare Version Numbers](problem/165.md) * (V) (V)
 29. [295. Find Median from Data Stream](problem/295.md) ** (V)
 30. [269. Alien Dictionary](problem/269.md) !!!!! (*need to review*)
 31. [7. Reverse Integer](problem/7.md) * (V)
