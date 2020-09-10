@@ -220,7 +220,7 @@
 20. [734. Sentence Similarity](problem/734.md) * (V, V)
 22. [205. Isomorphic Strings](problem/205.md) * (*need to review*, *need to review*)
 31. [939. Minimum Area Rectangle](problem/939.md) * (*need to review*, *need to review*)
-43. [299. Bulls and Cows](problem/299.md) (V, V) (!)
+43. [299. Bulls and Cows](problem/299.md) (V, V, V) (!)
 56. [159. Longest Substring with At Most Two Distinct Characters](problem/159.md) ** (V)
 57. [904. Fruit Into Baskets](problem/904.md) 
 65. [414. Third Maximum Number](problem/414.md) * (*need to review*)
