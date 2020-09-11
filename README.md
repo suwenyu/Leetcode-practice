@@ -735,7 +735,7 @@
 9. [931. Minimum Falling Path Sum](problem/931.md)
 10. [983. Minimum Cost For Tickets](problem/983.md) *
 11. [5. Longest Palindromic Substring](problem/5.md) * (*need to review*)
-12. [152. Maximum Product Subarray](problem/152.md) *
+12. [152. Maximum Product Subarray](problem/152.md) * (*need to review*)
 13. [322. Coin Change](problem/322.md) (*need to review*)
 14. [221. Maximal Square](problem/221.md)
 15. [139. Word Break](problem/139.md) ** (*important*) (*need to review*)
