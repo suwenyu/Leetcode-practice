@@ -114,6 +114,7 @@
 
 ##### Back tracking
 1. [784. Letter Case Permutation](problem/784.md)
+2. [216. Combination Sum III](problem/216.md)
 
 ##### Sort
 1. [242. Valid Anagram](problem/242.md)
@@ -138,7 +139,23 @@
 1. [705. Design HashSet](problem/705.md)
 
 ##### Dynamic Programming
-1. [1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](problem/1546.md)
+1. [53. Maximum Subarray](problem/53.md) (V)
+2. [121. Best Time to Buy and Sell Stock](problem/121.md) (V, V)
+3. [746. Min Cost Climbing Stairs](problem/746.md)
+4. [70. Climbing Stairs](problem/70.md)
+5. [198. House Robber](problem/198.md)
+6. [303. Range Sum Query - Immutable](problem/303.md) *
+7. [338. Counting Bits](problem/338.md) *
+8. [877. Stone Game](problem/877.md) **
+9. [931. Minimum Falling Path Sum](problem/931.md)
+10. [983. Minimum Cost For Tickets](problem/983.md) *
+11. [5. Longest Palindromic Substring](problem/5.md) * (*need to review*)
+12. [152. Maximum Product Subarray](problem/152.md) * (*need to review*)
+13. [322. Coin Change](problem/322.md) (*need to review*)
+14. [221. Maximal Square](problem/221.md)
+15. [139. Word Break](problem/139.md) ** (*important*) (*need to review*)
+16. [91. Decode Ways](problem/91.md) *
+17. [1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](problem/1546.md)
 
 ##### Binary Search
 1. [1562. Find Latest Group of Size M](problem/1562.md) *
@@ -148,6 +165,10 @@
 
 ##### Union Find
 1. [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](problem/1579.md)
+
+##### Divide and Conquer
+1. [932. Beautiful Array](problem/932.md) **
+
 
 #### Google Interview
 **
@@ -722,27 +743,6 @@
 77. [1451. Rearrange Words in a Sentence](problem/1451.md)
 78. [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](problem/1455.md)
 
-
-##### Dynamic Programming
-1. [53. Maximum Subarray](problem/53.md) (V)
-2. [121. Best Time to Buy and Sell Stock](problem/121.md) (V, V)
-3. [746. Min Cost Climbing Stairs](problem/746.md)
-4. [70. Climbing Stairs](problem/70.md)
-5. [198. House Robber](problem/198.md)
-6. [303. Range Sum Query - Immutable](problem/303.md) *
-7. [338. Counting Bits](problem/338.md) *
-8. [877. Stone Game](problem/877.md) **
-9. [931. Minimum Falling Path Sum](problem/931.md)
-10. [983. Minimum Cost For Tickets](problem/983.md) *
-11. [5. Longest Palindromic Substring](problem/5.md) * (*need to review*)
-12. [152. Maximum Product Subarray](problem/152.md) * (*need to review*)
-13. [322. Coin Change](problem/322.md) (*need to review*)
-14. [221. Maximal Square](problem/221.md)
-15. [139. Word Break](problem/139.md) ** (*important*) (*need to review*)
-16. [91. Decode Ways](problem/91.md) *
-
-##### Divide and Conquer
-1. [932. Beautiful Array](problem/932.md) **
 
 ##### Class
 1. [155. Min Stack](problem/155.md) *
