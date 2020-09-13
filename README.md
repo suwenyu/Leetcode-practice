@@ -128,6 +128,7 @@
 1. [122. Best Time to Buy and Sell Stock II](problem/122.md) (V)
 2. [1558. Minimum Numbers of Function Calls to Make Target Array](problem/1558.md)
 3. [1578. Minimum Deletion Cost to Avoid Repeating Letters](problem/1578.md)
+4. [1585. Check If String Is Transformable With Substring Sort Operations](problem/1585.md) **
 
 ##### Depth First Search
 1. [695. Max Area of Island](problem/695.md)

@@ -25,3 +25,6 @@ Contest 206
 - 2020-09-13 [1582. Special Positions in a Binary Matrix](problem/1582.md) -- Completed
 - 2020-09-13 [1583. Count Unhappy Friends](problem/1583.md) -- Completed
 - 2020-09-13 [1584. Min Cost to Connect All Points](problem/1584.md) -- Not Completed
+- 2020-09-13 [1585. Check If String Is Transformable With Substring Sort Operations](problem/1585.md) -- Not Completed
+
+
