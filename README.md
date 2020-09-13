@@ -67,6 +67,8 @@
 21. [442. Find All Duplicates in an Array](problem/442.md) **
 22. [1560. Most Visited Sector in a Circular Track](problem/1560.md) 
 23. [835. Image Overlap](problem/835.md)
+24. [1582. Special Positions in a Binary Matrix](problem/1582.md)
+25. [1583. Count Unhappy Friends](problem/1583.md)
 
 ##### SQL
 1. [595. Big Countries](problem/595.md)
@@ -99,6 +101,7 @@
 2. [173. Binary Search Tree Iterator](problem/173.md)
 3. [100. Same Tree](problem/100.md)
 4. [1305. All Elements in Two Binary Search Trees](problem/1305.md)
+5. [1584. Min Cost to Connect All Points](problem/1584.md)
 
 ##### BrainTeaser
 1. [292. Nim Game](problem/292.md)

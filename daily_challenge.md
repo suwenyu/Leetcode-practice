@@ -20,3 +20,8 @@ Contest 205
 - 2020-09-10 [299. Bulls and Cows](problem/299.md)
 - 2020-09-11 [152. Maximum Product Subarray](problem/152.md) *review*
 - 2020-09-12 [216. Combination Sum III](problem/216.md)
+
+Contest 206
+- 2020-09-13 [1582. Special Positions in a Binary Matrix](problem/1582.md) -- Completed
+- 2020-09-13 [1583. Count Unhappy Friends](problem/1583.md) -- Completed
+- 2020-09-13 [1584. Min Cost to Connect All Points](problem/1584.md) -- Not Completed
