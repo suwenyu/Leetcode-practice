@@ -201,7 +201,7 @@
 50. [15. 3Sum](problem/15.md) *** (*need to review*, V)
 51. [56. Merge Intervals](problem/56.md) (V, V)
 54. [1007. Minimum Domino Rotations For Equal Row](problem/1007.md) * (V)(高頻)
-58. [57. Insert Interval](problem/57.md) * (*need to review*, LinkedIn)
+58. [57. Insert Interval](problem/57.md) * (*need to review*, LinkedIn) (*need to review*)
 69. [1184. Distance Between Bus Stops](problem/1184.md) ** (V)
 76. [228. Summary Ranges](problem/228.md)
 
