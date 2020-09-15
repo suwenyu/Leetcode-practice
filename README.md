@@ -42,6 +42,7 @@
 21. [1545. Find Kth Bit in Nth Binary String](problem/1545.md)
 22. [1556. Thousand Separator](problem/1556.md)
 23. [1576. Replace All ?'s to Avoid Consecutive Repeating Characters](problem/1576.md)
+24. [58. Length of Last Word](problem/58.md)
 
 ##### Array
 1. [485. Max Consecutive Ones](problem/485.md)
