@@ -17,6 +17,7 @@
 12. [1344. Angle Between Hands of a Clock](problem/1344.md) *
 13. [1360. Number of Days Between Two Dates](problem/1360.md) *
 14. [1374. Generate a String With Characters That Have Odd Counts](problem/1374.md) *
+15. [1041. Robot Bounded In Circle](problem/1041.md) *
 
 ##### String
 1. [804. Unique Morse Code Words](problem/804.md)
@@ -85,6 +86,7 @@
 4. [762. Prime Number of Set Bits in Binary Representation](problem/762.md)
 5. [371. Sum of Two Integers](problem/371.md) * 
 6. [342. Power of Four](problem/342.md) 
+7. [421. Maximum XOR of Two Numbers in an Array](problem/421.md) *
 
 ##### Linked List
 1. [237. Delete Node in a Linked List](problem/237.md) *

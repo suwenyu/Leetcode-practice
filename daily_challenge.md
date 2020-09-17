@@ -30,3 +30,5 @@ Contest 206
 - 2020-09-13 [57. Insert Interval](problem/57.md)
 - 2020-09-14 [198. House Robber](problem/198.md)
 - 2020-09-15 [58. Length of Last Word](problem/58.md)
+- 2020-09-16 [421. Maximum XOR of Two Numbers in an Array](problem/421.md) *review*
+- 2020-09-17 [1041. Robot Bounded In Circle](problem/1041.md) *review*
