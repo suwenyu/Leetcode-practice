@@ -147,7 +147,7 @@
 
 ##### Dynamic Programming
 1. [53. Maximum Subarray](problem/53.md) (V)
-2. [121. Best Time to Buy and Sell Stock](problem/121.md) (V, V)
+2. [121. Best Time to Buy and Sell Stock](problem/121.md) (V, V, V)
 3. [746. Min Cost Climbing Stairs](problem/746.md)
 4. [70. Climbing Stairs](problem/70.md)
 5. [198. House Robber](problem/198.md)
