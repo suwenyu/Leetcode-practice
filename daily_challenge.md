@@ -33,3 +33,4 @@ Contest 206
 - 2020-09-16 [421. Maximum XOR of Two Numbers in an Array](problem/421.md) *review*
 - 2020-09-17 [1041. Robot Bounded In Circle](problem/1041.md) *review*
 - 2020-09-18 [121. Best Time to Buy and Sell Stock](problem/121.md)
+- 2020-09-19 [1291. Sequential Digits](problem/1291.md)
