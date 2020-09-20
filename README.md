@@ -44,6 +44,7 @@
 22. [1556. Thousand Separator](problem/1556.md)
 23. [1576. Replace All ?'s to Avoid Consecutive Repeating Characters](problem/1576.md)
 24. [58. Length of Last Word](problem/58.md)
+25. [1592. Rearrange Spaces Between Words](problem/1592.md)
 
 ##### Array
 1. [485. Max Consecutive Ones](problem/485.md)
@@ -163,6 +164,7 @@
 15. [139. Word Break](problem/139.md) ** (*important*) (*need to review*)
 16. [91. Decode Ways](problem/91.md) *
 17. [1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](problem/1546.md)
+18. [1594. Maximum Non Negative Product in a Matrix](problem/1594.md) *
 
 ##### Binary Search
 1. [1562. Find Latest Group of Size M](problem/1562.md) *
@@ -236,6 +238,7 @@
 45. [544. Output Contest Matches](problem/544.md) * (V, V)
 47. [394. Decode String](problem/394.md) ** (*need to review*, *need to review*)
 79. [279. Perfect Squares](problem/279.md) ** (*need to review*)
+80. [1593. Split a String Into the Max Number of Unique Substrings](problem/1593.md)
 
 ##### HashMap
 9. [253. Meeting Rooms II](problem/253.md) * (V, V)
