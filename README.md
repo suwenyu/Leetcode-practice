@@ -133,11 +133,13 @@
 2. [1558. Minimum Numbers of Function Calls to Make Target Array](problem/1558.md)
 3. [1578. Minimum Deletion Cost to Avoid Repeating Letters](problem/1578.md)
 4. [1585. Check If String Is Transformable With Substring Sort Operations](problem/1585.md) **
+5. [1094. Car Pooling](problem/1094.md)
 
 ##### Depth First Search
 1. [695. Max Area of Island](problem/695.md)
 2. [690. Employee Importance](problem/690.md) *
 3. [733. Flood Fill](problem/733.md)
+4. [Unique Paths III](problem/980.md) **
 
 ##### Stack
 1. [856. Score of Parentheses](problem/856.md)
