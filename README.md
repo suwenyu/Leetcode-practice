@@ -72,6 +72,7 @@
 23. [835. Image Overlap](problem/835.md)
 24. [1582. Special Positions in a Binary Matrix](problem/1582.md)
 25. [1583. Count Unhappy Friends](problem/1583.md)
+26. [Majority Element II](problem/229.md) **
 
 ##### SQL
 1. [595. Big Countries](problem/595.md)
