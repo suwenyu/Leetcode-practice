@@ -34,3 +34,4 @@ Contest 206
 - 2020-09-17 [1041. Robot Bounded In Circle](problem/1041.md) *review*
 - 2020-09-18 [121. Best Time to Buy and Sell Stock](problem/121.md)
 - 2020-09-19 [1291. Sequential Digits](problem/1291.md)
+- 2020-09-20 [Majority Element II](problem/229.md) *review*
