@@ -44,3 +44,4 @@ Contest 207
 - 2020-09-21 [1094. Car Pooling](problem/1094.md)
 - 2020-09-22 [Majority Element II](problem/229.md) *review*
 - 2020-09-23 [134. Gas Station](problem/134.md)
+- 2020-09-24 [389. Find the Difference](problem/389.md)
