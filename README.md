@@ -128,6 +128,7 @@
 1. [242. Valid Anagram](problem/242.md)
 2. [506. Relative Ranks](problem/506.md) *
 3. [1561. Maximum Number of Coins You Can Get](problem/1561.md)
+4. [179. Largest Number](problem/179.md)
 
 ##### Greedy
 1. [122. Best Time to Buy and Sell Stock II](problem/122.md) (V)
