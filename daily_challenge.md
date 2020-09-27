@@ -47,3 +47,10 @@ Contest 207
 - 2020-09-24 [389. Find the Difference](problem/389.md)
 - 2020-09-25 [179. Largest Number](problem/179.md) *review*
 - 2020-09-26 [495. Teemo Attacking](problem/495.md)
+
+Contest 208
+- 2020-09-27 [1598. Crawler Log Folder](problem/1598.md) -- Completed
+- 2020-09-27 [1599. Maximum Profit of Operating a Centennial Wheel](problem/1599.md) -- Note Completed
+- 2020-09-27 [1600. Throne Inheritance](problem/1600.md) -- Not Completed
+
+- 2020-09-27 [399. Evaluate Division](problem/399.md) 
