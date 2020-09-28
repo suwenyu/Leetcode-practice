@@ -687,7 +687,7 @@
 3. [1139. Largest 1-Bordered Square](problem/1139.md) **
 4. [1140. Stone Game II](problem/1040.md) **
 5. [1130. Minimum Cost Tree From Leaf Values](problem/1130.md) **
-6. [713. Subarray Product Less Than K](problem/713.md) *
+6. [713. Subarray Product Less Than K](problem/713.md) * (V)
 7. [1124. Longest Well-Performing Interval](problem/1124) **
 8. [1109. Corporate Flight Bookings](problem/1109.md) **
 9. [1200. Minimum Absolute Difference](problem/1200.md)
