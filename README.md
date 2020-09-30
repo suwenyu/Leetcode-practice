@@ -74,6 +74,7 @@
 25. [1583. Count Unhappy Friends](problem/1583.md)
 26. [Majority Element II](problem/229.md) **
 27. [495. Teemo Attacking](problem/495.md)
+28. [41. First Missing Positive](problem/41.md)
 
 ##### SQL
 1. [595. Big Countries](problem/595.md)
