@@ -152,6 +152,9 @@
 2. [1544. Make The String Great](problem/1544.md)
 3. [1598. Crawler Log Folder](problem/1598.md)
 
+##### Queue
+1. [933. Number of Recent Calls](problem/933.md)
+
 ##### System
 1. [705. Design HashSet](problem/705.md)
 
