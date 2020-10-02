@@ -58,3 +58,4 @@ Contest 208
 - 2020-09-29 [139. Word Break](problem/139.md) *review*
 - 2020-09-30 [41. First Missing Positive](problem/41.md)
 - 2020-10-01 [933. Number of Recent Calls](problem/933.md)
+- 2020-10-02 [39. Combination Sum](problem/39.md) *review*
