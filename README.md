@@ -671,7 +671,7 @@
 11. [151. Reverse Words in a String](problem/151.md)
 12. [232. Implement Queue using Stacks](problem/232.md) *
 13. [450. Delete Node in a BST](problem/450.md) ** (V)
-14. [701. Insert into a Binary Search Tree](problem/701)
+14. [701. Insert into a Binary Search Tree](problem/701) (V)
 15. [650. 2 Keys Keyboard](problem/650.md) **
 16. [1273. Delete Tree Nodes](problem/1273.md) **
 17. [1318. Minimum Flips to Make a OR b Equal to c](problem/1318.md)
