@@ -1,13 +1,13 @@
 # Daily Challenge
 
-- 2020-08-31 [450. Delete Node in a BST](problem/450.md) 
+- 2020-08-31 [450. Delete Node in a BST](problem/450.md)
 - 2020-09-01 [949. Largest Time for Given Digits](problem/949.md) *review*
 - 2020-09-02 [220. Contains Duplicate III](problem/220.md) *review*
 - 2020-09-03 [459. Repeated Substring Pattern](problem/459.md) *review*
 - 2020-09-04 [763. Partition Labels](problem/763.md)
 - 2020-09-05 [1305. All Elements in Two Binary Search Trees](problem/1305.md)
 
-Contest 205 
+Contest 205
 - 2020-09-06 [1576. Replace All ?'s to Avoid Consecutive Repeating Characters](problem/1576.md) -- Completed
 - 2020-09-06 [1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers](problem/1577.md) -- Completed
 - 2020-09-06 [1578. Minimum Deletion Cost to Avoid Repeating Letters](problem/1578.md) -- Completed
@@ -53,9 +53,11 @@ Contest 208
 - 2020-09-27 [1599. Maximum Profit of Operating a Centennial Wheel](problem/1599.md) -- Note Completed
 - 2020-09-27 [1600. Throne Inheritance](problem/1600.md) -- Not Completed
 
-- 2020-09-27 [399. Evaluate Division](problem/399.md) 
+- 2020-09-27 [399. Evaluate Division](problem/399.md)
 - 2020-09-28 [713. Subarray Product Less Than K](problem/713.md)
 - 2020-09-29 [139. Word Break](problem/139.md) *review*
 - 2020-09-30 [41. First Missing Positive](problem/41.md)
 
+- 2020-10-01 [933. Number of Recent Calls](problem/933.md)
+- 2020-10-02 [39. Combination Sum](problem/39.md) *review*
 - 2020-10-06 [701. Insert into a Binary Search Tree](problem/701)

@@ -25,7 +25,7 @@
 3. [824. Goat Latin](problem/824.md)
 4. [521. Longest Uncommon Subsequence I](problem/521.md)
 5. [520. Detect Capital](problem/520.md) (V, V)
-6. [796. Rotate String](problem/796.md) (V) 
+6. [796. Rotate String](problem/796.md) (V)
 7. [788. Rotated Digits](problem/788.md)
 8. [696. Count Binary Substrings](problem/696.md) * (*need to review*)
 9. [819. Most Common Word](problem/819.md) (V)
@@ -68,7 +68,7 @@
 19. [1442. Count Triplets That Can Form Two Arrays of Equal XOR](problem/1442.md) *
 20. [1450. Number of Students Doing Homework at a Given Time](problem/1450.md)
 21. [442. Find All Duplicates in an Array](problem/442.md) **
-22. [1560. Most Visited Sector in a Circular Track](problem/1560.md) 
+22. [1560. Most Visited Sector in a Circular Track](problem/1560.md)
 23. [835. Image Overlap](problem/835.md)
 24. [1582. Special Positions in a Binary Matrix](problem/1582.md)
 25. [1583. Count Unhappy Friends](problem/1583.md)
@@ -88,8 +88,8 @@
 2. [693. Binary Number with Alternating Bits](problem/693.md)
 3. [136. Single Number](problem/136.md) *
 4. [762. Prime Number of Set Bits in Binary Representation](problem/762.md)
-5. [371. Sum of Two Integers](problem/371.md) * 
-6. [342. Power of Four](problem/342.md) 
+5. [371. Sum of Two Integers](problem/371.md) *
+6. [342. Power of Four](problem/342.md)
 7. [421. Maximum XOR of Two Numbers in an Array](problem/421.md) *
 
 ##### Linked List
@@ -151,6 +151,9 @@
 1. [856. Score of Parentheses](problem/856.md)
 2. [1544. Make The String Great](problem/1544.md)
 3. [1598. Crawler Log Folder](problem/1598.md)
+
+##### Queue
+1. [933. Number of Recent Calls](problem/933.md)
 
 ##### System
 1. [705. Design HashSet](problem/705.md)
@@ -262,7 +265,7 @@
 31. [939. Minimum Area Rectangle](problem/939.md) * (*need to review*, *need to review*)
 43. [299. Bulls and Cows](problem/299.md) (V, V, V) (!)
 56. [159. Longest Substring with At Most Two Distinct Characters](problem/159.md) ** (V)
-57. [904. Fruit Into Baskets](problem/904.md) 
+57. [904. Fruit Into Baskets](problem/904.md)
 65. [414. Third Maximum Number](problem/414.md) * (*need to review*)
 86. [249. Group Shifted Strings](problem/249.md) * (V)
 
@@ -273,8 +276,8 @@
 11. [200. Number of Islands](problem/200.md) * (V, V)
 36. [947. Most Stones Removed with Same Row or Column](problem/947.md) ** (*need to review*, V)
 37. [399. Evaluate Division](problem/399.md) * (*need to review*, V)
-39. [543. Diameter of Binary Tree](problem/543.md) * (V, *need to review*, V) 
-41. [222. Count Complete Tree Nodes](problem/222.md) ** (V, V) 
+39. [543. Diameter of Binary Tree](problem/543.md) * (V, *need to review*, V)
+41. [222. Count Complete Tree Nodes](problem/222.md) ** (V, V)
 46. [979. Distribute Coins in Binary Tree](problem/979.md) * (V, V)
 71. [1145. Binary Tree Coloring Game](problem/1145.md) **
 78. [329. Longest Increasing Path in a Matrix](problem/329.md) ** (V)
@@ -286,12 +289,12 @@
 ##### Linked List
 12. [234. Palindrome Linked List](problem/234.md) ** (V, V)
 
-##### Game * 
+##### Game *
 32. [723. Candy Crush](problem/723.md) * (*need to review*)
 52. [753. Cracking the Safe](problem/753.md) (!!!!) (*need to review*)
 
 ##### SQL
-35. [175. Combine Two Tables](problem/175.md) (V) 
+35. [175. Combine Two Tables](problem/175.md) (V)
 
 ##### System Design
 53. [981. Time Based Key-Value Store](problem/981.md) ** (V)
@@ -349,7 +352,7 @@
 126. [1331. Rank Transform of an Array](problem/1331.md)
 127. [988. Smallest String Starting From Leaf](problem/988.md)
 128. [526. Beautiful Arrangement](problem/526.md) *
-129. [609. Find Duplicate File in System](problem/609.md) 
+129. [609. Find Duplicate File in System](problem/609.md)
 130. [1352. Product of the Last K Numbers](problem/1352.md) *
 131. [1365. How Many Numbers Are Smaller Than the Current Number](problem/1365.md)
 132. [1366. Rank Teams by Votes](problem/1366.md) *
@@ -365,7 +368,7 @@
 2. [1057. Campus Bikes](problem/1057.md) (!) (V)
 3. [1066. Campus Bikes II](problem/1066.md) (!!!!!) (!) (*need to review*)
 4. [684. Redundant Connection](problem/684.md) ** (V)
-5. [685. Redundant Connection II](problem/685.md) (!!!!!) 
+5. [685. Redundant Connection II](problem/685.md) (!!!!!)
 6. [98. Validate Binary Search Tree](problem/98.md) (LinkedIn)
 7. [62. Unique Paths](problem/62.md) (V)
 8. [63. Unique Paths II](problem/63.md) (V)
@@ -374,25 +377,25 @@
 11. [489. Robot Room Cleaner](problem/489.md) (!!!!!) (*need to review*)
 12. [855. Exam Room](problem/855.md) ** (*need to review*, *need to review*)
 13. [497. Random Point in Non-overlapping Rectangles](problem/497.md) ** (*need to review*)
-14. [528. Random Pick with Weight](problem/528.md) ** 
+14. [528. Random Pick with Weight](problem/528.md) **
 15. [853. Car Fleet](problem/853.md) ** (V, V)
 16. [857. Minimum Cost to Hire K Workers](problem/857.md) ** (*need to review*)
 17. [750. Number Of Corner Rectangles](problem/750.md) * (V)
 18. [815. Bus Routes](problem/815.md) (!!!!!) (V)
 19. [951. Flip Equivalent Binary Trees](problem/951.md) (V)
 20. [1110. Delete Nodes And Return Forest](problem/1110.md) ** (V)
-21. [281. Zigzag Iterator](problem/281.md) 
+21. [281. Zigzag Iterator](problem/281.md)
 22. [68. Text Justification](problem/68.md) (!!!!!) (*need to review*)
 23. [1087. Brace Expansion](problem/1087) ** (*need to review*)
 24. [676. Implement Magic Dictionary](problem/676.md) ** (V)
-25. [418. Sentence Screen Fitting](problem/418.md) (!!!!!) 
+25. [418. Sentence Screen Fitting](problem/418.md) (!!!!!)
 26. [334. Increasing Triplet Subsequence](problem/334.md) (V)
 27. [394. Decode String](problem/394.md) ** (V)
 28. [774. Minimize Max Distance to Gas Station](problem/774.md) (!!!!!) (*need to review*)
 30. [340. Longest Substring with At Most K Distinct Characters](problem/340.md) (V)
 31. [505. The Maze II](problem/505.md) ** (*need to review*)
 32. [834. Sum of Distances in Tree](problem/834) (!!!!!) (*need to review*)
-35. [287. Find the Duplicate Number](problem/287.md) * (*need to review*) 
+35. [287. Find the Duplicate Number](problem/287.md) * (*need to review*)
 36. [987. Vertical Order Traversal of a Binary Tree](problem/987.md) (\*\*, V)
 37. [288. Unique Word Abbreviation](problem/288.md) *
 38. [562. Longest Line of Consecutive One in Matrix](problem/562.md)
@@ -469,7 +472,7 @@
 50. [461. Hamming Distance](problem/461.md) *
 51. [398. Random Pick Index](problem/398.md)
 52. [969. Pancake Sorting](problem/969.md) **
-53. [791. Custom Sort String](problem/791.md) 
+53. [791. Custom Sort String](problem/791.md)
 54. [998. Maximum Binary Tree II](problem/998.md) **
 55. [1361. Validate Binary Tree Nodes](problem/1361.md)
 56. [1443. Minimum Time to Collect All Apples in a Tree](problem/1443.md) *
@@ -478,11 +481,11 @@
 ##### LinkedIn Interview
 1. [243. Shortest Word Distance](problem/243.md) (V, V)
 2. [104. Maximum Depth of Binary Tree](problem/104.md) (V, V)
-3. [101. Symmetric Tree](problem/101.md) * (V, V, V) 
+3. [101. Symmetric Tree](problem/101.md) * (V, V, V)
 4. [716. Max Stack](problem/716.md) ** (*need to review*, V)
 5. [50. Pow(x, n)](problem/50.md) * (*need to review*) (高頻)
 6. [273. Integer to English Words](problem/273.md) * (V)
-7. [859. Buddy Strings](problem/859.md) (*need to review*, V) 
+7. [859. Buddy Strings](problem/859.md) (*need to review*, V)
 8. [364. Nested List Weight Sum II](problem/364.md) ** (V, V) (高頻)
 9. [339. Nested List Weight Sum](problem/339.md) (V, V)
 10. [256. Paint House](problem/256.md) * (V, V) (高頻)
@@ -532,11 +535,11 @@
 13. [79. Word Search](problem/79.md) *
 14. [380. Insert Delete GetRandom O(1)](problem/380.md) ** (*need to review*)
 15. [207. Course Schedule](problem/207.md) ** (*need to review*)
-16. [435. Non-overlapping Intervals](problem/435.md) 
+16. [435. Non-overlapping Intervals](problem/435.md)
 17. [146. LRU Cache](problem/146.md) ** (*need to review*)
 18. [572. Subtree of Another Tree](problem/572.md) ** (V)
 19. [23. Merge k Sorted Lists](problem/23.md) * (V)
-20. [42. Trapping Rain Water](problem/42.md) ** 
+20. [42. Trapping Rain Water](problem/42.md) **
 21. [127. Word Ladder](problem/127.md) ** (V)
 22. [126. Word Ladder II](problem/126.md) (!!!!!) (*need to review*)
 23. [341. Flatten Nested List Iterator](problem/341.md) ** (V)
@@ -636,7 +639,7 @@
 117. [1456. Maximum Number of Vowels in a Substring of Given Length](problem/1456.md)
 118. [1457. Pseudo-Palindromic Paths in a Binary Tree](problem/1457.md)
 119. [120. Triangle](problem/120.md) *
-120. [39. Combination Sum](problem/39.md) 
+120. [39. Combination Sum](problem/39.md) *
 
 ##### Apple
 1. [549. Binary Tree Longest Consecutive Sequence II](problem/549.md) **
@@ -703,7 +706,7 @@
 18. [1229. Meeting Scheduler](problem/1229.md)
 19. [1230. Toss Strange Coins](problem/1230.md) *
 20. [1215. Stepping Numbers](problem/1215) *
-21. [1248. Count Number of Nice Subarrays](problem/1248.md) * 
+21. [1248. Count Number of Nice Subarrays](problem/1248.md) *
 22. [1247. Minimum Swaps to Make Strings Equal](problem/1247)
 23. [1238. Circular Permutation in Binary Representation](problem/1238.md) *
 24. [1243. Array Transformation](problem/1243.md)
@@ -732,7 +735,7 @@
 47. [1271. Hexspeak](problem/1271.md)
 48. [1275. Find Winner on a Tic Tac Toe Game](problem/1275.md)
 49. [1276. Number of Burgers with No Waste of Ingredients](problem/1276.md)
-50. [868. Binary Gap](problem/868.md) 
+50. [868. Binary Gap](problem/868.md)
 51. [754. Reach a Number](problem/754.md) **
 52. [1290. Convert Binary Number in a Linked List to Integer](problem/1290.md)
 53. [1291. Sequential Digits](problem/1291.md)
@@ -773,12 +776,12 @@
 4. morris traversal
 
 ##### Amazon Online Assessment Questions
-1. [138. Copy List with Random Pointer](problem/138.md) () 
+1. [138. Copy List with Random Pointer](problem/138.md) ()
 2. [21. Merge Two Sorted Lists](problem/21.md) (V)
 3. [572. Subtree of Another Tree](problem/572.md) (V)
 4. [240. Search a 2D Matrix II](problem/240.md) (V)
 
 ##### Google Online Assessment Questions
 1. [Water Flower](https://leetcode.com/discuss/interview-question/394347/) [mycode](problem/water_flowers.md)
-2. [1007. Minimum Domino Rotations For Equal Row](problem/1007.md) 
+2. [1007. Minimum Domino Rotations For Equal Row](problem/1007.md)
 
