@@ -662,7 +662,7 @@
 
 #### Microsoft
 1. [1114. Print in Order](problem/1114.md) **
-2. [704. Binary Search](problem/704.md)
+2. [704. Binary Search](problem/704.md) (V)
 3. [72. Edit Distance](problem/72.md) **
 4. [54. Spiral Matrix](problem/54.md) **
 5. [46. Permutations](problem/46.md) **
