@@ -340,7 +340,7 @@
 113. [1277. Count Square Submatrices with All Ones](problem/1277.md)
 114. [1296. Divide Array in Sets of K Consecutive Numbers](problem/1296.md)
 115. [806. Number of Lines To Write String](problem/806.md)
-116. [859. Buddy Strings](problem/859.md)
+116. [859. Buddy Strings](problem/859.md) (V)
 117. [858. Mirror Reflection](problem/858.md) **
 118. [779. K-th Symbol in Grammar](problem/779.md) **
 119. [776. Split BST](problem/776.md) (!!!)

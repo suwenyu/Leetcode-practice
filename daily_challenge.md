@@ -62,4 +62,5 @@ Contest 208
 - 2020-10-02 [39. Combination Sum](problem/39.md) *review*
 - 2020-10-06 [701. Insert into a Binary Search Tree](problem/701)
 - 2020-10-07 [61. Rotate List](problem/61.md)
-- 2020-10-08 [704. Binary Search](problem/704.md)
+- 2020-10-12 [704. Binary Search](problem/704.md)
+- 2020-10-13 [859. Buddy Strings](problem/859.md)
