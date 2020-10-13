@@ -99,7 +99,7 @@
 4. [876. Middle of the Linked List](problem/876.md)
 5. [817. Linked List Components](problem/817.md) *
 6. [160. Intersection of Two Linked Lists](problem/160.md)
-7. [148. Sort List](problem/148.md) *
+7. [148. Sort List](problem/148.md) * (*review*)
 8. [141. Linked List Cycle](problem/141.md)
 9. [142. Linked List Cycle II](problem/142.md)
 
