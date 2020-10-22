@@ -110,6 +110,7 @@
 3. [100. Same Tree](problem/100.md)
 4. [1305. All Elements in Two Binary Search Trees](problem/1305.md)
 5. [1584. Min Cost to Connect All Points](problem/1584.md)
+6. [111. Minimum Depth of Binary Tree](problem/111.md)
 
 ##### BrainTeaser
 1. [292. Nim Game](problem/292.md)
