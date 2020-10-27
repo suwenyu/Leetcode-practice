@@ -67,3 +67,5 @@ Contest 208
 - 2020-10-14 [213. House Robber II](problem/213.md) *review*
 - 2020-10-15 [189. Rotate Array](problem/189.md) *review*
 - 2020-10-21 [735. Asteroid Collision](problem/735.md)
+
+- 2020-10-27 [142. Linked List Cycle II](problem/142.md)
