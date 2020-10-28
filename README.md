@@ -258,7 +258,7 @@
 
 ##### HashMap
 9. [253. Meeting Rooms II](problem/253.md) * (V, V)
-10. [560. Subarray Sum Equals K](problem/560.md) ** (*need to review*, *review*)
+10. [560. Subarray Sum Equals K](problem/560.md) ** (*need to review*, *review*, V)
 13. [1. Two Sum](problem/1.md) (V, V)
 14. [3. Longest Substring Without Repeating Characters](problem/3.md) * (*need to review*, *need to review*)
 16. [811. Subdomain Visit Count](problem/811.md) (V, V)
