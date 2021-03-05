@@ -111,6 +111,8 @@
 4. [1305. All Elements in Two Binary Search Trees](problem/1305.md)
 5. [1584. Min Cost to Connect All Points](problem/1584.md)
 6. [111. Minimum Depth of Binary Tree](problem/111.md)
+7. [107. Binary Tree Level Order Traversal II](problem/107.md)
+8. [429. N-ary Tree Level Order Traversal](problem/429.md)
 
 ##### BrainTeaser
 1. [292. Nim Game](problem/292.md)
@@ -591,7 +593,7 @@
 63. [545. Boundary of Binary Tree](problem/545.md) *
 64. [116. Populating Next Right Pointers in Each Node](problem/116.md)
 65. [105. Construct Binary Tree from Preorder and Inorder Traversal](problem/105.md) **
-66. [102. Binary Tree Level Order Traversal](problem/102.md) (LinkedIn) (V)
+66. [102. Binary Tree Level Order Traversal](problem/102.md) (LinkedIn) (V, V)
 67. [117. Populating Next Right Pointers in Each Node II](problem/117.md)
 68. [706. Design HashMap](problem/706.md) **
 69. [687. Longest Univalue Path](problem/687.md) **
