@@ -91,7 +91,7 @@
 4. [762. Prime Number of Set Bits in Binary Representation](problem/762.md)
 5. [371. Sum of Two Integers](problem/371.md) *
 6. [342. Power of Four](problem/342.md)
-7. [421. Maximum XOR of Two Numbers in an Array](problem/421.md) *
+7. [421. Maximum XOR of Two Numbers in an Array](problem/421.md) * (V)
 
 ##### Linked List
 1. [237. Delete Node in a Linked List](problem/237.md) *
@@ -202,6 +202,8 @@
 
 ##### Trie
 1. [820. Short Encoding of Words](problem/820.md)
+2. [211. Design Add and Search Words Data Structure](problem/211.md)
+3. [421. Maximum XOR of Two Numbers in an Array](problem/421.md)
 
 #### Google Interview
 **
