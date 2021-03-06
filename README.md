@@ -199,6 +199,10 @@
 ##### Two Pointer
 1. [845. Longest Mountain in Array](problem/845.md) **
 
+
+##### Trie
+1. [820. Short Encoding of Words](problem/820.md)
+
 #### Google Interview
 **
 ##### String
