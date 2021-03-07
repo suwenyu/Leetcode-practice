@@ -77,3 +77,5 @@ Contest 208
 
 - 2021-03-04 [160. Intersection of Two Linked Lists](problem/160.md) *review*
 - 2021-03-05 [637. Average of Levels in Binary Tree](problem/637.md)
+- 2021-03-06 [820. Short Encoding of Words](problem/820.md)
+- 2021-03-07 [706. Design HashMap](problem/706.md)

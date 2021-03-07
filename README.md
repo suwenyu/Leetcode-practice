@@ -150,6 +150,8 @@
 3. [733. Flood Fill](problem/733.md)
 4. [Unique Paths III](problem/980.md) **
 5. [1600. Throne Inheritance](problem/1600.md) *
+6. [129. Sum Root to Leaf Numbers](problem/129.md)
+7. [988. Smallest String Starting From Leaf](problem/988.md)
 
 ##### Stack
 1. [856. Score of Parentheses](problem/856.md)
