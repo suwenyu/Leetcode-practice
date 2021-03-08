@@ -45,6 +45,8 @@
 23. [1576. Replace All ?'s to Avoid Consecutive Repeating Characters](problem/1576.md)
 24. [58. Length of Last Word](problem/58.md)
 25. [1592. Rearrange Spaces Between Words](problem/1592.md)
+26. [1332. Remove Palindromic Subsequences](problem/1332.md)
+27. [3. Longest Substring Without Repeating Characters]
 
 ##### Array
 1. [485. Max Consecutive Ones](problem/485.md)
@@ -152,6 +154,8 @@
 5. [1600. Throne Inheritance](problem/1600.md) *
 6. [129. Sum Root to Leaf Numbers](problem/129.md)
 7. [988. Smallest String Starting From Leaf](problem/988.md)
+8. [124. Binary Tree Maximum Path Sum](problem/124.md)
+9. 
 
 ##### Stack
 1. [856. Score of Parentheses](problem/856.md)
@@ -177,7 +181,7 @@
 8. [877. Stone Game](problem/877.md) **
 9. [931. Minimum Falling Path Sum](problem/931.md)
 10. [983. Minimum Cost For Tickets](problem/983.md) * (V)
-11. [5. Longest Palindromic Substring](problem/5.md) * (*need to review*)
+11. [5. Longest Palindromic Substring](problem/5.md) * (*need to review*, *need to review*)
 12. [152. Maximum Product Subarray](problem/152.md) * (*need to review*)
 13. [322. Coin Change](problem/322.md) (*need to review*)
 14. [221. Maximal Square](problem/221.md)
@@ -272,7 +276,7 @@
 9. [253. Meeting Rooms II](problem/253.md) * (V, V)
 10. [560. Subarray Sum Equals K](problem/560.md) ** (*need to review*, *review*, V)
 13. [1. Two Sum](problem/1.md) (V, V)
-14. [3. Longest Substring Without Repeating Characters](problem/3.md) * (*need to review*, *need to review*)
+14. [3. Longest Substring Without Repeating Characters](problem/3.md) * (*need to review*, *need to review*, V)
 16. [811. Subdomain Visit Count](problem/811.md) (V, V)
 17. [359. Logger Rate Limiter](problem/359.md) (V, V)
 18. [252. Meeting Rooms](problem/252.md) (V, V)
@@ -642,7 +646,7 @@
 104. [1038. Binary Search Tree to Greater Sum Tree](problem/1038.md) *
 105. [1325. Delete Leaves With a Given Value](problem/1325)
 106. [1315. Sum of Nodes with Even-Valued Grandparent](problem/1315.md) *
-107. [1332. Remove Palindromic Subsequences](problem/1332.md) **
+107. [1332. Remove Palindromic Subsequences](problem/1332.md) ** (V)
 108. [581. Shortest Unsorted Continuous Subarray](problem/581.md) **
 109. [997. Find the Town Judge](problem/997.md) *
 110. [1341. The K Weakest Rows in a Matrix](problem/1341.md)
