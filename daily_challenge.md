@@ -80,3 +80,4 @@ Contest 208
 - 2021-03-06 [820. Short Encoding of Words](problem/820.md)
 - 2021-03-07 [706. Design HashMap](problem/706.md)
 - 2021-03-08 [1332. Remove Palindromic Subsequences](problem/1332.md)
+- 2021-03-09 [623. Add One Row to Tree](problem/623.md)

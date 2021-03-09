@@ -115,6 +115,11 @@
 6. [111. Minimum Depth of Binary Tree](problem/111.md)
 7. [107. Binary Tree Level Order Traversal II](problem/107.md)
 8. [429. N-ary Tree Level Order Traversal](problem/429.md)
+9. [623. Add One Row to Tree](problem/623.md)
+10. [236. Lowest Common Ancestor of a Binary Tree](problem/236.md)
+11. [235. Lowest Common Ancestor of a Binary Search Tree](problem/235.md)
+12. [987. Vertical Order Traversal of a Binary Tree](problem/987.md)
+13. [103. Binary Tree Zigzag Level Order Traversal](problem/103.md)
 
 ##### BrainTeaser
 1. [292. Nim Game](problem/292.md)
@@ -416,7 +421,7 @@
 31. [505. The Maze II](problem/505.md) ** (*need to review*)
 32. [834. Sum of Distances in Tree](problem/834) (!!!!!) (*need to review*)
 35. [287. Find the Duplicate Number](problem/287.md) * (*need to review*)
-36. [987. Vertical Order Traversal of a Binary Tree](problem/987.md) (\*\*, V)
+36. [987. Vertical Order Traversal of a Binary Tree](problem/987.md) (\*\*, V, V)
 37. [288. Unique Word Abbreviation](problem/288.md) *
 38. [562. Longest Line of Consecutive One in Matrix](problem/562.md)
 39. [188. Best Time to Buy and Sell Stock IV](problem/188.md) (!!!!!)
@@ -474,7 +479,7 @@
 32. [468. Validate IP Address](problem/468.md) **
 33. [1123. Lowest Common Ancestor of Deepest Leaves](problem/1123.md) **
 34. [34. Find First and Last Position of Element in Sorted Array](problem/34.md)
-35. [236. Lowest Common Ancestor of a Binary Tree](problem/236.md) ** (V)
+35. [236. Lowest Common Ancestor of a Binary Tree](problem/236.md) ** (V, V)
 36. [76. Minimum Window Substring](problem/76.md) **
 37. [8. String to Integer (atoi)](problem/8.md)
 38. [199. Binary Tree Right Side View](problem/199.md)
@@ -511,7 +516,7 @@
 10. [256. Paint House](problem/256.md) * (V, V) (高頻)
 11. [605. Can Place Flowers](problem/605.md) (V, \*, V)
 12. [170. Two Sum III - Data structure design](problem/170.md)  (V, V)
-13. [235. Lowest Common Ancestor of a Binary Search Tree](problem/235.md) * (*need to review*, !)
+13. [235. Lowest Common Ancestor of a Binary Search Tree](problem/235.md) * (*need to review*, !, V)
 14. [156. Binary Tree Upside Down](problem/156.md) (!!!) (*need to review*, !)
 15. [671. Second Minimum Node In a Binary Tree](problem/671.md) (V, V)
 16. [698. Partition to K Equal Sum Subsets](problem/698.md) ** (*need to review*, !)
@@ -575,7 +580,7 @@
 33. [33. Search in Rotated Sorted Array](problem/33.md) * (V) (LinkedIn)
 34. [153. Find Minimum in Rotated Sorted Array](problem/153.md) * (V)
 35. [340. Longest Substring with At Most K Distinct Characters](problem/340.md) (V)
-36. [103. Binary Tree Zigzag Level Order Traversal](problem/103.md) (V)
+36. [103. Binary Tree Zigzag Level Order Traversal](problem/103.md) (V, V)
 37. [124. Binary Tree Maximum Path Sum](problem/124.md) (*need to review*)
 38. [611. Valid Triangle Number](problem/611.md) ** (*need to review*)
 39. [17. Letter Combinations of a Phone Number](problem/17.md) * (V)
