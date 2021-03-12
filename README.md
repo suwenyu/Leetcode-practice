@@ -210,6 +210,7 @@
 
 ##### Two Pointer
 1. [845. Longest Mountain in Array](problem/845.md) **
+2. [1461. Check If a String Contains All Binary Codes of Size K](problem/1461.md)
 
 
 ##### Trie
