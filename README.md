@@ -105,6 +105,7 @@
 7. [148. Sort List](problem/148.md) * (*review*)
 8. [141. Linked List Cycle](problem/141.md)
 9. [142. Linked List Cycle II](problem/142.md)
+10. [1721. Swapping Nodes in a Linked List](problem/1721,md)
 
 ##### Tree
 1. [617. Merge Two Binary Trees](problem/617.md)
