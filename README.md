@@ -18,6 +18,7 @@
 13. [1360. Number of Days Between Two Dates](problem/1360.md) *
 14. [1374. Generate a String With Characters That Have Odd Counts](problem/1374.md) *
 15. [1041. Robot Bounded In Circle](problem/1041.md) *
+16. [478. Generate Random Point in a Circle](problem/478.md)
 
 ##### String
 1. [804. Unique Morse Code Words](problem/804.md)
