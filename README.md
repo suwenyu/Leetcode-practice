@@ -153,6 +153,7 @@
 5. [1094. Car Pooling](problem/1094.md)
 6. [1599. Maximum Profit of Operating a Centennial Wheel](problem/1599.md)
 7. [12. Integer to Roman](problem/12.md)
+8. [376. Wiggle Subsequence](problem/376.md)a
 
 ##### Depth First Search
 1. [695. Max Area of Island](problem/695.md)
