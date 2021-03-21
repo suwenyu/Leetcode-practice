@@ -86,6 +86,7 @@ Contest 208
 - 2021-03-12 [1461. Check If a String Contains All Binary Codes of Size K](problem/1461.md)
 - 2021-03-13 [823. Binary Trees With Factors](problem/823.md)
 - 2021-03-14 [1721. Swapping Nodes in a Linked List](problem/1721,md)
-- 2021-03-16 [714. Best Time to Buy and Sell Stock with Transaction Fee](problem/714.md)
-- 2021-03-17 [478. Generate Random Point in a Circle](problem/478.md)
-- 2021-03-18 [376. Wiggle Subsequence](problem/376.md)
+- 2021-03-16 [714. Best Time to Buy and Sell Stock with Transaction Fee](problem/714.md) *review*
+- 2021-03-17 [478. Generate Random Point in a Circle](problem/478.md) *review*
+- 2021-03-18 [376. Wiggle Subsequence](problem/376.md) *review*
+- 2021-03-21 [869. Reordered Power of 2](problem/869.md) *review*

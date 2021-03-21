@@ -13,7 +13,7 @@
 8. [172. Factorial Trailing Zeroes](problem/172.md) *
 9. [1185. Day of the Week](problem/1185.md) **
 10. [1154. Day of the Year](problem/1154.md)
-11. [869. Reordered Power of 2](problem/869.md) *
+11. [869. Reordered Power of 2](problem/869.md) * (*review*)
 12. [1344. Angle Between Hands of a Clock](problem/1344.md) *
 13. [1360. Number of Days Between Two Dates](problem/1360.md) *
 14. [1374. Generate a String With Characters That Have Odd Counts](problem/1374.md) *
