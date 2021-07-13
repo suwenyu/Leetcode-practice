@@ -92,3 +92,4 @@ Contest 208
 - 2021-03-21 [869. Reordered Power of 2](problem/869.md) *review*
 
 - 2021-07-13 [205. Isomorphic Strings](problem/205.md)
+- 2021-07-14 [162. Find Peak Element](problem/162.md)
