@@ -97,3 +97,4 @@ Contest 208
 - 2021-07-16 [611. Valid Triangle Number](problem/611.md) *review*
 - 2021-07-17 [18. 4Sum](problem/18.md) *review*
 - 2021-07-18 [927. Three Equal Parts](problem/927.md) *review* *hard*
+- 2021-07-19 [25. Reverse Nodes in k-Group](problem/25.md) *review* *hard*
