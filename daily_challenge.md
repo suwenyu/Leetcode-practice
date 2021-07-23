@@ -102,3 +102,4 @@ Contest 208
 - 2021-07-21 [384. Shuffle an Array](problem/384.md)
 - 2021-07-22 [838. Push Dominoes](problem/838.md)
 - 2021-07-23 [915. Partition Array into Disjoint Intervals](problem/915.md)
+- 2021-07-24 [814. Binary Tree Pruning](problem/814.md)
