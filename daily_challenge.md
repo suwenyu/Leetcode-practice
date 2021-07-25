@@ -103,3 +103,10 @@ Contest 208
 - 2021-07-22 [838. Push Dominoes](problem/838.md)
 - 2021-07-23 [915. Partition Array into Disjoint Intervals](problem/915.md)
 - 2021-07-24 [814. Binary Tree Pruning](problem/814.md)
+
+Biweekly Contest
+
+- 2021-07-24 [1941. Check if All Characters Have Equal Number of Occurrences](problem/1941.md)
+- 2021-07-24 [1942. The Number of the Smallest Unoccupied Chair](problem/1942.md) *review*
+- 2021-07-24 [1943. Describe the Painting](problem/1943.md)
+- 2021-07-24 [1944. Number of Visible People in a Queue](problem/1944.md) *review* *hard*
