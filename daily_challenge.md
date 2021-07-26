@@ -110,3 +110,5 @@ Biweekly Contest
 - 2021-07-24 [1942. The Number of the Smallest Unoccupied Chair](problem/1942.md) *review*
 - 2021-07-24 [1943. Describe the Painting](problem/1943.md)
 - 2021-07-24 [1944. Number of Visible People in a Queue](problem/1944.md) *review* *hard*
+
+- 2021-07-27 [108. Convert Sorted Array to Binary Search Tree](problem/108.md)
