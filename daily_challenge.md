@@ -112,3 +112,4 @@ Biweekly Contest
 - 2021-07-24 [1944. Number of Visible People in a Queue](problem/1944.md) *review* *hard*
 
 - 2021-07-27 [108. Convert Sorted Array to Binary Search Tree](problem/108.md)
+- 2021-07-28 [16. 3Sum Closest](problem/16.md)
