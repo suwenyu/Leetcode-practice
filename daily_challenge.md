@@ -113,3 +113,4 @@ Biweekly Contest
 
 - 2021-07-27 [108. Convert Sorted Array to Binary Search Tree](problem/108.md)
 - 2021-07-28 [16. 3Sum Closest](problem/16.md)
+- 2021-07-29 [932. Beautiful Array](problem/932.md) *review*
