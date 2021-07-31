@@ -116,3 +116,4 @@ Biweekly Contest
 - 2021-07-29 [932. Beautiful Array](problem/932.md) *review*
 - 2021-07-30 [542. 01 Matrix](problem/542.md)
 - 2021-07-31 [677. Map Sum Pairs](problem/677.md)
+- 2021-08-01 [42. Trapping Rain Water](problem/42.md)
