@@ -117,3 +117,10 @@ Biweekly Contest
 - 2021-07-30 [542. 01 Matrix](problem/542.md)
 - 2021-07-31 [677. Map Sum Pairs](problem/677.md)
 - 2021-08-01 [42. Trapping Rain Water](problem/42.md)
+
+Weekly Contest
+
+- 2021-08-01 [1952. Three Divisors](problem/1952.md)
+- 2021-08-01 [1953. Maximum Number of Weeks for Which You Can Work](problem/1953.md)
+- 2021-08-01 [1954. Minimum Garden Perimeter to Collect Enough Apples](problem/1954.md)
+- 2021-08-01 [1955. Count Number of Special Subsequences](problem/1955.md)
