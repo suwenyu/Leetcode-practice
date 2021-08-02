@@ -124,3 +124,4 @@ Weekly Contest
 - 2021-08-01 [1953. Maximum Number of Weeks for Which You Can Work](problem/1953.md)
 - 2021-08-01 [1954. Minimum Garden Perimeter to Collect Enough Apples](problem/1954.md)
 - 2021-08-01 [1955. Count Number of Special Subsequences](problem/1955.md)
+- 2021-08-03 [1. Two Sum](problem/1.md)
