@@ -127,3 +127,4 @@ Weekly Contest
 - 2021-08-03 [1. Two Sum](problem/1.md)
 - 2021-08-04 [90. Subsets II](problem/90.md)
 - 2021-08-05 [113. Path Sum II](problem/113.md)
+- 2021-08-06 [877. Stone Game](problem/877.md)
