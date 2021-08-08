@@ -141,4 +141,6 @@ Weekly Contest
 
 - 2021-08-08 [1961. Check If String Is a Prefix of Array](problem/1961.md)
 - 2021-08-08 [1962. Remove Stones to Minimize the Total](problem/1962.md)
-- 2021-08-09 [1963. Minimum Number of Swaps to Make the String Balanced](problem/1963.md)
+- 2021-08-08 [1963. Minimum Number of Swaps to Make the String Balanced](problem/1963.md)
+
+- 2021-08-08 [132. Palindrome Partitioning II](problem/132.md)
