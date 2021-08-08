@@ -124,8 +124,21 @@ Weekly Contest
 - 2021-08-01 [1953. Maximum Number of Weeks for Which You Can Work](problem/1953.md)
 - 2021-08-01 [1954. Minimum Garden Perimeter to Collect Enough Apples](problem/1954.md)
 - 2021-08-01 [1955. Count Number of Special Subsequences](problem/1955.md)
+
 - 2021-08-03 [1. Two Sum](problem/1.md)
 - 2021-08-04 [90. Subsets II](problem/90.md)
 - 2021-08-05 [113. Path Sum II](problem/113.md)
 - 2021-08-06 [877. Stone Game](problem/877.md)
 - 2021-08-07 [429. N-ary Tree Level Order Traversal](problem/429.md)
+
+Biweekly Contest
+
+- 2021-08-07 [1957. Delete Characters to Make Fancy String](problem/1957.md)
+- 2021-08-07 [1958. Check if Move is Legal](problem/1958.md)
+- 2021-08-08 [1959. Minimum Total Space Wasted With K Resizing Operations](problem/1959.md)
+
+Weekly Contest
+
+- 2021-08-08 [1961. Check If String Is a Prefix of Array](problem/1961.md)
+- 2021-08-08 [1962. Remove Stones to Minimize the Total](problem/1962.md)
+- 2021-08-09 [1963. Minimum Number of Swaps to Make the String Balanced](problem/1963.md)
