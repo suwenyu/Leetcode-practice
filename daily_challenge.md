@@ -144,3 +144,4 @@ Weekly Contest
 - 2021-08-08 [1963. Minimum Number of Swaps to Make the String Balanced](problem/1963.md)
 
 - 2021-08-08 [132. Palindrome Partitioning II](problem/132.md)
+- 2021-08-10 [415. Add Strings](problem/415.md)
