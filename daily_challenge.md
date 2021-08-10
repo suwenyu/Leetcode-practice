@@ -145,3 +145,4 @@ Weekly Contest
 
 - 2021-08-08 [132. Palindrome Partitioning II](problem/132.md)
 - 2021-08-10 [415. Add Strings](problem/415.md)
+- 2021-08-11 [926. Flip String to Monotone Increasing](problem/926.md)
