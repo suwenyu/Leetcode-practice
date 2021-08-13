@@ -148,3 +148,4 @@ Weekly Contest
 - 2021-08-11 [926. Flip String to Monotone Increasing](problem/926.md)
 - 2021-08-12 [954. Array of Doubled Pairs](problem/954.md)
 - 2021-08-13 [49. Group Anagrams](problem/49.md)
+- 2021-08-14 [73. Set Matrix Zeroes](problem/73.md)
