@@ -149,3 +149,9 @@ Weekly Contest
 - 2021-08-12 [954. Array of Doubled Pairs](problem/954.md)
 - 2021-08-13 [49. Group Anagrams](problem/49.md)
 - 2021-08-14 [73. Set Matrix Zeroes](problem/73.md)
+
+Weekly Contest
+
+- 2021-08-15 [1967. Number of Strings That Appear as Substrings in Word](problem/1967.md)
+- 2021-08-15 [1968. Array With Elements Not Equal to Average of Neighbors](problem/1968.md)
+- 2021-08-15 [1969. Minimum Non-Zero Product of the Array Elements](problem/1969.md)
