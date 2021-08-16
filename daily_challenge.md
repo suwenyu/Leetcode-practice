@@ -155,3 +155,5 @@ Weekly Contest
 - 2021-08-15 [1967. Number of Strings That Appear as Substrings in Word](problem/1967.md)
 - 2021-08-15 [1968. Array With Elements Not Equal to Average of Neighbors](problem/1968.md)
 - 2021-08-15 [1969. Minimum Non-Zero Product of the Array Elements](problem/1969.md)
+
+- 2021-08-17 [303. Range Sum Query - Immutable](problem/303.md)
