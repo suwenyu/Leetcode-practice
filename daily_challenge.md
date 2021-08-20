@@ -160,3 +160,4 @@ Weekly Contest
 - 2021-08-18 [1448. Count Good Nodes in Binary Tree](problem/1448.md)
 - 2021-08-19 [91. Decode Ways](problem/91.md) *review*
 - 2021-08-20 [1339. Maximum Product of Splitted Binary Tree](problem/1339.md) *review*
+- 2021-08-21 [36. Valid Sudoku](problem/36.md) *review*
