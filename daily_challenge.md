@@ -161,3 +161,15 @@ Weekly Contest
 - 2021-08-19 [91. Decode Ways](problem/91.md) *review*
 - 2021-08-20 [1339. Maximum Product of Splitted Binary Tree](problem/1339.md) *review*
 - 2021-08-21 [36. Valid Sudoku](problem/36.md) *review*
+
+BiWeekly Contest
+
+- 2021-08-21 [1974. Minimum Time to Type Word Using Special Typewriter](problem/1974.md)
+- 2021-08-21 [1975. Maximum Matrix Sum](problem/1975.md)
+- 2021-08-21 [1976. Number of Ways to Arrive at Destination](problem/1976.md) *review*
+
+Weekly Contest
+
+- 2021-08-22 [1979. Find Greatest Common Divisor of Array](problem/1979.md)
+- 2021-08-22 [1980. Find Unique Binary String](problem/1980.md)
+- 2021-08-22 [1981. Minimize the Difference Between Target and Chosen Elements](problem/1981.md) *review*
