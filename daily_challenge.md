@@ -175,3 +175,4 @@ Weekly Contest
 - 2021-08-22 [1981. Minimize the Difference Between Target and Chosen Elements](problem/1981.md) *review*
 - 2021-08-23 [653. Two Sum IV - Input is a BST](problem/653.md)
 - 2021-08-24 [537. Complex Number Multiplication](problem/537.md)
+- 2021-08-25 [633. Sum of Square Numbers](problem/633.md)
