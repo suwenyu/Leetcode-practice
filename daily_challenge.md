@@ -178,3 +178,5 @@ Weekly Contest
 - 2021-08-25 [633. Sum of Square Numbers](problem/633.md)
 - 2021-08-26 [331. Verify Preorder Serialization of a Binary Tree](problem/331.md)
 - 2021-08-27 [522. Longest Uncommon Subsequence II](problem/522.md)
+
+- 2021-09-06 [1629. Slowest Key](problem/1629.md)
