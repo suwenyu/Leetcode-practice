@@ -180,3 +180,4 @@ Weekly Contest
 - 2021-08-27 [522. Longest Uncommon Subsequence II](problem/522.md)
 
 - 2021-09-06 [1629. Slowest Key](problem/1629.md)
+- 2021-09-07 [206. Reverse Linked List](problem/206.md)
